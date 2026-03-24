@@ -1,0 +1,2001 @@
+age,gender,education,marital_status,num_dependents,annual_income,credit_score,existing_debt,num_credit_cards,months_employed,loan_amount,loan_term_months,loan_purpose,interest_rate,property_ownership,loan_default
+56,Female,High School,Married,2,51400.0,575.0,12800,4.0,11.0,10300,36,Medical,9.26,Own,1
+69,Male,Bachelor,Married,1,40200.0,662.0,25000,3.0,15.0,13100,48,Medical,11.19,Own,0
+46,Female,Bachelor,Married,0,33800.0,583.0,11500,6.0,40.0,14800,60,Car,10.12,Rent,0
+32,Female,Bachelor,Divorced,3,79300.0,640.0,49500,7.0,28.0,9500,24,Home,10.09,Mortgage,0
+60,Male,High School,Single,4,45700.0,700.0,33600,,64.0,9000,12,Home,9.5,Rent,1
+25,Male,PhD,Married,0,107400.0,626.0,84500,2.0,23.0,15000,36,Education,6.02,Mortgage,0
+38,Male,Bachelor,Married,0,62100.0,776.0,21900,1.0,94.0,20700,60,Education,8.42,Mortgage,0
+56,Female,Bachelor,Married,2,37200.0,689.0,13300,3.0,27.0,26600,24,Education,10.38,Own,1
+36,Female,PhD,Divorced,1,81700.0,544.0,64300,2.0,,10300,60,Personal,9.91,Own,0
+40,Male,Bachelor,Divorced,2,46300.0,676.0,32600,5.0,1.0,13800,60,Education,13.42,Mortgage,1
+28,Female,PhD,Married,1,102800.0,767.0,13500,3.0,50.0,17600,12,Personal,6.75,Own,0
+28,Male,Bachelor,Single,2,29000.0,693.0,14500,6.0,37.0,30200,36,Home,6.81,Rent,0
+41,Male,High School,Single,0,25300.0,671.0,5700,4.0,38.0,10700,36,Car,6.39,Mortgage,0
+53,Female,Master,Married,3,62500.0,626.0,49700,0.0,75.0,18800,36,Car,3.0,Mortgage,1
+57,Male,Bachelor,Divorced,1,41400.0,642.0,8200,4.0,23.0,36700,36,Education,10.34,Own,0
+41,Female,Master,Single,4,666219.0,,31300,5.0,259.0,15500,48,Car,8.51,Mortgage,0
+20,Male,PhD,Single,4,114400.0,454.0,64700,1.0,140.0,10000,36,Medical,7.77,Rent,0
+39,Female,Master,Single,0,54800.0,687.0,41400,7.0,1.0,24000,60,Medical,6.05,Mortgage,0
+19,Male,Bachelor,Married,2,71000.0,730.0,49200,4.0,109.0,15000,36,Home,10.15,Own,0
+41,Male,Master,Single,2,62500.0,,17000,5.0,55.0,1000,36,Medical,8.55,Rent,0
+61,Female,Bachelor,Married,0,35800.0,669.0,17900,0.0,33.0,27400,48,Home,13.13,Mortgage,1
+47,Male,Bachelor,Married,4,43900.0,678.0,33700,3.0,42.0,35400,36,Education,8.57,Own,0
+55,Female,Master,Married,4,68100.0,715.0,41900,2.0,89.0,24700,36,Personal,9.76,Own,0
+19,Female,High School,Married,2,40800.0,651.0,23700,5.0,145.0,37500,48,Personal,13.22,Own,1
+38,Female,Master,Married,1,62600.0,693.0,39300,5.0,39.0,32700,60,Car,7.51,Rent,0
+50,Female,Master,Single,3,58100.0,557.0,18900,6.0,,14700,36,Car,7.2,Mortgage,0
+29,Female,Master,Married,1,73500.0,569.0,44900,1.0,49.0,49600,36,Car,12.78,Own,1
+39,Female,Bachelor,Married,4,57000.0,684.0,15000,3.0,4.0,28900,60,Home,3.82,Own,0
+61,Female,Master,Divorced,1,82800.0,632.0,33100,5.0,48.0,30100,12,Personal,7.72,Rent,0
+42,Female,Bachelor,Single,3,30800.0,524.0,22300,5.0,79.0,13100,36,Car,7.65,Own,0
+66,Male,Master,Single,1,42300.0,678.0,4800,2.0,21.0,6400,36,Personal,5.97,Rent,0
+44,Male,High School,Single,1,50700.0,548.0,19800,7.0,4.0,12000,12,Personal,10.09,Rent,1
+59,Female,High School,Married,1,,850.0,13100,0.0,57.0,36000,36,Car,6.79,Rent,0
+45,Male,Bachelor,Married,1,84100.0,476.0,20100,4.0,20.0,45500,12,Car,8.82,Own,1
+33,Male,Bachelor,Single,0,61800.0,654.0,42500,6.0,14.0,28500,60,Personal,5.7,Own,0
+32,Male,Bachelor,Married,4,34300.0,561.0,20200,3.0,56.0,26100,48,Home,9.36,Mortgage,0
+64,Male,Master,Single,3,85600.0,723.0,15300,2.0,168.0,36600,12,Education,14.74,Own,0
+68,Female,Bachelor,Single,4,69100.0,618.0,30800,2.0,66.0,41600,12,Home,8.34,Mortgage,0
+61,Female,Bachelor,Married,0,70300.0,731.0,30000,4.0,32.0,7600,48,Car,8.47,Mortgage,0
+69,Male,High School,Single,0,52600.0,711.0,10500,3.0,44.0,44500,36,Home,4.94,Own,0
+20,Female,Bachelor,Married,0,62700.0,565.0,41400,3.0,7.0,20400,36,Car,11.03,Mortgage,1
+54,Female,Bachelor,Married,0,70500.0,592.0,25100,6.0,81.0,38000,24,Medical,8.24,Own,0
+68,Male,High School,Married,1,38200.0,622.0,24200,0.0,45.0,12200,24,Personal,9.68,Mortgage,1
+24,Female,Bachelor,Single,4,29100.0,645.0,6800,3.0,162.0,37400,24,Car,11.35,Rent,0
+38,Male,High School,Divorced,2,34500.0,634.0,11100,6.0,187.0,7800,24,Education,7.96,Own,0
+26,Male,High School,Married,3,,708.0,7800,5.0,21.0,38500,36,Car,11.56,Mortgage,1
+56,Female,Bachelor,Married,0,80000.0,669.0,16000,4.0,215.0,32700,48,Home,11.76,Mortgage,0
+35,Male,High School,Single,4,42300.0,601.0,30400,3.0,151.0,6100,36,Medical,9.52,Rent,0
+21,Female,Master,Single,0,91500.0,577.0,16100,7.0,49.0,40300,36,Personal,9.1,Rent,0
+42,Female,Master,Single,0,65100.0,,10900,7.0,19.0,13300,36,Home,8.58,Mortgage,0
+31,Male,Bachelor,Single,0,57600.0,676.0,43700,0.0,67.0,38700,36,Personal,10.18,Rent,0
+67,Female,PhD,Married,0,107500.0,635.0,59400,2.0,15.0,26700,24,Personal,10.05,Own,0
+26,Female,Bachelor,Divorced,0,45300.0,816.0,7700,5.0,48.0,10000,36,Home,4.21,Rent,0
+43,Male,Bachelor,Married,3,,650.0,41400,3.0,1.0,12800,48,Medical,6.48,Mortgage,0
+19,Female,PhD,Single,4,92400.0,665.0,18800,4.0,48.0,71800,48,Car,11.37,Mortgage,0
+37,Female,High School,Married,0,26800.0,,17100,3.0,145.0,52700,36,Medical,9.24,Mortgage,1
+45,Female,PhD,Single,0,98100.0,,12200,6.0,13.0,22500,36,Education,7.85,Own,1
+64,Female,High School,Married,0,38100.0,560.0,20500,1.0,72.0,30100,24,Home,13.79,Mortgage,1
+24,Male,Bachelor,Married,0,,607.0,25400,7.0,17.0,39400,60,Personal,10.94,Own,1
+61,Female,High School,Married,1,36200.0,531.0,8900,0.0,59.0,9500,60,Education,11.74,Mortgage,0
+25,Female,Master,Divorced,1,86000.0,558.0,47300,2.0,58.0,33300,36,Personal,7.84,Rent,1
+64,Female,Bachelor,Single,2,38100.0,703.0,20300,1.0,10.0,36800,36,Home,9.66,Own,0
+52,Female,Master,Married,0,63500.0,581.0,41800,4.0,44.0,29300,36,Personal,8.26,Mortgage,0
+31,Female,Bachelor,Divorced,2,65300.0,647.0,46600,3.0,94.0,41700,36,Car,5.39,Own,0
+34,Male,Bachelor,Married,3,61800.0,697.0,28200,0.0,,26800,60,Personal,9.09,Rent,0
+53,Female,High School,Married,2,15000.0,726.0,6600,5.0,59.0,38300,48,Education,8.33,Rent,1
+67,Female,Bachelor,Divorced,4,64900.0,673.0,34700,6.0,54.0,27800,48,Car,8.28,Mortgage,0
+57,Female,PhD,Single,1,57800.0,,35300,,14.0,6600,36,Home,11.47,Rent,0
+21,Female,Bachelor,Divorced,1,65300.0,728.0,22800,3.0,120.0,36300,12,Personal,8.17,Own,1
+19,Male,Master,Single,0,96200.0,683.0,43600,7.0,,40600,24,Education,8.71,Own,0
+23,Male,Master,Married,0,34900.0,733.0,17800,3.0,21.0,23200,24,Personal,8.86,Rent,0
+59,Male,Bachelor,Divorced,3,47500.0,479.0,37600,3.0,9.0,8900,24,Car,10.01,Own,1
+21,Male,Bachelor,Single,3,78900.0,643.0,40300,5.0,31.0,35400,60,Medical,9.39,Mortgage,1
+46,Female,High School,Married,4,52900.0,654.0,13600,3.0,63.0,28800,36,Medical,10.56,Mortgage,0
+35,Female,High School,Single,0,33200.0,641.0,17000,0.0,47.0,28600,60,Medical,4.65,Rent,1
+43,Female,High School,Divorced,0,17200.0,660.0,11600,5.0,62.0,27300,48,Personal,8.93,Mortgage,1
+61,Male,Bachelor,Married,3,62400.0,617.0,43700,5.0,75.0,37100,48,Home,8.16,Rent,0
+51,Female,Bachelor,Married,3,78400.0,713.0,51800,7.0,28.0,28500,24,Education,4.55,Rent,0
+27,Male,Bachelor,Married,3,57200.0,607.0,41300,1.0,35.0,19300,36,Education,4.17,Own,0
+53,Male,Bachelor,Married,1,33800.0,633.0,11300,4.0,206.0,5600,36,Car,6.62,Rent,0
+31,Female,Bachelor,Married,2,44900.0,766.0,20400,5.0,165.0,19500,60,Car,6.54,Mortgage,0
+48,Female,Bachelor,Married,2,99000.0,754.0,63900,1.0,26.0,35900,60,Education,7.78,Mortgage,0
+65,Male,Master,Married,0,57900.0,663.0,16500,0.0,55.0,21000,24,Car,8.88,Mortgage,0
+32,Male,High School,Married,1,23900.0,599.0,8600,4.0,15.0,35900,36,Car,9.98,Mortgage,1
+25,Male,High School,Single,3,40700.0,519.0,27700,5.0,8.0,8000,36,Personal,4.79,Own,0
+31,Male,Master,Single,0,95400.0,639.0,61000,2.0,70.0,12900,24,Home,5.79,Own,0
+40,Female,Bachelor,Single,1,15000.0,691.0,11700,1.0,,12200,48,Car,5.89,Rent,1
+57,Male,Bachelor,Divorced,4,15000.0,592.0,12000,0.0,9.0,26600,48,Medical,8.14,Mortgage,1
+38,Female,Bachelor,Married,1,40100.0,650.0,10800,0.0,68.0,46500,48,Home,8.58,Rent,1
+33,Male,Bachelor,Married,0,25600.0,622.0,18700,0.0,118.0,51900,48,Education,11.5,Mortgage,1
+62,Male,High School,Married,2,38300.0,512.0,6400,6.0,130.0,37700,36,Car,5.75,Mortgage,1
+35,Male,Bachelor,Single,3,56000.0,659.0,33400,4.0,44.0,1500,36,Personal,10.83,Rent,1
+64,Male,Bachelor,Single,4,20000.0,685.0,5100,7.0,31.0,16000,48,Car,4.06,Own,1
+41,Male,Bachelor,Married,1,28100.0,,8700,3.0,7.0,1000,60,Home,8.56,Own,1
+43,Male,Master,Married,0,115600.0,779.0,88100,2.0,76.0,27000,12,Education,10.15,Rent,1
+42,Female,Master,Divorced,0,47400.0,624.0,13500,4.0,140.0,44500,36,Home,10.4,Mortgage,1
+62,Male,Bachelor,Married,3,73500.0,618.0,42000,4.0,106.0,34800,12,Personal,13.57,Rent,1
+58,Female,Master,Married,0,49800.0,823.0,11200,7.0,67.0,3800,48,Medical,15.63,Rent,0
+46,Male,Bachelor,Married,0,34700.0,550.0,5700,7.0,0.0,41700,24,Personal,9.72,Mortgage,0
+32,Female,Bachelor,Divorced,3,65200.0,600.0,22000,5.0,,39500,48,Car,4.55,Own,1
+62,Female,Master,Married,4,75700.0,679.0,40600,6.0,25.0,43500,36,Personal,19.93,Own,0
+18,Female,Bachelor,Single,2,22600.0,740.0,6200,1.0,108.0,38300,48,Education,11.93,Rent,1
+42,Female,Bachelor,Married,2,31600.0,725.0,9800,2.0,3.0,18700,36,Home,11.59,Rent,0
+24,Male,High School,Married,1,35700.0,567.0,21300,0.0,36.0,2700,36,Home,7.22,Mortgage,0
+26,Female,Bachelor,Married,4,38100.0,780.0,6600,4.0,7.0,39100,36,Personal,8.13,Own,0
+41,Male,Master,Single,1,77300.0,687.0,31900,2.0,52.0,34300,36,Personal,6.02,Rent,0
+18,Female,Master,Divorced,2,91100.0,584.0,69200,1.0,75.0,1300,48,Home,10.52,Rent,0
+61,Male,Master,Divorced,3,63700.0,591.0,24100,3.0,49.0,13400,48,Personal,7.11,Rent,1
+25,Male,Master,Single,0,75800.0,656.0,30600,2.0,76.0,13800,36,Personal,10.66,Own,0
+41,Female,Bachelor,Divorced,2,66500.0,822.0,41000,6.0,45.0,33700,36,Car,6.28,Mortgage,0
+28,Female,Bachelor,Single,4,66100.0,667.0,42700,6.0,10.0,24800,12,Medical,11.35,Rent,1
+68,Female,High School,Single,2,33300.0,821.0,21300,0.0,23.0,21800,48,Home,9.35,Mortgage,0
+34,Female,Bachelor,Single,4,38400.0,720.0,30700,6.0,151.0,20000,24,Personal,12.31,Rent,0
+25,Female,Bachelor,Single,4,43500.0,,6500,4.0,16.0,11500,60,Medical,14.83,Rent,0
+52,Male,PhD,Married,4,77700.0,,61200,3.0,3.0,36600,36,Car,9.35,Mortgage,0
+52,Male,Bachelor,Single,1,47000.0,574.0,36000,7.0,23.0,16300,36,Personal,12.6,Own,1
+50,Male,Bachelor,Single,3,25500.0,601.0,17800,1.0,22.0,38900,24,Home,12.61,Own,1
+22,Male,Bachelor,Single,2,55300.0,672.0,23100,0.0,31.0,8300,12,Personal,8.44,Rent,0
+59,Female,Bachelor,Single,3,56400.0,648.0,40000,7.0,39.0,19100,36,Home,9.28,Mortgage,1
+56,Male,Master,Single,0,67500.0,721.0,17200,3.0,234.0,48600,36,Personal,9.31,Rent,0
+58,Female,High School,Married,2,28500.0,690.0,18600,5.0,68.0,27800,24,Education,7.19,Rent,1
+45,Male,Bachelor,Single,3,34700.0,641.0,8000,5.0,2.0,19100,48,Medical,7.22,Own,1
+24,Female,Master,Divorced,3,49300.0,786.0,33100,1.0,60.0,17500,36,Car,12.17,Own,0
+26,Female,Bachelor,Married,0,31500.0,612.0,16700,0.0,83.0,14600,24,Personal,6.37,Own,0
+25,Male,Bachelor,Single,4,82800.0,570.0,14000,6.0,108.0,30400,48,Car,8.05,Mortgage,0
+29,Male,Bachelor,Divorced,2,38100.0,687.0,27700,4.0,26.0,35800,60,Car,7.52,Mortgage,0
+51,Male,Master,Single,2,87100.0,649.0,43900,1.0,18.0,28000,36,Car,9.88,Own,1
+50,Male,High School,Single,0,658112.0,670.0,16000,6.0,88.0,24300,48,Personal,15.4,Own,0
+65,Male,Master,Single,4,63200.0,709.0,18900,3.0,72.0,32200,48,Education,7.93,Own,1
+40,Male,Master,Single,2,53800.0,635.0,38200,0.0,37.0,8100,60,Education,4.18,Own,1
+41,Male,Bachelor,Married,2,23600.0,799.0,11400,5.0,6.0,29500,24,Personal,8.82,Mortgage,1
+54,Female,PhD,Married,2,,671.0,47100,5.0,51.0,30200,60,Personal,5.58,Rent,0
+52,Female,Master,Single,4,68100.0,614.0,32300,2.0,3.0,28200,36,Home,9.27,Own,1
+61,Female,Master,Married,0,52200.0,697.0,30900,0.0,5.0,18300,36,Education,6.21,Rent,1
+57,Male,Master,Single,2,72900.0,643.0,42800,3.0,19.0,15700,36,Home,8.99,Own,0
+39,Female,High School,Married,3,36700.0,659.0,12900,,22.0,9400,24,Personal,4.92,Rent,1
+44,Male,High School,Single,4,63900.0,562.0,23600,2.0,30.0,42600,48,Personal,7.7,Mortgage,1
+52,Male,Bachelor,Single,1,58800.0,571.0,29000,6.0,20.0,24300,36,Personal,5.52,Rent,0
+18,Female,Bachelor,Single,0,26100.0,735.0,19500,3.0,2.0,19900,36,Personal,12.26,Own,1
+52,Male,Bachelor,Single,3,33300.0,,20700,6.0,8.0,18700,24,Education,6.33,Rent,1
+54,Female,Master,Married,2,66500.0,640.0,24800,6.0,6.0,13500,36,Car,10.16,Mortgage,0
+64,Female,Master,Married,1,80800.0,676.0,27100,0.0,27.0,18600,36,Car,9.04,Own,0
+31,Male,Bachelor,Single,0,71100.0,763.0,33200,6.0,11.0,39500,36,Home,9.1,Own,1
+20,Male,Master,Married,4,63300.0,611.0,44900,5.0,17.0,32000,36,Personal,9.62,Rent,1
+18,Male,Master,Married,1,91700.0,711.0,9700,,31.0,34900,12,Education,10.31,Rent,0
+22,Female,Bachelor,Divorced,1,59500.0,640.0,35500,5.0,13.0,36500,36,Personal,12.42,Own,0
+43,Male,High School,Single,3,33500.0,476.0,10300,6.0,14.0,51400,48,Personal,11.3,Own,0
+31,Male,Bachelor,Married,0,23200.0,,5700,7.0,86.0,25300,24,Personal,13.08,Own,0
+56,Male,Master,Divorced,3,95400.0,645.0,10400,5.0,38.0,19900,24,Education,5.31,Rent,0
+44,Female,Bachelor,Married,3,49300.0,,35900,0.0,93.0,30200,36,Home,4.48,Own,0
+26,Male,Bachelor,Married,2,49700.0,599.0,36700,6.0,35.0,32800,36,Car,13.47,Mortgage,1
+32,Male,High School,Single,4,15000.0,607.0,2100,7.0,115.0,24600,36,Medical,10.19,Rent,1
+32,Female,Master,Single,1,48300.0,746.0,22500,3.0,14.0,14300,60,Home,5.31,Rent,0
+43,Female,Master,Married,0,55700.0,623.0,11500,2.0,46.0,27200,48,Home,7.66,Rent,0
+59,Male,Master,Married,4,78800.0,497.0,49700,2.0,34.0,31500,48,Medical,10.11,Mortgage,1
+30,Male,PhD,Single,4,105700.0,689.0,59800,4.0,120.0,29200,36,Personal,8.36,Mortgage,0
+68,Male,Master,Married,0,74900.0,719.0,23100,2.0,26.0,2900,24,Personal,10.34,Mortgage,0
+49,Female,Master,Married,4,63400.0,718.0,11500,2.0,93.0,5900,36,Home,4.98,Rent,0
+56,Male,PhD,Married,2,101500.0,601.0,69200,3.0,40.0,33600,60,Personal,8.41,Mortgage,0
+66,Female,Master,Married,4,58300.0,,33300,1.0,59.0,20500,60,Medical,8.85,Rent,0
+69,Female,Bachelor,Married,2,54000.0,693.0,5700,1.0,105.0,51700,36,Personal,6.38,Rent,0
+49,Female,High School,Single,1,29500.0,727.0,15900,3.0,277.0,41100,24,Car,7.65,Own,1
+21,Male,Bachelor,Divorced,1,37300.0,690.0,24900,2.0,63.0,9800,24,Personal,7.11,Rent,1
+47,Female,Bachelor,Single,3,39500.0,712.0,20300,0.0,18.0,37300,12,Personal,5.17,Own,0
+54,Female,Bachelor,Single,2,45000.0,591.0,17900,5.0,17.0,44200,48,Education,6.65,Own,1
+40,Female,Bachelor,Single,1,56800.0,467.0,28900,6.0,18.0,19700,24,Car,9.07,Own,1
+56,Male,PhD,Single,4,117800.0,734.0,62900,5.0,5.0,24000,36,Personal,5.58,Mortgage,0
+62,Female,Master,Single,0,63600.0,574.0,34900,7.0,3.0,18400,48,Personal,6.48,Own,1
+32,Male,Master,Single,0,61400.0,636.0,47700,1.0,42.0,11500,24,Personal,3.39,Rent,1
+60,Male,Bachelor,Married,2,45000.0,715.0,10100,7.0,80.0,43900,36,Home,12.82,Mortgage,1
+46,Male,High School,Single,3,33500.0,652.0,18000,3.0,2.0,1000,24,Car,11.28,Rent,1
+53,Female,High School,Married,4,34600.0,706.0,8000,7.0,40.0,16900,36,Car,12.11,Rent,1
+30,Male,Bachelor,Single,2,29800.0,846.0,7400,0.0,22.0,19900,12,Personal,9.58,Mortgage,0
+49,Male,High School,Divorced,0,41700.0,694.0,23700,2.0,107.0,26900,36,Personal,9.38,Rent,0
+24,Male,High School,Married,2,29600.0,592.0,21900,3.0,8.0,10100,48,Home,7.87,Own,1
+68,Male,Master,Single,4,98800.0,534.0,20900,7.0,40.0,41300,48,Personal,12.4,Mortgage,0
+39,Female,Master,Married,1,57900.0,704.0,44800,1.0,170.0,3000,36,Medical,8.57,Own,0
+45,Female,Bachelor,Married,4,54000.0,657.0,17500,6.0,20.0,3100,48,Home,3.0,Mortgage,0
+19,Male,High School,Married,1,41300.0,540.0,15400,0.0,65.0,25700,24,Car,3.0,Own,0
+59,Male,Bachelor,Married,1,58900.0,744.0,12200,0.0,103.0,9600,48,Home,9.59,Rent,0
+62,Female,High School,Married,1,33900.0,708.0,18000,1.0,10.0,27500,24,Education,5.62,Rent,0
+23,Male,PhD,Married,2,71900.0,649.0,37200,0.0,235.0,16100,36,Home,8.79,Mortgage,0
+45,Male,Bachelor,Married,0,41000.0,825.0,16800,5.0,80.0,34700,24,Medical,10.78,Rent,0
+45,Female,Bachelor,Single,2,68400.0,,29600,6.0,7.0,13900,24,Personal,6.01,Mortgage,0
+61,Female,Bachelor,Married,0,56700.0,571.0,30400,1.0,18.0,42300,60,Education,7.6,Rent,0
+61,Male,High School,Married,4,40500.0,744.0,20600,5.0,47.0,32600,24,Home,7.71,Mortgage,0
+37,Female,Bachelor,Married,3,70300.0,670.0,25400,3.0,104.0,15900,36,Medical,5.9,Rent,1
+47,Male,Master,Single,4,94900.0,801.0,68200,4.0,10.0,32500,36,Car,4.21,Own,0
+28,Female,Bachelor,Married,2,67700.0,725.0,38400,6.0,63.0,26800,36,Personal,5.22,Mortgage,0
+45,Male,High School,Divorced,2,68700.0,689.0,16700,2.0,15.0,34400,60,Education,4.02,Own,0
+42,Male,Bachelor,Single,0,75400.0,684.0,24400,3.0,79.0,32200,60,Home,7.97,Rent,0
+56,Male,Bachelor,Married,2,37500.0,555.0,24400,5.0,55.0,29300,36,Medical,7.93,Mortgage,0
+50,Female,Master,Married,1,96600.0,609.0,16700,2.0,36.0,25800,12,Personal,6.92,Mortgage,0
+18,Female,Bachelor,Married,2,62600.0,667.0,39100,2.0,50.0,35900,24,Home,4.24,Rent,0
+44,Male,Bachelor,Married,0,38700.0,540.0,13600,5.0,100.0,39000,36,Car,11.82,Rent,1
+69,Male,Bachelor,Single,0,46600.0,687.0,22700,5.0,23.0,26600,24,Personal,6.63,Rent,0
+30,Female,Bachelor,Divorced,1,54900.0,591.0,16300,6.0,70.0,32300,36,Home,16.2,Mortgage,1
+58,Male,Bachelor,Married,0,48500.0,619.0,38300,1.0,8.0,36200,48,Home,11.1,Mortgage,1
+20,Male,Bachelor,Single,3,53000.0,707.0,38900,4.0,,44300,36,Medical,3.0,Rent,0
+56,Female,Bachelor,Single,4,34800.0,606.0,26100,6.0,67.0,42200,24,Personal,12.2,Rent,1
+23,Male,Master,Married,2,71400.0,688.0,16400,5.0,28.0,37400,36,Personal,6.39,Own,0
+25,Female,Bachelor,Single,3,54000.0,662.0,37200,2.0,76.0,20000,48,Car,5.72,Own,0
+44,Female,PhD,Single,2,81300.0,565.0,38600,2.0,39.0,9200,36,Car,7.68,Mortgage,0
+26,Male,Bachelor,Divorced,3,48000.0,721.0,28600,3.0,132.0,31700,24,Education,11.9,Mortgage,0
+54,Male,PhD,Single,2,70400.0,,17800,4.0,6.0,31600,36,Personal,10.07,Mortgage,0
+50,Male,Master,Married,1,33900.0,729.0,20300,4.0,7.0,20200,36,Medical,9.05,Mortgage,1
+68,Female,Bachelor,Single,0,15000.0,803.0,11100,7.0,89.0,9000,24,Car,6.03,Rent,0
+59,Female,Master,Married,0,82700.0,617.0,23800,7.0,89.0,44900,60,Car,11.33,Rent,1
+61,Female,High School,Married,1,51400.0,494.0,13500,2.0,31.0,30100,48,Personal,5.55,Rent,1
+41,Male,PhD,Single,3,126100.0,597.0,21800,4.0,160.0,10500,48,Education,11.63,Rent,0
+32,Female,Bachelor,Married,4,70700.0,727.0,20300,3.0,55.0,23500,60,Home,9.5,Rent,1
+49,Female,High School,Single,3,35000.0,643.0,16600,1.0,195.0,8900,48,Home,6.71,Rent,0
+49,Female,Bachelor,Divorced,0,55700.0,538.0,38000,2.0,36.0,33200,48,Personal,14.88,Rent,1
+41,Female,PhD,Divorced,4,105700.0,515.0,31200,0.0,11.0,47200,36,Personal,11.24,Mortgage,1
+58,Female,High School,Married,2,37400.0,764.0,20000,2.0,28.0,22800,36,Car,10.18,Mortgage,0
+69,Female,Bachelor,Married,4,45900.0,699.0,20000,2.0,189.0,23900,12,Car,8.81,Mortgage,0
+66,Female,Master,Single,3,80100.0,610.0,24200,1.0,22.0,21700,24,Home,5.07,Rent,1
+66,Male,Master,Married,1,73100.0,801.0,33400,5.0,151.0,22300,36,Home,8.61,Rent,0
+69,Male,Bachelor,Married,2,41700.0,850.0,9100,7.0,77.0,15700,36,Car,13.31,Own,0
+29,Female,High School,Single,3,35800.0,733.0,19600,5.0,28.0,41600,36,Car,4.37,Own,0
+56,Male,High School,Married,2,25500.0,710.0,4600,0.0,37.0,27300,36,Personal,10.2,Rent,1
+19,Female,Bachelor,Single,4,38400.0,692.0,23500,7.0,45.0,25800,48,Education,12.68,Own,0
+20,Female,Bachelor,Married,0,76300.0,718.0,17100,0.0,53.0,22300,12,Personal,12.83,Rent,0
+66,Female,PhD,Single,3,87900.0,807.0,70200,0.0,4.0,9700,24,Personal,5.8,Rent,0
+54,Male,High School,Married,1,30900.0,,20900,7.0,130.0,36300,24,Home,6.87,Own,1
+66,Male,Bachelor,Single,4,66500.0,623.0,22700,5.0,44.0,42100,24,Home,8.8,Rent,0
+34,Male,High School,Single,3,22000.0,646.0,8800,6.0,128.0,2700,36,Personal,9.86,Own,1
+66,Female,High School,Married,1,28200.0,696.0,7900,1.0,48.0,33500,48,Personal,12.35,Own,0
+19,Female,Bachelor,Divorced,3,66800.0,775.0,42600,4.0,27.0,35300,24,Education,7.9,Own,0
+19,Female,Bachelor,Married,4,,683.0,21000,0.0,40.0,40400,48,Home,11.34,Own,0
+45,Male,Bachelor,Single,3,19200.0,700.0,12100,7.0,85.0,39500,60,Personal,3.0,Rent,1
+40,Female,Master,Single,2,104400.0,704.0,11800,4.0,19.0,56600,36,Home,7.7,Rent,0
+54,Female,Bachelor,Divorced,4,65100.0,652.0,12700,3.0,150.0,29800,48,Home,11.33,Rent,0
+49,Male,PhD,Married,3,69200.0,617.0,24600,7.0,30.0,36900,24,Personal,11.0,Own,0
+50,Female,Master,Single,0,27700.0,656.0,4900,1.0,150.0,25100,48,Personal,5.63,Own,1
+18,Male,Bachelor,Divorced,3,64800.0,598.0,33700,4.0,102.0,15400,24,Medical,11.58,Mortgage,0
+36,Male,Master,Married,2,40700.0,599.0,5500,5.0,70.0,33500,48,Home,4.24,Rent,0
+19,Female,Bachelor,Divorced,1,67500.0,679.0,47400,6.0,30.0,36900,36,Education,12.09,Rent,0
+61,Male,High School,Divorced,1,35900.0,612.0,22700,5.0,42.0,29100,60,Medical,7.89,Rent,1
+43,Female,Master,Divorced,1,84400.0,798.0,21200,0.0,87.0,5100,36,Personal,7.15,Mortgage,0
+49,Female,High School,Single,0,,662.0,18600,6.0,38.0,7600,12,Education,7.61,Rent,0
+23,Female,Bachelor,Single,2,64800.0,759.0,27000,0.0,64.0,34200,36,Personal,9.64,Rent,0
+49,Male,Master,Married,4,72000.0,550.0,43700,6.0,75.0,20600,48,Home,14.74,Own,0
+21,Female,High School,Married,1,48600.0,553.0,18500,4.0,35.0,29300,36,Home,12.15,Rent,0
+28,Female,High School,Married,2,41300.0,641.0,5100,5.0,37.0,30800,60,Car,5.06,Rent,0
+34,Female,Master,Married,3,70200.0,725.0,20500,4.0,11.0,23600,48,Medical,5.38,Own,0
+55,Male,Bachelor,Married,0,30200.0,611.0,12900,3.0,13.0,21900,36,Personal,3.0,Own,0
+41,Male,High School,Married,2,31100.0,642.0,24300,7.0,113.0,23400,24,Personal,9.43,Mortgage,1
+22,Female,Bachelor,Single,2,46700.0,730.0,33500,1.0,88.0,32100,12,Home,7.99,Mortgage,0
+69,Male,Bachelor,Single,4,48600.0,619.0,11000,5.0,0.0,30800,60,Personal,10.38,Mortgage,1
+51,Female,Bachelor,Married,2,80300.0,589.0,48700,2.0,98.0,15400,60,Car,7.0,Mortgage,0
+23,Female,PhD,Married,4,57300.0,707.0,43300,5.0,1.0,24800,24,Home,7.31,Own,0
+39,Male,Bachelor,Single,0,52800.0,546.0,5600,3.0,,12300,36,Medical,4.14,Mortgage,0
+28,Female,Bachelor,Married,0,32300.0,620.0,19500,5.0,3.0,31200,48,Home,11.81,Own,1
+65,Female,Master,Married,3,62700.0,659.0,26400,3.0,166.0,19400,36,Education,6.69,Rent,0
+33,Female,Master,Married,4,97200.0,692.0,56000,5.0,172.0,33600,48,Car,5.99,Mortgage,0
+50,Female,High School,Single,4,,716.0,18500,3.0,45.0,22100,12,Home,11.4,Own,0
+26,Female,High School,Married,1,52200.0,728.0,41200,6.0,24.0,38700,60,Car,4.07,Mortgage,0
+23,Male,High School,Single,1,52900.0,626.0,16000,0.0,34.0,41000,36,Car,10.15,Rent,0
+33,Male,Bachelor,Divorced,3,54000.0,,35100,4.0,69.0,30300,36,Car,6.2,Rent,0
+46,Female,Bachelor,Single,0,65700.0,690.0,17400,7.0,12.0,20600,36,Car,8.15,Mortgage,0
+20,Male,Bachelor,Married,1,42400.0,708.0,17200,5.0,28.0,13800,36,Personal,3.0,Mortgage,0
+37,Male,PhD,Single,2,81800.0,599.0,64000,1.0,64.0,36500,36,Home,10.23,Own,0
+53,Male,Master,Married,0,37900.0,703.0,24100,0.0,24.0,24200,48,Medical,14.65,Rent,0
+36,Female,High School,Married,2,41600.0,638.0,13400,3.0,2.0,25600,36,Medical,4.71,Rent,1
+43,Female,Bachelor,Single,4,65800.0,654.0,35100,1.0,34.0,20300,48,Personal,11.97,Own,1
+20,Female,Bachelor,Married,0,38100.0,663.0,5100,0.0,64.0,8400,36,Personal,8.36,Mortgage,0
+36,Female,Bachelor,Single,3,63100.0,819.0,18100,7.0,181.0,37900,60,Home,10.1,Own,0
+37,Female,Bachelor,Single,4,57000.0,577.0,34400,2.0,2.0,24000,12,Home,4.96,Own,1
+49,Male,Master,Married,4,59300.0,745.0,29600,5.0,37.0,2700,36,Medical,5.4,Own,0
+24,Female,Bachelor,Single,2,42000.0,764.0,18000,5.0,29.0,23300,12,Personal,8.76,Rent,0
+69,Male,Bachelor,Divorced,4,20500.0,716.0,12000,3.0,13.0,8700,36,Car,7.85,Own,1
+58,Female,Master,Married,1,67800.0,607.0,25700,0.0,49.0,32100,24,Education,8.95,Rent,0
+50,Female,Bachelor,Married,0,47000.0,786.0,5600,7.0,9.0,30400,60,Personal,4.11,Rent,0
+57,Male,High School,Single,1,40600.0,623.0,16600,,16.0,43100,12,Personal,10.33,Rent,1
+56,Male,Bachelor,Married,2,60100.0,705.0,44000,3.0,73.0,7300,36,Medical,9.67,Own,0
+35,Male,High School,Married,2,54900.0,660.0,38400,2.0,30.0,42200,48,Home,11.82,Rent,1
+57,Male,PhD,Single,0,74500.0,620.0,28800,5.0,243.0,31200,24,Home,9.45,Rent,0
+18,Male,High School,Married,4,26200.0,694.0,3000,4.0,23.0,8600,48,Car,15.27,Rent,0
+28,Female,Bachelor,Single,3,59700.0,800.0,32600,2.0,30.0,46900,60,Home,14.52,Own,0
+45,Female,Bachelor,Married,2,39100.0,671.0,24200,3.0,17.0,23500,48,Personal,8.55,Own,1
+42,Female,PhD,Single,0,100200.0,808.0,30700,,13.0,10700,24,Home,8.43,Own,0
+67,Female,High School,Divorced,3,47800.0,635.0,20700,0.0,123.0,37500,24,Home,6.01,Mortgage,0
+40,Female,High School,Married,4,27100.0,656.0,21500,6.0,66.0,11900,24,Home,4.43,Own,0
+48,Female,High School,Single,2,44200.0,552.0,22300,7.0,19.0,38900,24,Medical,7.82,Rent,1
+47,Male,High School,Single,0,56300.0,605.0,19500,6.0,58.0,22700,12,Education,6.57,Rent,0
+59,Female,High School,Married,0,20500.0,633.0,11100,7.0,162.0,20800,60,Medical,6.14,Mortgage,0
+52,Male,Bachelor,Divorced,0,,624.0,7300,2.0,4.0,9400,36,Personal,9.55,Mortgage,0
+24,Female,High School,Single,2,28800.0,573.0,6900,6.0,15.0,12500,36,Education,3.77,Mortgage,0
+33,Female,High School,Single,3,38200.0,589.0,28600,2.0,11.0,26900,24,Home,4.95,Mortgage,0
+43,Female,Master,Married,0,43900.0,627.0,11700,6.0,98.0,5300,36,Personal,3.0,Rent,0
+65,Male,Bachelor,Married,4,63000.0,745.0,20000,7.0,9.0,33300,36,Personal,4.44,Mortgage,1
+69,Female,Bachelor,Married,0,50700.0,530.0,24400,5.0,18.0,18700,60,Home,6.69,Rent,1
+66,Female,Bachelor,Married,3,43700.0,483.0,31900,6.0,38.0,20200,24,Home,10.92,Rent,1
+19,Male,PhD,Single,2,82100.0,509.0,53100,7.0,47.0,32000,60,Personal,14.3,Rent,1
+18,Male,High School,Divorced,0,,582.0,5400,5.0,79.0,22600,48,Car,3.32,Rent,0
+65,Female,Master,Married,0,79000.0,701.0,46200,4.0,25.0,39800,60,Education,11.13,Mortgage,1
+29,Male,Master,Single,4,58000.0,621.0,26300,0.0,37.0,1000,12,Personal,5.61,Own,0
+22,Female,High School,Married,4,21400.0,620.0,9300,2.0,162.0,34600,12,Home,8.99,Own,1
+54,Male,PhD,Married,0,115400.0,619.0,67400,4.0,17.0,25300,36,Medical,10.23,Mortgage,0
+49,Male,Bachelor,Single,0,,500.0,15400,2.0,14.0,17100,60,Home,12.72,Rent,1
+26,Female,High School,Married,4,36800.0,719.0,29000,6.0,60.0,36400,48,Home,15.69,Mortgage,1
+58,Male,Master,Single,3,69800.0,755.0,38500,5.0,71.0,32000,36,Medical,11.63,Mortgage,0
+52,Female,Master,Married,1,50300.0,623.0,17900,0.0,26.0,27700,12,Home,7.08,Own,0
+36,Male,Bachelor,Divorced,1,67500.0,657.0,35100,6.0,11.0,22000,36,Personal,3.88,Own,0
+65,Male,High School,Single,0,25600.0,659.0,6400,0.0,72.0,16500,36,Home,9.2,Rent,0
+33,Female,Bachelor,Married,4,58300.0,565.0,31700,1.0,53.0,12100,36,Home,10.44,Mortgage,0
+20,Male,Master,Married,2,63500.0,922.0,7600,4.0,100.0,41400,24,Home,5.04,Own,0
+37,Female,Bachelor,Divorced,2,69800.0,793.0,23700,5.0,89.0,34900,24,Personal,10.83,Own,0
+41,Female,Bachelor,Married,1,45000.0,650.0,28000,5.0,11.0,31800,36,Car,7.22,Own,1
+50,Female,High School,Married,3,32300.0,668.0,21500,5.0,86.0,19900,60,Car,5.11,Rent,0
+41,Male,High School,Married,1,29000.0,595.0,8000,6.0,9.0,49400,48,Education,8.91,Rent,1
+69,Male,Master,Divorced,0,97700.0,616.0,46700,3.0,96.0,16700,48,Medical,5.79,Mortgage,0
+28,Female,Bachelor,Divorced,3,53000.0,702.0,24900,2.0,71.0,20500,60,Home,5.03,Mortgage,0
+66,Female,PhD,Single,2,86200.0,583.0,34100,0.0,40.0,46800,24,Personal,9.36,Mortgage,0
+25,Female,Bachelor,Married,4,26600.0,780.0,6900,2.0,49.0,24400,12,Personal,9.75,Rent,0
+53,Male,Master,Married,4,63100.0,521.0,37400,2.0,5.0,45900,48,Car,7.4,Rent,1
+55,Male,Bachelor,Married,0,59300.0,599.0,16400,3.0,2.0,29500,36,Car,9.32,Rent,1
+57,Female,Bachelor,Married,1,,532.0,33900,0.0,19.0,18800,36,Personal,11.92,Rent,1
+37,Female,High School,Married,0,47000.0,756.0,22100,1.0,83.0,22700,24,Car,11.0,Own,0
+52,Female,Bachelor,Divorced,4,53600.0,647.0,38000,5.0,30.0,16400,36,Personal,6.02,Mortgage,1
+65,Female,Bachelor,Single,2,53900.0,,16400,4.0,12.0,33300,36,Home,8.58,Rent,0
+42,Female,PhD,Single,4,105400.0,682.0,70100,2.0,86.0,39700,36,Education,6.4,Own,0
+52,Male,Bachelor,Married,3,,762.0,13300,3.0,12.0,30600,36,Personal,4.3,Own,0
+42,Male,High School,Single,4,41100.0,667.0,26200,3.0,81.0,28400,36,Car,10.43,Own,0
+46,Male,High School,Single,4,42900.0,741.0,15900,4.0,29.0,12500,60,Car,11.51,Own,0
+35,Male,High School,Single,3,61200.0,627.0,26300,4.0,30.0,38100,60,Medical,7.08,Rent,0
+63,Female,Bachelor,Married,1,69700.0,573.0,15100,6.0,15.0,35100,48,Personal,9.2,Rent,0
+35,Male,Master,Divorced,4,63300.0,669.0,7200,7.0,111.0,28300,60,Home,13.14,Own,0
+19,Female,PhD,Married,0,115800.0,594.0,65600,0.0,4.0,21400,24,Personal,11.57,Rent,1
+52,Male,High School,Married,4,57400.0,705.0,29400,2.0,7.0,25500,48,Medical,6.74,Mortgage,0
+33,Male,Bachelor,Single,0,48100.0,617.0,25800,,48.0,14100,36,Personal,8.26,Own,0
+58,Male,Bachelor,Married,3,67400.0,643.0,18800,,91.0,7300,48,Personal,6.38,Own,0
+53,Male,Bachelor,Married,4,63100.0,471.0,16900,7.0,5.0,21400,24,Medical,9.19,Rent,1
+50,Female,Bachelor,Married,3,60000.0,640.0,40900,5.0,64.0,14700,48,Personal,8.62,Rent,1
+21,Male,Bachelor,Single,3,28600.0,631.0,18100,6.0,65.0,18900,12,Home,5.04,Rent,1
+50,Female,Bachelor,Single,1,46200.0,743.0,15500,1.0,42.0,19100,24,Personal,7.13,Rent,0
+31,Male,High School,Single,4,42200.0,720.0,23100,2.0,32.0,24100,48,Home,3.0,Mortgage,0
+38,Male,Master,Married,0,90600.0,652.0,61600,3.0,19.0,23300,48,Home,5.38,Mortgage,0
+65,Male,High School,Married,0,40900.0,520.0,29500,5.0,21.0,1000,36,Medical,9.74,Mortgage,0
+37,Female,Bachelor,Divorced,4,64900.0,615.0,6800,4.0,54.0,29200,48,Home,8.93,Rent,1
+25,Female,Bachelor,Married,1,39800.0,743.0,26600,,,26600,24,Personal,11.34,Mortgage,0
+24,Male,Bachelor,Married,1,44800.0,634.0,15500,0.0,42.0,36500,48,Personal,8.66,Mortgage,0
+20,Male,Master,Divorced,1,109500.0,565.0,66000,4.0,16.0,22400,12,Home,7.91,Mortgage,0
+34,Female,Master,Single,0,57100.0,742.0,20600,3.0,30.0,38000,48,Home,14.07,Rent,1
+50,Male,Master,Married,3,87200.0,520.0,45700,0.0,39.0,23200,36,Education,7.48,Mortgage,1
+65,Male,Bachelor,Divorced,1,53800.0,641.0,29700,,104.0,29100,60,Personal,7.34,Mortgage,1
+29,Female,Master,Single,0,48000.0,695.0,18400,4.0,42.0,14000,36,Personal,8.65,Own,0
+68,Female,Bachelor,Divorced,0,44400.0,660.0,20400,4.0,12.0,38600,36,Home,6.17,Rent,0
+39,Male,Master,Divorced,3,86400.0,,52600,2.0,4.0,40600,36,Personal,9.27,Mortgage,1
+39,Female,Bachelor,Married,4,60100.0,576.0,26000,0.0,47.0,47600,36,Car,6.33,Rent,1
+63,Female,PhD,Married,4,113200.0,594.0,12400,7.0,38.0,18500,24,Car,7.21,Own,0
+47,Male,PhD,Married,1,103000.0,,11200,6.0,53.0,31400,48,Home,6.26,Own,0
+55,Female,Master,Married,1,89000.0,664.0,50100,7.0,30.0,7700,36,Car,3.17,Rent,0
+55,Female,Bachelor,Single,3,67400.0,619.0,46700,4.0,84.0,2400,36,Medical,3.0,Mortgage,0
+62,Male,High School,Single,1,37200.0,683.0,24200,5.0,121.0,31800,12,Education,4.23,Own,1
+68,Male,Master,Single,3,93500.0,590.0,29700,7.0,2.0,23600,12,Personal,11.92,Mortgage,1
+25,Male,High School,Married,0,29700.0,709.0,12800,3.0,65.0,9600,36,Medical,8.73,Mortgage,0
+44,Female,Master,Single,1,58100.0,686.0,15300,0.0,2.0,27100,60,Car,7.06,Own,0
+44,Male,Bachelor,Single,0,60700.0,632.0,48100,5.0,28.0,36200,36,Education,5.38,Own,0
+51,Female,Bachelor,Single,2,48900.0,,13800,2.0,30.0,25800,24,Home,12.28,Mortgage,0
+38,Female,Master,Married,3,96400.0,623.0,37700,1.0,,39700,24,Education,6.57,Mortgage,0
+47,Male,Bachelor,Divorced,2,46100.0,730.0,26600,6.0,21.0,17100,60,Car,5.96,Own,0
+50,Female,Bachelor,Divorced,1,56000.0,667.0,39900,,83.0,38000,48,Home,3.0,Mortgage,0
+45,Male,Bachelor,Married,0,55800.0,633.0,7600,1.0,20.0,20400,60,Car,3.0,Rent,0
+64,Female,Bachelor,Divorced,1,38100.0,,11800,4.0,20.0,39800,12,Personal,9.88,Own,0
+50,Female,Master,Married,2,79300.0,697.0,39500,7.0,12.0,9700,60,Education,13.56,Mortgage,0
+22,Male,Bachelor,Married,1,67100.0,693.0,35800,,55.0,27800,48,Personal,9.39,Rent,0
+65,Male,PhD,Married,4,103700.0,608.0,15500,2.0,4.0,27700,60,Car,9.35,Mortgage,0
+36,Male,Master,Single,2,60500.0,990.0,34200,7.0,22.0,30700,12,Personal,13.89,Rent,1
+21,Male,Bachelor,Divorced,1,41900.0,641.0,19700,2.0,15.0,20800,48,Car,10.0,Mortgage,0
+52,Male,Master,Married,0,63900.0,558.0,43400,7.0,13.0,30200,36,Personal,8.48,Own,1
+66,Male,Bachelor,Married,1,36800.0,,9400,2.0,3.0,22600,36,Car,10.18,Rent,0
+34,Female,Bachelor,Married,0,49300.0,518.0,11700,2.0,10.0,18700,36,Home,11.21,Rent,1
+61,Male,PhD,Single,4,90700.0,548.0,59400,0.0,28.0,42000,48,Personal,10.03,Own,1
+45,Male,High School,Single,1,36200.0,609.0,21500,7.0,34.0,25900,60,Personal,7.04,Mortgage,1
+47,Female,Bachelor,Married,4,75500.0,600.0,49400,0.0,15.0,6800,48,Personal,9.72,Own,1
+46,Male,Bachelor,Single,2,42400.0,686.0,27400,4.0,50.0,16900,48,Car,6.42,Rent,0
+63,Female,Bachelor,Married,0,55700.0,673.0,9600,0.0,20.0,42400,48,Personal,8.41,Mortgage,1
+23,Female,Bachelor,Married,2,38800.0,760.0,11400,4.0,22.0,14100,48,Home,9.69,Rent,0
+52,Female,Master,Married,0,74200.0,657.0,20900,6.0,73.0,31500,36,Home,14.02,Rent,1
+58,Male,Bachelor,Married,4,50700.0,666.0,38200,0.0,39.0,16700,36,Personal,9.82,Mortgage,1
+54,Male,Bachelor,Married,3,39500.0,557.0,17400,0.0,147.0,7700,48,Education,8.55,Rent,0
+41,Male,High School,Married,1,46100.0,557.0,8200,0.0,21.0,30800,12,Personal,7.3,Own,1
+46,Female,Bachelor,Married,4,58600.0,655.0,17700,6.0,84.0,21100,48,Car,6.75,Rent,0
+66,Male,High School,Married,0,19500.0,657.0,13900,3.0,64.0,44100,48,Personal,7.34,Rent,1
+63,Male,Bachelor,Married,0,35800.0,673.0,24800,6.0,106.0,38500,36,Medical,8.62,Mortgage,0
+48,Female,Bachelor,Divorced,0,54500.0,752.0,39800,2.0,151.0,40200,60,Education,11.25,Rent,1
+52,Male,High School,Single,0,39300.0,,14600,6.0,0.0,37800,36,Car,4.68,Own,1
+50,Male,Bachelor,Married,1,24300.0,785.0,13300,3.0,4.0,33300,24,Personal,10.8,Rent,1
+69,Male,High School,Divorced,2,49400.0,531.0,14600,0.0,54.0,8600,36,Personal,6.8,Rent,0
+38,Female,PhD,Married,3,65300.0,680.0,14800,0.0,24.0,22200,60,Car,6.4,Own,0
+49,Male,PhD,Single,1,89200.0,550.0,10300,3.0,82.0,33100,60,Personal,10.03,Mortgage,0
+40,Female,Bachelor,Married,0,50900.0,708.0,13100,7.0,1.0,21500,36,Car,7.37,Rent,0
+50,Female,PhD,Single,1,84900.0,531.0,44400,5.0,79.0,24600,24,Personal,9.93,Rent,1
+20,Male,Master,Single,4,33900.0,431.0,24800,4.0,7.0,33700,24,Personal,9.66,Mortgage,1
+35,Female,Bachelor,Divorced,0,,662.0,4100,2.0,16.0,37700,36,Car,10.92,Own,0
+42,Male,High School,Married,3,22000.0,640.0,16300,6.0,167.0,13900,36,Medical,12.46,Rent,1
+59,Male,Master,Single,0,89900.0,738.0,30700,4.0,,33000,36,Car,3.34,Mortgage,0
+48,Female,Master,Divorced,3,77700.0,656.0,31000,,21.0,31800,48,Education,9.11,Own,0
+20,Female,Bachelor,Divorced,3,48200.0,590.0,17100,5.0,4.0,13100,48,Personal,6.28,Mortgage,0
+57,Female,Master,Married,2,103500.0,607.0,40000,2.0,92.0,20100,24,Car,9.75,Mortgage,0
+63,Male,Bachelor,Single,2,33700.0,850.0,9500,1.0,58.0,26800,36,Home,4.28,Rent,1
+41,Male,Master,Married,1,70600.0,580.0,41600,2.0,77.0,41700,48,Personal,8.65,Own,1
+67,Male,PhD,Married,1,87000.0,692.0,54900,6.0,36.0,20000,36,Education,3.0,Mortgage,0
+49,Male,Bachelor,Married,3,54400.0,682.0,36800,4.0,21.0,30000,24,Car,8.63,Rent,1
+64,Male,Master,Divorced,0,86900.0,694.0,29500,2.0,0.0,39000,36,Home,8.52,Rent,0
+39,Male,Bachelor,Married,4,44500.0,687.0,28300,1.0,16.0,47300,48,Home,6.48,Mortgage,1
+40,Male,Bachelor,Single,4,26000.0,629.0,14200,1.0,35.0,27700,24,Car,7.32,Rent,1
+19,Male,Master,Married,0,101800.0,509.0,78400,0.0,52.0,1000,48,Personal,7.39,Rent,0
+44,Male,High School,Single,0,34000.0,662.0,13500,6.0,12.0,36100,36,Car,3.85,Mortgage,1
+59,Male,Bachelor,Married,2,34500.0,649.0,27400,1.0,7.0,27500,24,Education,4.61,Rent,1
+19,Female,High School,Married,4,35200.0,660.0,21800,3.0,11.0,14900,48,Home,9.06,Mortgage,0
+43,Male,Bachelor,Single,3,58800.0,695.0,37800,4.0,21.0,33500,24,Home,11.7,Own,0
+34,Female,Bachelor,Married,1,53500.0,617.0,6300,3.0,8.0,47400,36,Home,10.86,Mortgage,0
+57,Female,Master,Single,2,57600.0,600.0,25800,5.0,,27500,36,Medical,3.0,Rent,0
+50,Male,High School,Single,4,23100.0,722.0,10900,3.0,2.0,5500,48,Car,12.22,Own,0
+26,Female,Bachelor,Married,0,29500.0,624.0,3800,4.0,93.0,42300,48,Personal,12.4,Own,0
+60,Female,Bachelor,Single,4,45700.0,611.0,14600,7.0,12.0,25300,24,Car,6.26,Rent,1
+65,Female,Master,Married,3,55500.0,604.0,42700,5.0,83.0,33600,48,Car,6.32,Mortgage,1
+56,Male,PhD,Single,2,123300.0,698.0,49100,3.0,28.0,25700,12,Education,6.95,Rent,0
+46,Male,PhD,Married,0,105400.0,633.0,24300,7.0,48.0,30500,36,Car,9.5,Mortgage,0
+59,Male,Master,Married,3,57100.0,827.0,26200,3.0,4.0,33000,36,Personal,7.59,Rent,0
+43,Female,Master,Married,1,68400.0,655.0,8500,6.0,42.0,34700,36,Personal,9.67,Mortgage,0
+52,Female,High School,Married,2,60300.0,553.0,27800,5.0,16.0,26800,24,Home,4.59,Own,0
+67,Female,Bachelor,Divorced,3,,615.0,22000,3.0,5.0,15900,12,Medical,5.28,Rent,1
+42,Female,Bachelor,Single,3,81200.0,702.0,28500,1.0,115.0,27300,36,Medical,5.87,Own,0
+41,Female,Master,Single,0,19600.0,602.0,12400,7.0,44.0,34500,12,Personal,6.05,Mortgage,1
+30,Male,Master,Married,1,93300.0,649.0,18200,4.0,13.0,16000,60,Car,9.78,Rent,0
+24,Male,High School,Single,3,28900.0,728.0,20700,4.0,26.0,11700,24,Home,9.24,Rent,1
+53,Female,PhD,Divorced,2,70700.0,740.0,54400,4.0,21.0,41000,36,Education,10.48,Rent,0
+62,Male,Bachelor,Single,3,67100.0,608.0,6800,3.0,58.0,45300,36,Car,11.74,Rent,0
+37,Male,Bachelor,Married,4,44500.0,629.0,30700,1.0,45.0,25500,36,Personal,9.68,Mortgage,0
+18,Male,High School,Married,2,36200.0,658.0,16400,4.0,1.0,32200,48,Personal,3.15,Rent,1
+25,Male,High School,Single,2,50100.0,757.0,21200,2.0,11.0,29500,36,Home,7.25,Rent,0
+63,Female,Bachelor,Married,3,59100.0,,15800,4.0,31.0,1000,12,Personal,7.65,Mortgage,0
+33,Female,Bachelor,Single,0,48100.0,679.0,19900,0.0,28.0,27500,48,Personal,9.27,Mortgage,0
+31,Female,High School,Married,2,42800.0,654.0,32800,2.0,35.0,42600,12,Personal,5.67,Own,1
+29,Female,Bachelor,Single,4,44300.0,578.0,11000,4.0,60.0,10900,36,Personal,12.94,Mortgage,0
+68,Male,Master,Divorced,0,65300.0,,14700,3.0,55.0,9800,48,Personal,7.3,Rent,0
+40,Male,Master,Divorced,0,80800.0,729.0,21800,7.0,22.0,16200,24,Home,7.51,Mortgage,0
+32,Female,PhD,Single,0,74500.0,773.0,36200,4.0,101.0,19300,36,Personal,7.91,Rent,0
+45,Male,Bachelor,Single,2,28900.0,744.0,21700,1.0,3.0,33000,12,Car,6.95,Rent,0
+51,Female,Bachelor,Married,0,66900.0,651.0,33600,1.0,42.0,40800,48,Home,3.29,Mortgage,0
+19,Female,Master,Single,3,42300.0,700.0,11400,4.0,143.0,40600,48,Car,12.22,Rent,1
+49,Male,Bachelor,Divorced,0,54100.0,677.0,22100,6.0,38.0,32800,24,Personal,6.6,Rent,0
+40,Female,High School,Married,4,19000.0,577.0,7100,3.0,29.0,5900,36,Car,10.39,Mortgage,1
+39,Female,Bachelor,Married,1,62800.0,546.0,8300,3.0,7.0,5900,48,Personal,7.22,Own,0
+68,Female,Bachelor,Married,4,40200.0,680.0,18400,3.0,80.0,33800,36,Education,6.61,Rent,1
+42,Male,Bachelor,Married,2,69600.0,658.0,13100,4.0,,6000,24,Car,4.77,Own,1
+39,Male,Bachelor,Divorced,0,66600.0,623.0,45900,7.0,58.0,31700,36,Home,3.16,Mortgage,0
+39,Male,Bachelor,Divorced,0,35200.0,643.0,17000,4.0,11.0,28300,48,Car,7.16,Mortgage,0
+66,Male,High School,Single,3,50600.0,792.0,35000,0.0,2.0,19400,36,Home,7.04,Own,1
+69,Male,Bachelor,Single,0,45000.0,476.0,34600,1.0,17.0,1000,24,Car,12.81,Own,1
+59,Female,Bachelor,Divorced,4,67000.0,701.0,50900,6.0,16.0,27400,48,Home,8.72,Rent,0
+23,Male,Bachelor,Divorced,2,46900.0,717.0,8000,2.0,99.0,31100,24,Personal,11.92,Mortgage,0
+32,Female,High School,Single,1,28200.0,727.0,21500,2.0,96.0,18300,36,Education,3.99,Rent,1
+60,Female,Bachelor,Married,0,45500.0,540.0,29900,7.0,37.0,11900,48,Medical,8.66,Rent,0
+54,Female,Bachelor,Married,1,37400.0,627.0,24100,1.0,1.0,28500,36,Car,10.15,Rent,1
+50,Male,Bachelor,Single,0,29800.0,623.0,4900,5.0,12.0,7600,36,Home,8.84,Rent,1
+25,Female,Bachelor,Divorced,2,15000.0,673.0,3400,0.0,49.0,32400,36,Personal,8.95,Own,1
+61,Male,Bachelor,Single,4,36200.0,560.0,28300,1.0,5.0,37700,36,Medical,7.75,Own,1
+61,Male,Master,Divorced,2,71800.0,680.0,17900,0.0,58.0,1500,36,Home,4.92,Own,0
+22,Female,Bachelor,Single,1,59200.0,579.0,12900,5.0,1.0,18700,48,Home,4.4,Rent,0
+56,Male,Bachelor,Married,0,80000.0,626.0,28300,0.0,55.0,24400,48,Personal,10.62,Own,0
+21,Male,Bachelor,Single,1,47200.0,758.0,34900,3.0,,24800,24,Car,6.52,Rent,0
+23,Female,Bachelor,Married,4,45000.0,717.0,19500,1.0,30.0,14500,12,Home,7.22,Rent,0
+62,Male,Bachelor,Married,2,77700.0,660.0,57800,2.0,85.0,9000,12,Home,6.52,Mortgage,0
+49,Male,Bachelor,Single,1,57600.0,539.0,19200,4.0,73.0,19500,60,Personal,5.82,Rent,0
+69,Male,Master,Married,1,56000.0,677.0,14500,5.0,53.0,32700,60,Personal,4.11,Own,1
+47,Female,Bachelor,Married,4,61500.0,682.0,27500,5.0,28.0,31800,12,Car,13.11,Mortgage,0
+64,Female,High School,Single,0,19900.0,482.0,10600,4.0,15.0,32000,36,Home,3.0,Own,1
+52,Male,Bachelor,Married,1,30600.0,678.0,11400,1.0,95.0,40000,24,Education,10.56,Rent,0
+57,Male,Master,Single,4,62800.0,564.0,21500,,50.0,12400,60,Car,11.77,Mortgage,1
+69,Male,High School,Married,0,,532.0,10000,4.0,77.0,20500,24,Car,8.92,Rent,1
+33,Male,PhD,Married,0,78700.0,560.0,23000,0.0,39.0,22800,36,Car,7.98,Mortgage,0
+30,Female,Bachelor,Married,2,55500.0,,31700,4.0,9.0,1000,24,Home,9.2,Rent,1
+67,Male,PhD,Single,4,78100.0,617.0,28000,0.0,186.0,27700,36,Personal,7.3,Own,0
+59,Male,PhD,Married,0,95100.0,570.0,14800,0.0,10.0,24600,24,Medical,11.45,Rent,1
+47,Female,Bachelor,Married,2,25300.0,741.0,5000,2.0,116.0,11400,36,Personal,11.86,Rent,0
+36,Female,High School,Married,3,15000.0,621.0,5400,4.0,11.0,35500,36,Education,10.13,Own,1
+34,Female,High School,Married,4,47500.0,592.0,35500,6.0,22.0,34700,36,Personal,3.55,Own,1
+36,Male,High School,Married,3,38500.0,523.0,14100,2.0,28.0,29800,24,Personal,10.53,Rent,0
+45,Male,Master,Single,0,51100.0,616.0,7300,6.0,,4500,36,Car,12.35,Rent,0
+43,Male,Bachelor,Single,4,41700.0,,16400,4.0,105.0,13300,60,Car,10.32,Mortgage,0
+54,Male,Bachelor,Single,2,60000.0,774.0,34100,6.0,83.0,28600,48,Personal,11.46,Mortgage,0
+43,Female,Bachelor,Single,0,64600.0,621.0,33300,0.0,23.0,18600,48,Personal,6.31,Mortgage,0
+40,Female,Master,Married,4,94100.0,644.0,27800,6.0,0.0,22200,36,Personal,7.08,Rent,0
+26,Female,High School,Single,4,62700.0,706.0,36500,4.0,55.0,11800,48,Medical,12.43,Own,0
+29,Female,High School,Single,3,37600.0,568.0,20400,5.0,25.0,27300,36,Education,10.5,Own,0
+18,Male,High School,Single,0,21300.0,680.0,4700,5.0,68.0,43100,24,Car,7.76,Rent,1
+18,Female,Master,Single,2,49700.0,839.0,10600,2.0,76.0,28900,36,Car,7.68,Mortgage,0
+64,Male,Bachelor,Single,2,79400.0,711.0,38400,7.0,28.0,36700,24,Personal,8.56,Mortgage,0
+51,Female,Bachelor,Single,0,,709.0,12100,3.0,66.0,35500,24,Personal,7.61,Mortgage,1
+49,Male,High School,Married,0,54000.0,,41800,5.0,88.0,20700,12,Home,8.52,Own,0
+65,Male,Bachelor,Married,1,38000.0,722.0,15000,6.0,127.0,22800,24,Education,17.93,Mortgage,0
+42,Male,High School,Single,3,26400.0,630.0,16800,2.0,42.0,42600,36,Education,6.39,Rent,1
+57,Female,PhD,Married,0,85300.0,556.0,15500,6.0,72.0,33800,48,Car,3.12,Own,0
+62,Male,Master,Single,0,87100.0,639.0,62900,3.0,33.0,36500,36,Personal,6.51,Rent,0
+18,Male,Bachelor,Single,1,73400.0,572.0,39900,1.0,2.0,27000,60,Education,10.16,Rent,1
+33,Male,Master,Single,1,53300.0,627.0,28800,2.0,8.0,20300,24,Car,10.31,Mortgage,0
+56,Female,High School,Married,4,40200.0,580.0,8000,5.0,7.0,21800,24,Car,5.27,Rent,1
+22,Female,Master,Married,2,73000.0,619.0,9300,5.0,9.0,41500,60,Car,7.37,Own,1
+39,Female,Master,Single,3,53600.0,531.0,31700,4.0,0.0,25000,36,Car,11.1,Own,1
+46,Male,Bachelor,Single,4,44600.0,595.0,8100,3.0,94.0,40000,48,Home,8.18,Own,0
+20,Female,Master,Divorced,0,35200.0,682.0,6600,5.0,39.0,41900,36,Home,5.43,Mortgage,0
+29,Male,Bachelor,Single,1,72500.0,981.0,16800,4.0,23.0,36000,36,Medical,6.06,Mortgage,0
+43,Female,Bachelor,Single,2,43300.0,685.0,7300,3.0,25.0,34600,24,Medical,12.72,Mortgage,1
+33,Female,High School,Divorced,4,,620.0,20500,2.0,30.0,45400,60,Medical,7.14,Rent,1
+68,Male,Bachelor,Married,2,62100.0,660.0,24600,2.0,4.0,14900,12,Personal,8.66,Own,0
+54,Male,Master,Married,1,62600.0,806.0,17900,4.0,15.0,20100,36,Personal,3.7,Mortgage,0
+39,Male,PhD,Married,4,100400.0,592.0,41000,2.0,92.0,9900,48,Personal,7.79,Mortgage,0
+46,Male,Bachelor,Single,4,48700.0,778.0,33600,4.0,65.0,7000,36,Car,16.97,Own,0
+31,Male,Master,Single,2,71600.0,534.0,53600,0.0,40.0,24500,60,Home,13.87,Mortgage,0
+45,Female,Master,Married,1,87400.0,513.0,38600,6.0,31.0,28200,12,Car,9.26,Own,0
+22,Male,High School,Single,0,26700.0,638.0,13300,3.0,14.0,31100,36,Education,13.35,Mortgage,1
+64,Male,Bachelor,Married,4,44500.0,647.0,12500,4.0,31.0,16600,36,Personal,10.31,Own,0
+66,Male,High School,Divorced,0,23200.0,560.0,10700,,44.0,20000,24,Personal,15.48,Mortgage,0
+47,Male,Bachelor,Divorced,1,56500.0,624.0,35200,7.0,60.0,35200,48,Education,10.5,Own,0
+63,Female,PhD,Single,4,109300.0,682.0,48600,0.0,,7500,36,Medical,12.52,Rent,0
+69,Male,High School,Married,4,22900.0,572.0,7100,3.0,81.0,25200,36,Education,3.0,Rent,1
+22,Female,Master,Married,0,81200.0,731.0,41200,4.0,20.0,40700,60,Personal,9.66,Rent,1
+29,Female,Bachelor,Divorced,3,56400.0,740.0,43000,6.0,34.0,21800,36,Personal,6.66,Rent,1
+33,Female,Bachelor,Single,0,68600.0,,49500,6.0,45.0,19900,48,Personal,10.18,Mortgage,1
+43,Female,Bachelor,Single,0,69200.0,577.0,44200,2.0,32.0,39900,48,Education,10.07,Own,1
+43,Male,Bachelor,Single,3,71300.0,,20900,6.0,,8000,48,Car,12.65,Mortgage,0
+65,Female,High School,Single,1,30500.0,636.0,8200,6.0,6.0,15400,60,Home,11.63,Own,1
+38,Male,High School,Single,1,35600.0,628.0,24500,7.0,27.0,15800,24,Home,4.27,Own,1
+56,Male,High School,Married,4,35300.0,624.0,8000,3.0,16.0,33300,48,Home,3.0,Rent,1
+53,Female,Bachelor,Married,2,46900.0,,24600,3.0,4.0,5800,36,Personal,7.88,Own,0
+50,Female,High School,Single,2,,699.0,14700,5.0,10.0,39800,48,Home,10.75,Mortgage,0
+47,Female,Master,Married,4,35900.0,580.0,15400,5.0,44.0,24700,36,Home,10.4,Mortgage,0
+54,Male,Bachelor,Single,2,42700.0,559.0,17900,0.0,11.0,37500,60,Education,8.7,Mortgage,0
+40,Male,Bachelor,Divorced,0,26500.0,551.0,19300,1.0,10.0,39900,60,Education,10.34,Own,1
+27,Female,Bachelor,Divorced,0,31900.0,580.0,5100,6.0,39.0,15600,36,Personal,10.97,Own,1
+22,Male,Bachelor,Divorced,3,52700.0,718.0,34200,2.0,113.0,25200,36,Home,8.7,Mortgage,1
+53,Female,PhD,Divorced,3,62100.0,661.0,42500,6.0,75.0,22300,48,Personal,10.37,Own,0
+51,Female,High School,Single,4,24900.0,724.0,18900,4.0,113.0,24200,24,Home,10.63,Mortgage,0
+69,Male,Bachelor,Single,4,48100.0,514.0,20000,0.0,42.0,18200,12,Personal,8.4,Own,0
+48,Male,Master,Married,4,49400.0,672.0,22200,4.0,25.0,38400,36,Education,12.94,Rent,1
+27,Male,High School,Divorced,0,47900.0,671.0,37000,4.0,63.0,22800,36,Medical,4.9,Mortgage,0
+36,Male,High School,Single,2,29100.0,746.0,12200,3.0,15.0,21000,24,Car,13.45,Mortgage,0
+49,Female,Bachelor,Single,4,42500.0,617.0,19200,0.0,4.0,38500,36,Medical,11.64,Own,1
+18,Male,High School,Married,4,39600.0,612.0,13200,0.0,20.0,35000,24,Personal,14.98,Own,1
+22,Female,Bachelor,Single,0,64000.0,771.0,7800,5.0,17.0,28500,24,Home,3.94,Mortgage,0
+62,Male,High School,Married,0,33800.0,636.0,13600,7.0,54.0,20300,24,Home,7.45,Own,0
+21,Female,Master,Married,0,75200.0,664.0,42000,2.0,38.0,42600,36,Personal,9.95,Own,1
+33,Male,Master,Single,2,55500.0,688.0,32400,1.0,7.0,12300,24,Education,9.27,Own,0
+41,Male,Bachelor,Single,4,23400.0,517.0,2400,4.0,115.0,37900,36,Personal,7.2,Rent,1
+33,Male,Bachelor,Married,1,42800.0,,28300,6.0,43.0,32500,24,Personal,9.42,Mortgage,1
+19,Female,Master,Married,1,71400.0,550.0,31800,2.0,29.0,9800,60,Car,12.24,Mortgage,1
+66,Female,High School,Divorced,4,36200.0,643.0,16800,6.0,133.0,25900,36,Home,8.92,Own,1
+45,Female,Master,Single,4,,626.0,31800,5.0,5.0,9200,24,Personal,4.41,Own,1
+49,Male,Master,Single,4,40800.0,609.0,12200,7.0,,20800,24,Education,14.66,Rent,1
+44,Male,Master,Married,4,44900.0,700.0,28400,7.0,22.0,28400,48,Home,5.62,Own,1
+37,Male,Bachelor,Married,2,79500.0,,39900,,57.0,12800,12,Medical,4.85,Rent,0
+41,Male,High School,Single,1,61100.0,565.0,36100,4.0,128.0,1000,60,Home,6.32,Rent,1
+29,Male,Bachelor,Married,3,22200.0,562.0,8700,3.0,35.0,23500,36,Personal,6.66,Own,1
+67,Female,Master,Single,1,53000.0,717.0,15700,3.0,1.0,27600,36,Home,9.33,Rent,1
+52,Female,High School,Single,1,35000.0,647.0,16900,4.0,1.0,20500,60,Home,16.33,Mortgage,1
+50,Female,Master,Single,0,106000.0,,38400,5.0,19.0,24800,36,Home,5.81,Mortgage,0
+50,Female,High School,Married,4,26500.0,617.0,6800,5.0,,22800,60,Home,11.78,Rent,1
+68,Male,High School,Married,4,,637.0,29500,0.0,16.0,12800,60,Education,14.35,Rent,0
+60,Male,High School,Married,4,18000.0,551.0,7800,1.0,20.0,48400,60,Medical,7.23,Rent,1
+54,Female,High School,Married,0,28400.0,,19700,6.0,74.0,28800,48,Personal,8.2,Mortgage,1
+29,Female,Bachelor,Divorced,2,79400.0,723.0,34300,3.0,6.0,19900,24,Medical,9.42,Mortgage,0
+20,Male,High School,Single,2,15000.0,849.0,7300,1.0,90.0,15100,36,Car,7.13,Mortgage,0
+18,Male,PhD,Single,3,68700.0,674.0,54700,2.0,15.0,20200,36,Education,3.05,Rent,0
+50,Male,Bachelor,Single,2,55100.0,542.0,42200,6.0,3.0,20600,60,Personal,12.56,Own,1
+57,Male,High School,Single,2,40200.0,633.0,11700,6.0,6.0,25500,36,Car,8.97,Mortgage,0
+27,Female,Bachelor,Married,4,47200.0,660.0,33400,6.0,146.0,38800,24,Car,6.81,Mortgage,0
+60,Female,Master,Married,1,62100.0,713.0,23200,2.0,29.0,15300,48,Education,8.37,Mortgage,1
+61,Male,Master,Married,2,34000.0,715.0,5100,4.0,14.0,27100,36,Car,7.55,Rent,1
+46,Female,High School,Single,2,28900.0,759.0,14500,7.0,35.0,34600,36,Car,10.28,Rent,1
+30,Female,Master,Single,0,80100.0,650.0,62800,7.0,55.0,16900,60,Personal,5.8,Own,0
+29,Male,Master,Married,3,60200.0,651.0,47100,4.0,18.0,16800,36,Personal,7.37,Mortgage,0
+48,Male,High School,Single,0,22700.0,499.0,4300,4.0,62.0,6900,36,Education,8.93,Mortgage,0
+63,Male,High School,Married,4,49200.0,569.0,31500,6.0,14.0,45200,36,Personal,3.0,Own,1
+19,Male,Bachelor,Divorced,1,15000.0,541.0,9900,5.0,6.0,31100,36,Home,7.76,Mortgage,1
+68,Female,High School,Married,3,,,5400,3.0,38.0,18200,24,Education,6.44,Own,1
+67,Male,Master,Married,0,57200.0,558.0,32100,1.0,8.0,17600,36,Medical,10.33,Rent,0
+52,Female,Bachelor,Married,2,44300.0,563.0,19600,7.0,135.0,12600,12,Education,9.24,Rent,0
+40,Male,Master,Single,2,81200.0,737.0,21100,2.0,0.0,26900,36,Home,12.31,Rent,0
+34,Male,Bachelor,Married,3,48300.0,496.0,30600,1.0,68.0,20900,36,Personal,3.0,Rent,1
+43,Male,High School,Single,2,32000.0,634.0,9100,7.0,16.0,14000,36,Personal,6.65,Rent,0
+25,Male,High School,Single,0,36300.0,719.0,12300,3.0,90.0,15700,36,Medical,9.09,Mortgage,1
+46,Male,Bachelor,Married,0,53200.0,626.0,12400,6.0,3.0,33700,36,Home,12.38,Rent,1
+43,Female,Master,Divorced,2,64100.0,756.0,38700,1.0,147.0,20400,24,Home,5.18,Mortgage,0
+27,Female,Master,Single,2,102400.0,602.0,43100,6.0,5.0,10300,24,Car,6.09,Rent,0
+43,Female,Bachelor,Married,4,56100.0,790.0,23000,1.0,74.0,25800,48,Home,12.44,Mortgage,0
+51,Male,High School,Divorced,1,22700.0,525.0,11900,5.0,35.0,16800,48,Personal,15.41,Mortgage,1
+68,Male,High School,Married,3,,756.0,4600,7.0,27.0,32800,36,Personal,13.62,Own,1
+58,Male,Bachelor,Married,0,,578.0,25300,4.0,16.0,43100,48,Education,13.65,Rent,1
+24,Female,High School,Single,3,42000.0,766.0,17900,5.0,88.0,1800,36,Personal,9.79,Own,1
+21,Male,Bachelor,Divorced,4,62900.0,613.0,22400,5.0,11.0,16500,60,Home,8.9,Rent,1
+67,Male,Bachelor,Single,0,53500.0,738.0,10100,6.0,61.0,26700,36,Personal,14.21,Own,0
+62,Female,PhD,Married,4,105200.0,752.0,22900,1.0,28.0,24100,60,Home,7.52,Rent,0
+28,Male,Bachelor,Single,4,,604.0,37500,1.0,312.0,40000,36,Home,5.47,Mortgage,1
+46,Male,High School,Married,2,31200.0,732.0,13100,5.0,45.0,24800,36,Home,9.35,Rent,0
+53,Male,Bachelor,Single,3,61900.0,648.0,37500,1.0,5.0,27500,48,Personal,7.42,Rent,1
+42,Female,Bachelor,Married,3,68400.0,533.0,10700,5.0,26.0,30200,36,Car,6.19,Own,0
+38,Female,Bachelor,Single,2,46900.0,,25800,0.0,3.0,16800,48,Home,11.05,Own,0
+53,Male,PhD,Single,3,74200.0,,55300,7.0,16.0,31200,36,Education,7.75,Mortgage,0
+27,Male,Master,Married,2,82600.0,598.0,25600,5.0,20.0,29900,36,Home,9.05,Own,0
+54,Female,High School,Divorced,0,22600.0,579.0,11400,2.0,92.0,26200,48,Home,10.12,Mortgage,1
+26,Female,High School,Divorced,4,39500.0,680.0,29900,2.0,87.0,2000,36,Personal,3.2,Rent,0
+41,Male,Bachelor,Single,4,56100.0,571.0,33900,1.0,1.0,15900,24,Home,12.22,Rent,1
+52,Female,Master,Married,3,32500.0,552.0,4700,5.0,36.0,27200,60,Personal,15.4,Own,1
+66,Male,High School,Married,1,49700.0,567.0,18100,5.0,12.0,23900,60,Education,12.34,Rent,0
+52,Female,Bachelor,Single,4,69600.0,593.0,11100,4.0,19.0,34000,36,Home,3.0,Mortgage,0
+65,Female,Bachelor,Single,2,72200.0,690.0,50800,7.0,1.0,34100,48,Home,9.18,Mortgage,0
+53,Male,High School,Married,1,53300.0,723.0,28500,6.0,66.0,29100,60,Medical,3.0,Own,0
+35,Female,Bachelor,Divorced,1,30500.0,722.0,23500,4.0,144.0,34100,36,Car,12.08,Mortgage,0
+66,Female,PhD,Married,4,84800.0,647.0,9700,4.0,12.0,31000,60,Education,12.09,Own,0
+56,Female,High School,Married,4,55100.0,645.0,21800,5.0,20.0,18700,36,Personal,9.62,Rent,1
+49,Male,Bachelor,Married,4,45800.0,635.0,7900,7.0,11.0,24900,48,Personal,3.0,Rent,1
+41,Male,Bachelor,Single,2,53400.0,686.0,18400,5.0,128.0,11800,12,Medical,8.53,Mortgage,1
+40,Male,Master,Married,1,,740.0,19600,2.0,0.0,42900,48,Personal,5.14,Own,0
+49,Female,PhD,Married,3,74200.0,638.0,24500,3.0,42.0,9900,48,Home,8.92,Own,0
+54,Male,Bachelor,Single,2,74400.0,693.0,50100,1.0,98.0,1000,36,Home,8.46,Rent,0
+29,Female,Master,Divorced,0,97100.0,551.0,20600,2.0,10.0,50400,36,Personal,11.63,Mortgage,0
+66,Female,Bachelor,Single,4,50500.0,718.0,21800,4.0,43.0,23900,60,Car,8.03,Rent,0
+30,Male,Bachelor,Divorced,1,55500.0,667.0,41400,2.0,2.0,35700,60,Education,13.52,Rent,1
+40,Female,Bachelor,Married,2,51300.0,567.0,41000,2.0,81.0,33800,24,Personal,9.69,Mortgage,1
+42,Male,High School,Single,0,23400.0,736.0,6400,2.0,15.0,37500,48,Car,6.92,Mortgage,1
+52,Female,Bachelor,Married,2,29900.0,551.0,22600,7.0,215.0,32100,24,Home,8.24,Mortgage,1
+58,Male,Bachelor,Married,2,29600.0,468.0,8400,4.0,122.0,32200,48,Medical,12.36,Mortgage,0
+47,Male,High School,Single,3,20600.0,,8000,3.0,63.0,1000,36,Personal,12.76,Mortgage,0
+34,Male,Master,Married,3,59400.0,681.0,42400,0.0,33.0,13400,12,Home,3.0,Own,0
+66,Male,High School,Married,2,34500.0,553.0,22400,1.0,70.0,1000,24,Education,4.91,Own,0
+37,Female,High School,Married,0,33800.0,678.0,23700,1.0,7.0,15200,36,Education,6.62,Rent,0
+65,Female,Bachelor,Single,1,37400.0,744.0,24700,6.0,18.0,18600,48,Car,12.72,Mortgage,0
+42,Female,Master,Married,1,79800.0,671.0,21100,2.0,1.0,23600,24,Home,12.27,Mortgage,0
+39,Male,High School,Single,4,30700.0,845.0,15100,3.0,50.0,13600,48,Home,11.51,Own,0
+30,Male,Bachelor,Married,4,53200.0,582.0,19700,4.0,79.0,20800,60,Personal,11.91,Own,0
+36,Male,PhD,Single,1,78600.0,471.0,33200,0.0,140.0,18800,48,Education,13.64,Mortgage,0
+66,Female,Bachelor,Divorced,2,45100.0,537.0,9400,0.0,56.0,29100,36,Personal,10.18,Rent,0
+53,Female,Bachelor,Married,2,39300.0,466.0,12600,2.0,63.0,34100,36,Home,11.77,Rent,1
+29,Male,Master,Married,3,39100.0,821.0,27400,2.0,108.0,27600,12,Personal,9.8,Rent,0
+58,Male,High School,Married,3,20300.0,650.0,14800,4.0,132.0,32600,24,Education,11.67,Own,1
+36,Female,Bachelor,Single,4,23800.0,805.0,12500,6.0,32.0,27300,60,Home,7.05,Mortgage,1
+29,Female,Bachelor,Single,1,40000.0,622.0,18000,4.0,6.0,39200,12,Home,5.9,Mortgage,1
+26,Female,Bachelor,Divorced,2,60900.0,578.0,36500,7.0,30.0,47400,60,Medical,6.52,Mortgage,0
+24,Female,Bachelor,Divorced,1,55200.0,512.0,29000,5.0,39.0,1000,24,Personal,7.67,Own,0
+45,Male,High School,Single,0,33400.0,618.0,26300,4.0,48.0,38600,24,Personal,10.95,Mortgage,1
+31,Male,Bachelor,Married,1,45600.0,718.0,10600,2.0,218.0,9500,24,Medical,13.45,Rent,0
+48,Female,High School,Married,0,31400.0,632.0,13000,3.0,120.0,27200,48,Home,6.68,Rent,0
+69,Female,Master,Married,3,71100.0,522.0,52800,2.0,24.0,28100,36,Home,16.09,Rent,1
+36,Male,Bachelor,Single,3,68300.0,702.0,50600,6.0,6.0,32300,24,Home,7.83,Mortgage,0
+64,Female,Bachelor,Single,4,51600.0,717.0,23100,2.0,12.0,24400,48,Home,8.56,Mortgage,0
+33,Female,Master,Single,1,114200.0,608.0,22200,0.0,9.0,24900,60,Personal,9.36,Rent,1
+22,Female,Bachelor,Married,1,44600.0,598.0,29900,7.0,21.0,29100,36,Personal,6.61,Mortgage,1
+52,Female,High School,Married,0,,513.0,12500,4.0,100.0,20800,12,Home,7.0,Rent,1
+29,Male,PhD,Married,3,90600.0,700.0,58100,1.0,28.0,2200,12,Personal,7.59,Mortgage,1
+42,Female,High School,Divorced,0,40300.0,613.0,17100,4.0,40.0,25000,48,Home,4.98,Mortgage,0
+69,Female,High School,Married,3,30300.0,436.0,7400,5.0,9.0,16000,36,Home,6.04,Mortgage,1
+38,Female,Master,Divorced,0,84500.0,,9900,3.0,33.0,15000,60,Home,8.27,Mortgage,0
+53,Female,Bachelor,Married,3,,695.0,16900,3.0,99.0,13800,36,Home,7.28,Own,0
+40,Female,Bachelor,Single,0,53200.0,623.0,11300,4.0,71.0,1300,12,Home,6.55,Mortgage,0
+33,Male,High School,Divorced,3,37600.0,559.0,8700,4.0,4.0,20200,36,Car,11.58,Own,0
+56,Female,Bachelor,Married,0,56500.0,654.0,22900,2.0,95.0,25000,48,Car,3.25,Rent,0
+62,Female,Bachelor,Single,1,51100.0,583.0,20900,1.0,,34200,36,Car,10.26,Own,1
+59,Female,Master,Single,4,74000.0,599.0,21600,6.0,53.0,17900,60,Education,8.95,Own,1
+56,Female,High School,Single,0,44400.0,,8500,2.0,8.0,43900,36,Car,9.35,Rent,1
+31,Female,Master,Married,4,52400.0,785.0,39900,,54.0,32000,36,Personal,4.82,Mortgage,0
+48,Male,Bachelor,Divorced,1,79600.0,784.0,15300,0.0,2.0,11500,24,Personal,6.83,Rent,0
+22,Male,Master,Divorced,1,77400.0,492.0,26700,7.0,44.0,19100,24,Personal,9.68,Own,0
+52,Male,Master,Divorced,3,112000.0,645.0,35100,0.0,50.0,49300,36,Education,6.88,Rent,1
+40,Male,Bachelor,Single,4,50100.0,534.0,35400,7.0,13.0,34100,36,Medical,3.89,Mortgage,1
+46,Female,Bachelor,Married,2,61200.0,565.0,23700,3.0,133.0,18700,12,Home,7.69,Own,0
+60,Female,High School,Single,3,52900.0,501.0,9900,3.0,2.0,35700,24,Personal,7.93,Mortgage,1
+28,Male,High School,Divorced,4,27600.0,581.0,3000,1.0,107.0,9900,36,Home,10.69,Own,0
+35,Male,Master,Married,0,52500.0,555.0,31800,3.0,23.0,18400,48,Home,11.91,Rent,1
+64,Female,Master,Married,0,,732.0,36700,5.0,60.0,1000,36,Home,8.91,Rent,0
+29,Male,Bachelor,Married,1,31000.0,583.0,12200,7.0,51.0,32200,36,Education,9.81,Mortgage,0
+26,Male,High School,Married,2,34700.0,494.0,6500,0.0,9.0,11000,24,Car,11.67,Rent,0
+27,Male,Bachelor,Single,0,47400.0,650.0,17100,1.0,18.0,24000,48,Personal,7.94,Rent,0
+61,Male,Bachelor,Divorced,4,37300.0,636.0,19100,0.0,36.0,6400,48,Home,10.12,Rent,1
+34,Male,Bachelor,Divorced,4,91400.0,629.0,54200,4.0,90.0,27400,24,Personal,4.24,Rent,0
+55,Male,Master,Single,0,30400.0,699.0,4700,4.0,149.0,24100,48,Car,6.81,Rent,0
+24,Male,PhD,Married,4,90800.0,749.0,44400,1.0,1.0,7300,36,Personal,13.64,Rent,1
+63,Female,High School,Divorced,4,804029.0,628.0,10400,2.0,21.0,19300,24,Medical,11.57,Mortgage,0
+30,Male,Bachelor,Single,1,41200.0,671.0,21900,5.0,53.0,26600,36,Education,11.01,Mortgage,0
+57,Female,Bachelor,Married,2,75700.0,630.0,41900,6.0,36.0,30300,36,Car,5.84,Own,0
+59,Male,Bachelor,Single,1,54700.0,691.0,40300,5.0,138.0,44000,48,Medical,3.93,Rent,1
+26,Male,High School,Married,2,53300.0,532.0,20600,7.0,1.0,39600,12,Car,5.62,Mortgage,1
+67,Female,High School,Single,4,50100.0,699.0,23900,6.0,28.0,16700,48,Education,8.81,Mortgage,0
+44,Male,Master,Married,2,95500.0,,27500,3.0,53.0,16500,24,Education,10.09,Mortgage,0
+19,Male,Bachelor,Single,4,42300.0,573.0,12700,6.0,12.0,7800,24,Car,13.25,Mortgage,0
+22,Female,Bachelor,Married,4,43400.0,827.0,5700,1.0,62.0,12900,36,Car,4.89,Rent,0
+46,Female,Master,Divorced,1,75000.0,541.0,22500,5.0,4.0,35300,36,Home,6.8,Rent,0
+54,Male,Master,Married,1,58300.0,676.0,8400,6.0,29.0,5900,60,Personal,13.4,Own,0
+55,Male,High School,Married,3,28100.0,573.0,21800,3.0,54.0,23100,36,Personal,3.73,Own,1
+36,Female,Bachelor,Married,0,57500.0,696.0,30900,0.0,15.0,21400,36,Home,9.16,Mortgage,1
+25,Male,Bachelor,Single,3,53600.0,810.0,11900,6.0,,15900,60,Car,3.0,Mortgage,0
+65,Female,Master,Single,3,91500.0,712.0,16600,2.0,151.0,9400,36,Car,7.46,Mortgage,0
+62,Female,Master,Divorced,2,60200.0,641.0,21600,3.0,118.0,2300,24,Car,14.4,Rent,1
+18,Female,Bachelor,Married,4,39000.0,724.0,12300,4.0,125.0,9500,36,Personal,10.15,Rent,0
+39,Male,Bachelor,Single,4,42100.0,603.0,12400,6.0,184.0,24000,60,Personal,12.47,Mortgage,0
+69,Female,Master,Married,4,37300.0,689.0,16000,4.0,10.0,32200,48,Personal,10.14,Rent,1
+34,Female,High School,Single,0,21700.0,657.0,16000,0.0,8.0,44300,48,Personal,10.09,Mortgage,1
+24,Male,High School,Single,2,29200.0,553.0,14500,,2.0,29000,48,Education,3.6,Own,1
+42,Male,Bachelor,Divorced,2,40200.0,787.0,18700,3.0,107.0,32100,48,Medical,14.7,Own,1
+62,Female,High School,Divorced,4,53900.0,750.0,35800,6.0,,44300,48,Personal,13.39,Mortgage,0
+21,Male,High School,Married,3,31200.0,,3200,6.0,48.0,29100,24,Medical,6.26,Mortgage,0
+53,Male,Master,Divorced,0,99600.0,732.0,23700,0.0,126.0,36800,24,Personal,13.09,Mortgage,0
+23,Male,PhD,Married,3,82600.0,556.0,36900,6.0,41.0,20400,36,Personal,11.69,Mortgage,1
+48,Female,Bachelor,Married,1,60400.0,687.0,35900,4.0,7.0,33700,60,Home,10.46,Own,1
+36,Female,Bachelor,Single,2,44500.0,654.0,19600,6.0,9.0,27500,48,Personal,9.14,Rent,1
+61,Female,Bachelor,Single,2,60500.0,784.0,13000,7.0,7.0,22100,36,Medical,8.2,Own,1
+56,Male,Bachelor,Married,3,,677.0,13500,6.0,18.0,43600,12,Home,13.72,Rent,1
+44,Male,High School,Divorced,0,35000.0,526.0,11600,4.0,23.0,10600,24,Personal,8.9,Rent,0
+27,Female,PhD,Married,2,93900.0,732.0,61200,4.0,77.0,14700,48,Car,9.92,Rent,0
+43,Male,High School,Single,3,16800.0,615.0,12200,2.0,10.0,39100,24,Personal,13.47,Mortgage,1
+36,Male,Bachelor,Single,0,50700.0,611.0,17400,2.0,62.0,36700,48,Personal,11.99,Rent,0
+56,Female,High School,Married,3,15900.0,652.0,11000,4.0,,25200,24,Car,4.79,Rent,1
+20,Female,Master,Single,0,85100.0,,50900,5.0,360.0,29100,36,Personal,6.75,Own,0
+62,Female,Master,Married,4,93800.0,,68800,1.0,72.0,31200,36,Personal,6.03,Own,0
+30,Female,PhD,Single,0,75800.0,714.0,20900,2.0,167.0,29400,48,Medical,9.84,Rent,0
+67,Female,Master,Single,1,78600.0,558.0,59100,3.0,20.0,27900,36,Car,7.05,Mortgage,0
+45,Male,Bachelor,Married,4,63600.0,592.0,9300,2.0,6.0,14900,36,Home,7.35,Rent,1
+37,Female,High School,Married,3,15000.0,545.0,9800,3.0,34.0,39900,36,Education,7.8,Mortgage,1
+45,Female,Bachelor,Single,4,58600.0,727.0,23700,2.0,6.0,22600,60,Home,9.61,Rent,0
+25,Male,Bachelor,Single,4,76400.0,645.0,17200,4.0,33.0,13100,36,Education,7.72,Rent,0
+58,Female,Bachelor,Married,3,56900.0,572.0,8900,6.0,15.0,26600,24,Personal,11.41,Mortgage,0
+56,Female,High School,Single,3,44100.0,776.0,16400,3.0,32.0,29100,48,Personal,5.23,Own,0
+18,Female,High School,Married,1,,690.0,16600,7.0,143.0,29700,36,Home,4.06,Rent,0
+20,Female,Bachelor,Divorced,3,63000.0,665.0,16400,6.0,16.0,36700,48,Home,6.54,Rent,0
+30,Female,Bachelor,Single,2,76200.0,661.0,19100,6.0,241.0,20400,24,Personal,5.45,Own,0
+45,Female,Master,Divorced,2,68400.0,,26000,1.0,13.0,24200,24,Education,8.67,Mortgage,0
+66,Male,High School,Single,1,37100.0,695.0,14400,2.0,11.0,14900,60,Personal,7.3,Own,0
+42,Female,Bachelor,Married,0,62300.0,616.0,25500,2.0,38.0,27800,60,Personal,4.6,Own,0
+50,Male,High School,Married,0,53200.0,,37700,4.0,89.0,14700,36,Personal,4.55,Own,0
+55,Male,High School,Divorced,2,15000.0,701.0,7900,3.0,66.0,17900,12,Home,9.05,Rent,0
+23,Male,Bachelor,Single,3,54500.0,645.0,6200,5.0,62.0,36800,36,Home,11.2,Rent,0
+61,Male,High School,Married,1,,639.0,22800,4.0,16.0,26600,24,Car,6.38,Rent,1
+62,Male,High School,Divorced,0,40400.0,783.0,25600,6.0,1.0,42100,36,Home,8.24,Own,1
+49,Female,Bachelor,Married,0,72400.0,543.0,10100,3.0,8.0,39100,36,Personal,6.57,Own,1
+62,Female,Bachelor,Married,4,52100.0,604.0,20600,2.0,21.0,27600,48,Education,8.04,Own,0
+64,Female,High School,Single,2,38500.0,741.0,16000,2.0,171.0,29200,12,Education,13.79,Own,1
+38,Male,High School,Married,3,40900.0,769.0,31400,2.0,121.0,22100,36,Personal,16.0,Mortgage,0
+33,Female,High School,Single,1,39400.0,639.0,17100,2.0,11.0,37500,48,Education,7.16,Rent,0
+38,Female,High School,Single,0,36900.0,594.0,23100,7.0,62.0,29400,48,Education,6.97,Rent,1
+28,Female,Bachelor,Married,4,48400.0,596.0,15100,0.0,42.0,35900,36,Personal,9.8,Own,0
+54,Male,Bachelor,Single,2,44500.0,535.0,28700,2.0,2.0,17200,36,Car,8.86,Mortgage,1
+53,Male,Bachelor,Divorced,2,32400.0,810.0,10600,2.0,22.0,8700,48,Home,10.54,Mortgage,0
+52,Male,Bachelor,Divorced,1,39000.0,638.0,15600,5.0,32.0,31000,48,Education,8.13,Mortgage,0
+36,Male,Bachelor,Married,0,45200.0,687.0,19700,5.0,53.0,33400,12,Education,7.95,Own,0
+37,Male,Master,Married,1,80000.0,688.0,59900,3.0,17.0,25900,12,Education,9.82,Own,0
+35,Female,Master,Married,1,40900.0,769.0,5600,6.0,130.0,31900,48,Car,9.23,Mortgage,0
+64,Male,Master,Single,4,88100.0,616.0,21000,2.0,29.0,14800,36,Home,7.05,Own,0
+58,Male,Bachelor,Married,2,56200.0,622.0,33400,2.0,14.0,36300,60,Car,8.87,Rent,1
+66,Male,Bachelor,Single,3,68400.0,716.0,34500,7.0,18.0,39100,36,Home,8.88,Own,0
+31,Male,Bachelor,Single,2,40600.0,506.0,11200,3.0,67.0,37200,24,Medical,3.0,Own,0
+32,Male,High School,Married,2,44400.0,769.0,13400,6.0,49.0,26500,36,Medical,8.33,Own,0
+48,Male,High School,Married,4,52600.0,789.0,18800,,65.0,39200,36,Medical,11.21,Rent,0
+18,Male,Bachelor,Divorced,3,44700.0,670.0,18600,7.0,17.0,11300,36,Home,7.18,Mortgage,1
+20,Female,Master,Single,0,81300.0,575.0,54700,2.0,19.0,31900,48,Home,6.27,Own,0
+33,Female,Bachelor,Married,3,49100.0,718.0,5400,,24.0,33600,48,Personal,6.28,Own,1
+40,Male,Master,Single,0,72900.0,635.0,53100,0.0,,31000,24,Medical,9.49,Mortgage,1
+28,Male,Bachelor,Married,3,47000.0,661.0,18300,3.0,56.0,13700,48,Personal,5.54,Rent,0
+29,Female,Bachelor,Married,1,70400.0,667.0,18400,4.0,19.0,27800,36,Car,9.21,Mortgage,0
+27,Male,High School,Married,3,31700.0,597.0,14500,5.0,19.0,21900,36,Education,8.98,Mortgage,0
+49,Male,High School,Single,4,68700.0,678.0,38600,6.0,15.0,1500,48,Personal,4.5,Own,0
+33,Female,Master,Single,0,69900.0,533.0,9200,1.0,29.0,10900,36,Personal,11.34,Rent,0
+25,Male,Bachelor,Single,2,49200.0,,29600,1.0,71.0,38900,36,Personal,12.25,Mortgage,1
+55,Female,Bachelor,Married,4,51900.0,679.0,32800,5.0,87.0,20200,36,Personal,9.25,Rent,1
+29,Female,Master,Divorced,0,25900.0,733.0,5600,0.0,78.0,37700,48,Personal,8.62,Own,0
+41,Male,High School,Single,0,15000.0,609.0,3300,6.0,47.0,38700,24,Medical,7.0,Rent,1
+45,Male,PhD,Married,2,80900.0,604.0,19600,6.0,16.0,31600,36,Home,7.11,Mortgage,0
+25,Female,Bachelor,Divorced,1,59500.0,702.0,39100,7.0,64.0,17600,36,Medical,7.2,Mortgage,1
+45,Male,Bachelor,Married,4,26500.0,648.0,7700,1.0,2.0,36300,12,Home,10.73,Rent,1
+53,Male,Bachelor,Married,2,51500.0,605.0,33800,0.0,,27600,48,Home,10.22,Rent,1
+43,Female,High School,Married,2,45200.0,674.0,21600,1.0,73.0,25500,36,Medical,3.0,Rent,0
+25,Female,High School,Single,1,15000.0,651.0,9600,1.0,53.0,14100,12,Personal,4.06,Own,1
+67,Male,Bachelor,Single,4,27400.0,550.0,13400,6.0,5.0,19000,36,Medical,6.01,Own,1
+45,Female,Master,Single,2,75900.0,641.0,25400,7.0,285.0,14200,24,Car,7.11,Rent,0
+45,Male,Master,Divorced,1,63300.0,665.0,46700,4.0,68.0,36500,48,Education,9.79,Mortgage,1
+54,Female,High School,Divorced,4,40200.0,607.0,24100,6.0,64.0,43400,36,Personal,6.88,Own,0
+58,Female,Bachelor,Married,3,49500.0,724.0,21700,1.0,3.0,36100,24,Personal,9.76,Mortgage,1
+53,Female,High School,Single,0,25300.0,689.0,13800,6.0,24.0,27400,60,Education,13.29,Own,1
+44,Male,High School,Married,1,31000.0,628.0,16500,5.0,4.0,21300,24,Education,6.75,Rent,0
+34,Female,Bachelor,Single,0,49000.0,661.0,17200,0.0,21.0,30700,36,Personal,5.75,Mortgage,0
+26,Male,Bachelor,Single,3,53000.0,620.0,21000,2.0,41.0,20000,48,Car,5.12,Own,0
+50,Female,High School,Married,2,29900.0,632.0,9700,6.0,101.0,24600,36,Home,5.4,Own,1
+37,Male,High School,Divorced,2,27100.0,635.0,21700,6.0,,15100,60,Car,10.16,Own,1
+30,Male,PhD,Divorced,4,77200.0,,39100,2.0,47.0,32800,48,Car,10.78,Mortgage,0
+45,Male,High School,Married,1,28000.0,,4600,2.0,9.0,33400,60,Car,10.38,Rent,1
+65,Female,Bachelor,Single,1,58500.0,675.0,27100,0.0,21.0,35900,36,Education,5.35,Own,0
+46,Female,Bachelor,Single,4,48800.0,847.0,6600,7.0,141.0,31700,36,Car,7.35,Mortgage,0
+30,Male,High School,Single,0,42800.0,685.0,12900,0.0,66.0,30900,48,Home,7.36,Rent,1
+63,Male,High School,Married,2,27700.0,,11400,2.0,38.0,12500,60,Home,13.65,Own,0
+52,Female,Bachelor,Married,2,63700.0,519.0,30200,5.0,14.0,12000,60,Personal,9.39,Rent,1
+23,Male,Master,Married,1,59900.0,565.0,46900,1.0,23.0,29000,60,Medical,8.83,Rent,1
+35,Male,Bachelor,Married,1,53600.0,610.0,42200,2.0,8.0,38200,48,Car,9.33,Own,0
+68,Female,Bachelor,Single,4,21400.0,611.0,3600,3.0,21.0,21800,12,Car,7.21,Rent,1
+22,Female,PhD,Single,3,54300.0,631.0,25900,6.0,8.0,25100,36,Education,9.71,Own,0
+64,Female,Master,Married,0,80100.0,618.0,53800,0.0,76.0,25200,24,Medical,7.06,Mortgage,0
+42,Male,Bachelor,Single,3,41500.0,632.0,11100,3.0,4.0,2900,24,Education,12.78,Own,0
+19,Male,Bachelor,Married,3,53800.0,616.0,33600,3.0,10.0,27900,24,Personal,5.89,Own,1
+27,Female,Bachelor,Divorced,1,58700.0,651.0,42000,0.0,56.0,18400,12,Medical,9.07,Mortgage,1
+47,Female,Bachelor,Married,1,28700.0,578.0,16200,7.0,112.0,32300,24,Personal,10.51,Rent,1
+67,Female,Bachelor,Single,1,40800.0,549.0,13400,6.0,160.0,24600,60,Home,8.26,Own,0
+62,Female,Bachelor,Single,3,39800.0,631.0,29700,2.0,87.0,22800,36,Personal,8.88,Mortgage,1
+22,Male,High School,Married,0,39000.0,685.0,28000,5.0,11.0,23100,24,Personal,7.9,Mortgage,1
+50,Female,Bachelor,Married,1,67700.0,906.0,40700,4.0,16.0,21100,48,Home,5.76,Own,1
+18,Male,Bachelor,Married,2,48700.0,604.0,17300,7.0,98.0,8700,48,Car,13.7,Mortgage,0
+35,Male,High School,Married,0,28900.0,638.0,18900,7.0,106.0,36400,36,Education,7.42,Rent,0
+49,Female,High School,Married,2,33400.0,636.0,10700,,49.0,17400,24,Home,4.58,Mortgage,0
+64,Male,Bachelor,Married,0,60900.0,710.0,16900,2.0,18.0,19400,24,Personal,6.33,Mortgage,0
+66,Male,Bachelor,Single,1,36200.0,725.0,16700,4.0,12.0,25900,36,Personal,12.49,Mortgage,0
+28,Female,Bachelor,Married,4,72600.0,668.0,57900,6.0,92.0,11600,12,Car,15.33,Mortgage,0
+38,Male,Bachelor,Single,1,40500.0,747.0,26900,3.0,11.0,19000,48,Home,9.62,Mortgage,1
+43,Female,Bachelor,Single,3,41300.0,,25200,2.0,,48000,48,Personal,10.87,Own,0
+42,Male,High School,Married,3,17800.0,717.0,7400,3.0,165.0,29000,48,Car,14.04,Mortgage,1
+39,Female,Bachelor,Married,0,57200.0,601.0,18200,7.0,59.0,14700,36,Home,5.62,Rent,0
+44,Male,Master,Divorced,3,103000.0,674.0,72000,2.0,14.0,1000,24,Car,9.68,Mortgage,0
+66,Male,Master,Married,1,,702.0,38600,7.0,16.0,37000,36,Personal,13.98,Mortgage,0
+30,Female,Bachelor,Divorced,2,34600.0,654.0,23200,6.0,5.0,12900,36,Personal,11.02,Rent,1
+50,Female,Bachelor,Divorced,1,79700.0,573.0,35200,5.0,56.0,18500,48,Education,7.68,Own,0
+51,Male,High School,Married,0,23900.0,516.0,15000,6.0,35.0,20000,60,Car,9.59,Mortgage,0
+58,Male,Bachelor,Married,3,50700.0,695.0,35900,1.0,11.0,14000,12,Car,14.09,Own,0
+52,Female,High School,Married,2,24200.0,628.0,9100,1.0,12.0,24100,60,Home,8.95,Rent,1
+18,Female,PhD,Divorced,4,64900.0,634.0,7100,6.0,0.0,18400,60,Personal,5.73,Rent,0
+38,Female,High School,Married,2,21500.0,770.0,6000,0.0,184.0,32300,24,Home,10.33,Own,0
+65,Female,High School,Single,2,35200.0,574.0,26100,4.0,,26700,24,Education,5.79,Mortgage,0
+23,Male,Master,Married,1,50400.0,709.0,29300,6.0,24.0,42200,36,Education,6.3,Own,1
+45,Male,PhD,Single,4,113900.0,591.0,70200,6.0,140.0,42400,36,Home,7.1,Mortgage,0
+34,Female,Master,Married,0,67900.0,636.0,22300,3.0,54.0,13500,24,Personal,8.44,Mortgage,0
+22,Male,High School,Single,0,54000.0,563.0,31900,3.0,67.0,21100,24,Car,5.96,Rent,1
+48,Male,High School,Married,2,43300.0,590.0,23900,2.0,55.0,50900,60,Home,9.73,Mortgage,1
+22,Female,Bachelor,Divorced,2,28000.0,683.0,6300,4.0,68.0,11100,24,Personal,7.46,Rent,0
+55,Female,High School,Single,3,42400.0,754.0,33000,7.0,9.0,34600,36,Home,10.96,Rent,1
+20,Female,High School,Single,4,44000.0,,15300,3.0,40.0,31600,48,Home,8.62,Rent,1
+40,Female,Bachelor,Single,2,35500.0,674.0,11700,4.0,91.0,14800,60,Education,8.04,Mortgage,0
+54,Female,PhD,Married,3,87600.0,850.0,31400,6.0,1.0,15400,36,Home,8.16,Rent,0
+54,Male,Bachelor,Single,4,69000.0,695.0,11300,4.0,6.0,47100,24,Personal,12.88,Mortgage,0
+27,Male,Bachelor,Single,0,52100.0,575.0,28000,1.0,14.0,46900,48,Home,11.15,Rent,1
+27,Male,Bachelor,Single,3,,515.0,17600,7.0,17.0,30200,48,Home,4.21,Rent,1
+36,Male,Bachelor,Married,4,58900.0,680.0,39000,3.0,10.0,8400,60,Personal,7.0,Own,1
+34,Female,Bachelor,Single,3,59100.0,537.0,22200,3.0,47.0,40100,24,Home,8.79,Rent,0
+38,Male,High School,Married,2,47600.0,570.0,20000,0.0,17.0,8300,48,Personal,3.0,Mortgage,0
+31,Male,High School,Single,1,15000.0,674.0,8300,4.0,8.0,33600,36,Car,9.79,Mortgage,1
+26,Male,Master,Married,0,66500.0,733.0,42100,2.0,113.0,5600,60,Home,5.95,Mortgage,0
+63,Male,High School,Single,2,15000.0,627.0,3900,7.0,57.0,25100,36,Home,6.3,Mortgage,0
+18,Male,PhD,Married,2,73400.0,554.0,57000,1.0,14.0,35600,36,Car,6.39,Own,1
+68,Male,High School,Single,4,37500.0,638.0,20100,6.0,21.0,1000,24,Education,12.28,Own,0
+62,Male,Bachelor,Married,3,57800.0,628.0,6000,0.0,65.0,18700,36,Home,10.33,Rent,0
+30,Male,Bachelor,Divorced,0,37400.0,659.0,14600,1.0,75.0,26800,36,Education,7.15,Rent,0
+21,Male,High School,Divorced,2,,554.0,25100,2.0,9.0,20900,12,Car,6.81,Own,0
+18,Female,High School,Married,4,23700.0,583.0,15800,0.0,132.0,16900,36,Car,8.99,Own,0
+66,Male,Bachelor,Married,0,22200.0,732.0,7000,1.0,74.0,23400,36,Car,13.29,Mortgage,1
+57,Male,Master,Married,3,80100.0,711.0,26600,,93.0,37500,48,Education,7.73,Rent,0
+49,Female,Master,Married,2,90900.0,743.0,13600,5.0,7.0,41400,24,Home,3.0,Rent,1
+51,Male,Bachelor,Single,2,70100.0,,20900,0.0,7.0,33500,48,Home,9.0,Rent,0
+45,Female,Master,Married,2,95900.0,579.0,57700,2.0,17.0,43600,48,Personal,9.32,Own,1
+48,Female,Bachelor,Married,0,44300.0,729.0,24100,0.0,,18600,24,Car,9.61,Rent,1
+25,Male,Master,Single,0,89400.0,697.0,14000,3.0,5.0,32200,12,Home,8.39,Own,0
+56,Female,Bachelor,Single,0,54300.0,683.0,9800,3.0,7.0,12800,48,Home,8.91,Mortgage,0
+43,Male,Bachelor,Single,0,66500.0,,24200,1.0,60.0,60200,24,Car,5.56,Own,0
+51,Female,Master,Married,4,43900.0,600.0,27200,7.0,1.0,26200,24,Personal,11.77,Mortgage,0
+20,Male,Bachelor,Single,1,90500.0,,61800,4.0,4.0,34600,36,Home,6.93,Mortgage,0
+67,Female,Master,Single,4,77300.0,614.0,8500,5.0,139.0,3900,36,Education,7.73,Rent,0
+29,Male,Bachelor,Single,2,55400.0,692.0,18300,6.0,4.0,34400,36,Car,9.68,Mortgage,1
+18,Male,High School,Married,4,15000.0,653.0,6000,4.0,37.0,26400,60,Personal,9.14,Own,1
+61,Female,High School,Married,3,46200.0,572.0,34100,6.0,49.0,30600,60,Home,13.23,Own,0
+22,Male,Bachelor,Single,0,,701.0,19600,6.0,153.0,25200,60,Medical,12.43,Rent,0
+47,Male,Bachelor,Single,3,53200.0,750.0,15400,6.0,110.0,23600,36,Home,7.02,Mortgage,0
+47,Female,Master,Single,3,68800.0,756.0,25700,2.0,28.0,21300,60,Education,14.43,Own,0
+34,Female,High School,Divorced,2,47900.0,704.0,19400,0.0,137.0,23900,48,Education,11.35,Own,0
+65,Male,Master,Married,0,61400.0,705.0,34900,3.0,27.0,42600,48,Home,8.89,Rent,0
+64,Female,Master,Married,3,92800.0,557.0,11900,4.0,53.0,20600,36,Education,6.51,Mortgage,0
+40,Female,High School,Single,2,26000.0,596.0,9700,7.0,14.0,52100,24,Education,8.31,Own,1
+32,Female,Master,Married,0,69500.0,637.0,38400,6.0,49.0,25700,60,Car,3.0,Rent,0
+54,Male,PhD,Married,1,90400.0,,27000,3.0,37.0,41800,36,Car,10.13,Rent,0
+38,Female,Master,Single,2,,602.0,35600,6.0,45.0,38700,60,Home,4.54,Own,1
+31,Male,Master,Single,4,991256.0,625.0,26200,5.0,55.0,6200,24,Home,9.96,Mortgage,0
+19,Female,PhD,Married,0,103100.0,695.0,65100,2.0,9.0,8800,60,Home,7.06,Rent,1
+28,Male,Bachelor,Married,3,64500.0,661.0,9200,7.0,17.0,16900,24,Education,8.88,Mortgage,0
+68,Male,Bachelor,Divorced,3,60000.0,677.0,44600,5.0,64.0,6500,36,Car,6.65,Mortgage,0
+56,Female,Master,Married,4,73400.0,588.0,16200,5.0,9.0,20000,36,Home,6.33,Own,0
+55,Male,Bachelor,Married,4,55800.0,624.0,11800,2.0,20.0,25300,48,Medical,10.7,Rent,0
+51,Female,Bachelor,Single,3,37800.0,612.0,26000,0.0,53.0,32800,48,Education,6.62,Mortgage,1
+55,Female,Bachelor,Married,0,73800.0,,52300,7.0,133.0,27200,36,Personal,5.79,Rent,0
+67,Female,Master,Married,2,83000.0,615.0,13700,5.0,4.0,25100,12,Personal,5.35,Rent,1
+51,Male,High School,Single,4,65100.0,604.0,47900,4.0,35.0,37300,36,Personal,11.06,Mortgage,1
+131,Female,PhD,Divorced,4,100600.0,660.0,29300,6.0,4.0,35700,36,Home,5.14,Own,0
+47,Male,Bachelor,Single,4,38200.0,818.0,20400,2.0,23.0,47900,48,Medical,8.52,Mortgage,0
+32,Male,High School,Single,1,18500.0,697.0,2700,2.0,9.0,27200,24,Medical,15.14,Mortgage,0
+44,Female,Bachelor,Married,0,62000.0,508.0,22700,6.0,50.0,1000,36,Personal,6.43,Rent,0
+68,Male,High School,Married,0,44000.0,678.0,18300,3.0,68.0,30100,60,Car,6.16,Own,0
+51,Male,Bachelor,Married,0,63600.0,609.0,33100,1.0,14.0,52200,12,Medical,11.76,Mortgage,1
+69,Female,Master,Single,0,89200.0,575.0,41700,7.0,60.0,37300,36,Medical,4.94,Own,1
+55,Male,Master,Married,0,47700.0,706.0,20200,5.0,28.0,40100,12,Car,11.76,Rent,0
+50,Male,High School,Married,3,53800.0,656.0,41500,4.0,16.0,26100,24,Medical,7.36,Mortgage,0
+41,Female,High School,Married,4,24900.0,849.0,5700,0.0,36.0,36000,36,Home,11.21,Own,0
+32,Male,Master,Divorced,3,66800.0,641.0,14100,5.0,23.0,40700,36,Medical,9.82,Mortgage,0
+47,Female,PhD,Married,1,98900.0,632.0,59300,6.0,13.0,21000,36,Medical,10.22,Rent,0
+59,Female,Bachelor,Single,2,60800.0,746.0,9300,0.0,68.0,19000,60,Home,7.17,Rent,0
+68,Female,Bachelor,Married,4,37600.0,652.0,16500,3.0,,30500,48,Personal,7.32,Rent,1
+34,Female,Bachelor,Single,1,51200.0,565.0,22500,5.0,77.0,36600,60,Personal,6.94,Mortgage,0
+22,Male,Master,Single,3,46500.0,580.0,14700,0.0,23.0,1000,36,Home,12.49,Mortgage,0
+46,Male,Bachelor,Married,2,69600.0,624.0,52300,5.0,9.0,22700,36,Home,8.52,Rent,1
+21,Female,Bachelor,Divorced,1,62800.0,703.0,18700,2.0,88.0,1600,36,Medical,14.35,Rent,0
+27,Female,Bachelor,Single,2,84100.0,752.0,25400,5.0,19.0,23500,48,Education,9.19,Rent,0
+34,Female,Master,Married,1,86400.0,714.0,22800,4.0,66.0,45300,36,Car,7.95,Rent,0
+27,Male,High School,Single,3,21400.0,695.0,4300,5.0,82.0,17500,24,Personal,7.85,Own,1
+34,Male,Bachelor,Married,2,52900.0,738.0,18800,0.0,70.0,21600,24,Personal,6.41,Mortgage,0
+37,Male,Bachelor,Married,1,,700.0,23700,4.0,,32900,36,Education,9.17,Mortgage,1
+41,Female,High School,Married,3,34200.0,578.0,21200,0.0,133.0,36900,12,Home,8.23,Mortgage,1
+22,Male,High School,Single,4,34100.0,,22800,7.0,52.0,36500,24,Education,6.66,Rent,1
+51,Female,Master,Married,3,,609.0,15700,6.0,41.0,25400,48,Medical,8.32,Mortgage,1
+23,Female,Master,Divorced,3,49800.0,751.0,6200,6.0,57.0,31800,12,Personal,7.0,Mortgage,0
+19,Male,Master,Married,4,56600.0,574.0,44300,1.0,2.0,31300,36,Home,9.36,Rent,1
+30,Female,Master,Married,3,75900.0,575.0,8400,1.0,24.0,16600,48,Education,10.65,Mortgage,0
+60,Male,Bachelor,Divorced,4,43700.0,664.0,33800,4.0,102.0,4000,24,Car,6.62,Own,0
+60,Female,Master,Single,4,83300.0,804.0,56700,6.0,8.0,14200,24,Medical,7.13,Own,0
+65,Female,Bachelor,Married,4,67800.0,709.0,50100,1.0,26.0,42300,12,Home,5.79,Own,1
+28,Female,Bachelor,Divorced,1,17900.0,733.0,6600,1.0,25.0,51600,36,Personal,11.9,Own,1
+68,Female,PhD,Single,2,,561.0,16600,2.0,21.0,23900,48,Education,3.18,Rent,0
+64,Male,High School,Married,1,27600.0,704.0,14500,0.0,40.0,41800,36,Personal,6.52,Mortgage,1
+40,Male,Bachelor,Single,4,16600.0,561.0,10300,1.0,267.0,21400,36,Car,10.63,Mortgage,1
+33,Female,Bachelor,Married,2,55400.0,708.0,10600,4.0,,29200,36,Medical,6.61,Mortgage,0
+48,Male,High School,Married,2,22000.0,524.0,14500,2.0,59.0,17600,48,Personal,6.5,Rent,1
+28,Male,High School,Single,4,15000.0,623.0,3700,6.0,68.0,37200,12,Personal,10.52,Rent,1
+33,Male,Master,Married,2,95300.0,486.0,42300,1.0,42.0,17300,48,Personal,3.0,Rent,1
+25,Female,PhD,Single,2,66300.0,579.0,46400,5.0,5.0,14300,48,Home,8.59,Rent,1
+21,Male,Bachelor,Married,1,43400.0,536.0,10200,6.0,41.0,25600,24,Car,6.85,Mortgage,0
+57,Female,High School,Single,2,,,9900,4.0,,34800,36,Home,6.91,Rent,0
+21,Female,High School,Divorced,4,50200.0,658.0,7200,0.0,20.0,27000,12,Car,11.7,Rent,0
+42,Male,Master,Single,0,63000.0,613.0,12800,7.0,49.0,19400,36,Home,8.44,Mortgage,0
+20,Male,Bachelor,Divorced,0,68500.0,659.0,13900,6.0,154.0,14200,24,Medical,5.04,Own,0
+49,Male,Bachelor,Married,0,36300.0,584.0,8800,5.0,77.0,4800,12,Personal,4.06,Rent,0
+20,Female,Bachelor,Single,4,54300.0,676.0,16300,6.0,56.0,19500,36,Education,8.32,Mortgage,0
+44,Male,Bachelor,Married,0,83600.0,,56100,1.0,170.0,23200,48,Personal,4.37,Mortgage,0
+46,Male,Bachelor,Married,1,28100.0,832.0,20800,4.0,9.0,31600,60,Home,12.12,Own,0
+49,Male,Master,Married,4,89900.0,781.0,34600,5.0,71.0,11000,48,Personal,5.19,Rent,0
+67,Female,Bachelor,Single,4,71200.0,725.0,13500,7.0,25.0,33000,36,Home,8.46,Rent,0
+68,Male,Bachelor,Married,4,55300.0,673.0,14200,4.0,21.0,17900,60,Education,3.0,Own,0
+36,Female,Bachelor,Single,2,43000.0,684.0,26500,3.0,35.0,18800,24,Car,3.0,Rent,1
+38,Female,Master,Single,2,58600.0,,33600,6.0,2.0,40000,24,Personal,7.87,Rent,1
+22,Male,Bachelor,Married,2,51500.0,673.0,40000,5.0,18.0,1000,36,Personal,18.1,Mortgage,1
+35,Female,High School,Single,3,37100.0,678.0,4100,4.0,9.0,10300,36,Car,6.81,Own,0
+45,Male,Bachelor,Single,1,54100.0,604.0,33800,5.0,7.0,25500,36,Home,10.57,Mortgage,0
+59,Female,Bachelor,Single,4,34900.0,595.0,15800,3.0,20.0,24900,48,Medical,7.02,Rent,1
+39,Female,Master,Single,4,90000.0,641.0,65900,0.0,78.0,4600,24,Education,11.55,Mortgage,0
+38,Female,Bachelor,Single,2,43500.0,441.0,21900,7.0,11.0,19100,36,Education,8.22,Rent,1
+23,Male,PhD,Divorced,4,83100.0,648.0,34300,0.0,36.0,36500,36,Home,4.76,Mortgage,1
+18,Male,High School,Single,4,30600.0,631.0,17300,6.0,,11000,48,Personal,7.75,Mortgage,1
+22,Male,Master,Married,0,106200.0,720.0,72600,2.0,13.0,38000,60,Home,3.16,Rent,0
+58,Male,Bachelor,Single,4,91500.0,748.0,27200,5.0,124.0,16400,48,Car,5.83,Mortgage,0
+29,Male,Master,Divorced,3,69000.0,850.0,12100,3.0,97.0,2500,36,Home,9.64,Rent,0
+43,Male,Bachelor,Single,2,40800.0,696.0,16400,7.0,14.0,34800,48,Personal,6.54,Rent,1
+63,Male,Bachelor,Divorced,1,50600.0,662.0,12700,4.0,219.0,28000,24,Home,7.19,Own,0
+51,Male,Master,Married,1,55900.0,605.0,22400,2.0,53.0,7400,60,Personal,11.32,Rent,0
+66,Female,High School,Single,0,31700.0,566.0,25200,5.0,16.0,18500,48,Home,7.0,Mortgage,1
+31,Male,High School,Divorced,1,40800.0,723.0,20500,2.0,55.0,45700,36,Car,10.04,Own,0
+43,Male,Bachelor,Married,1,49400.0,648.0,28900,7.0,53.0,32900,48,Personal,6.71,Rent,1
+62,Male,Bachelor,Single,2,67800.0,684.0,39000,5.0,45.0,38400,36,Home,11.25,Rent,0
+44,Male,Bachelor,Married,2,48400.0,651.0,32600,6.0,60.0,11300,12,Personal,12.43,Rent,0
+26,Female,Bachelor,Divorced,3,47100.0,654.0,35800,6.0,15.0,39700,48,Personal,3.0,Mortgage,1
+43,Male,Bachelor,Married,0,41500.0,668.0,23300,0.0,185.0,7900,36,Medical,5.55,Own,0
+64,Female,Master,Single,1,106600.0,684.0,46200,,94.0,8300,60,Home,7.79,Mortgage,0
+39,Female,Bachelor,Married,3,33800.0,725.0,10900,3.0,66.0,35000,36,Personal,6.45,Mortgage,0
+64,Female,Master,Married,0,68900.0,551.0,24300,6.0,1.0,9000,48,Personal,11.07,Own,1
+47,Female,PhD,Divorced,1,69800.0,697.0,23300,0.0,43.0,43200,48,Personal,9.16,Mortgage,0
+60,Female,Bachelor,Married,1,33800.0,547.0,11100,2.0,59.0,10000,60,Personal,5.66,Rent,1
+65,Female,High School,Single,2,37900.0,706.0,22200,1.0,92.0,13300,24,Car,12.75,Rent,0
+34,Female,High School,Divorced,4,18200.0,676.0,9300,6.0,140.0,38800,36,Medical,12.7,Rent,1
+43,Female,Bachelor,Single,0,54100.0,644.0,13100,2.0,,17600,48,Education,4.51,Mortgage,0
+53,Female,PhD,Single,1,78700.0,647.0,61300,7.0,25.0,34500,36,Car,6.68,Mortgage,0
+18,Female,Bachelor,Married,0,38200.0,661.0,15300,1.0,109.0,11600,36,Medical,11.0,Mortgage,0
+25,Female,Bachelor,Married,3,51800.0,737.0,25700,5.0,0.0,21700,36,Personal,11.29,Mortgage,1
+66,Male,Bachelor,Single,3,77500.0,,45900,0.0,21.0,33900,60,Medical,12.71,Own,1
+52,Male,Bachelor,Married,4,73000.0,721.0,38700,5.0,6.0,14900,48,Personal,15.92,Rent,0
+69,Male,Bachelor,Married,1,32900.0,542.0,10500,3.0,103.0,37300,36,Home,9.75,Mortgage,1
+32,Male,High School,Married,2,41200.0,696.0,27100,4.0,126.0,20700,48,Car,12.33,Mortgage,0
+64,Male,PhD,Married,1,127500.0,458.0,22600,6.0,14.0,26400,36,Car,16.51,Rent,1
+39,Male,Bachelor,Married,0,58800.0,480.0,29300,1.0,22.0,13000,60,Home,8.46,Mortgage,1
+31,Female,High School,Single,3,43700.0,740.0,12700,6.0,198.0,15800,36,Car,6.15,Own,0
+43,Male,Master,Single,0,113200.0,534.0,60100,4.0,40.0,14900,36,Personal,9.26,Rent,0
+45,Female,High School,Divorced,4,25200.0,636.0,6400,5.0,33.0,17700,12,Education,13.28,Rent,1
+40,Male,Master,Single,3,64600.0,762.0,41400,0.0,33.0,43600,36,Car,13.94,Rent,0
+31,Male,PhD,Married,2,95600.0,697.0,24800,0.0,57.0,38400,36,Car,8.94,Mortgage,0
+41,Female,Master,Married,3,75000.0,680.0,54200,,148.0,30400,48,Medical,8.0,Mortgage,0
+19,Female,Master,Married,1,61700.0,646.0,43400,5.0,22.0,17100,60,Car,4.68,Own,0
+62,Male,Bachelor,Single,1,54500.0,660.0,19300,0.0,9.0,14900,60,Education,8.74,Mortgage,0
+43,Female,PhD,Married,3,126500.0,600.0,46800,3.0,10.0,13400,24,Car,4.96,Rent,1
+31,Female,Bachelor,Married,4,33000.0,612.0,19500,1.0,1.0,21400,36,Car,5.58,Mortgage,0
+68,Male,Master,Divorced,1,73700.0,657.0,12000,4.0,39.0,28400,48,Personal,9.21,Rent,1
+24,Male,PhD,Single,1,98800.0,669.0,15500,,127.0,32400,24,Education,4.67,Mortgage,0
+20,Female,PhD,Married,2,95400.0,637.0,18600,6.0,60.0,25200,36,Home,9.57,Rent,0
+64,Female,Master,Married,3,100300.0,471.0,49500,5.0,238.0,31800,36,Personal,11.35,Own,1
+40,Female,Bachelor,Married,1,30300.0,775.0,6200,5.0,115.0,36200,12,Home,5.34,Mortgage,0
+63,Female,PhD,Married,4,135100.0,,39800,6.0,32.0,20500,12,Home,6.73,Own,0
+60,Male,Bachelor,Single,0,51000.0,634.0,28200,0.0,32.0,38200,48,Personal,4.16,Rent,1
+64,Male,PhD,Single,3,58600.0,727.0,6500,4.0,48.0,13200,36,Personal,10.28,Own,0
+62,Male,Bachelor,Married,2,69000.0,621.0,15600,4.0,,32000,48,Home,4.04,Rent,0
+35,Female,Bachelor,Married,1,39000.0,675.0,29300,3.0,45.0,25400,48,Medical,10.6,Rent,1
+55,Female,Bachelor,Married,4,70000.0,496.0,39500,1.0,30.0,27100,24,Home,9.37,Own,1
+52,Female,Bachelor,Single,3,50900.0,,16000,3.0,49.0,20600,24,Personal,14.98,Mortgage,0
+68,Male,Master,Single,4,48800.0,627.0,6400,,40.0,40000,24,Medical,13.52,Rent,1
+32,Male,Bachelor,Single,4,42000.0,667.0,21400,3.0,18.0,17700,36,Home,4.94,Rent,0
+42,Male,Bachelor,Single,2,72600.0,787.0,18600,7.0,45.0,41600,60,Home,13.98,Mortgage,0
+54,Female,Bachelor,Married,3,47500.0,649.0,36700,4.0,22.0,41700,48,Education,6.9,Rent,1
+45,Female,Master,Divorced,1,64200.0,613.0,37300,1.0,10.0,30400,24,Medical,6.08,Mortgage,1
+27,Male,Bachelor,Single,2,73000.0,614.0,57100,1.0,54.0,21200,12,Personal,6.98,Rent,1
+56,Female,High School,Single,1,33700.0,537.0,23400,7.0,18.0,14900,48,Personal,7.64,Rent,1
+34,Male,High School,Single,0,38200.0,682.0,16700,1.0,106.0,1100,36,Car,14.98,Mortgage,0
+56,Female,High School,Married,4,32200.0,693.0,18300,6.0,11.0,31500,48,Personal,3.0,Own,1
+39,Male,Bachelor,Single,0,57300.0,655.0,38300,0.0,44.0,11700,24,Education,14.06,Mortgage,0
+43,Female,High School,Divorced,4,36300.0,724.0,18300,1.0,41.0,13300,36,Education,10.99,Rent,0
+61,Male,High School,Married,2,40300.0,724.0,5800,4.0,11.0,31600,36,Medical,9.0,Rent,0
+42,Female,PhD,Divorced,1,104200.0,656.0,44700,6.0,28.0,19800,48,Home,6.7,Mortgage,0
+34,Male,Master,Divorced,1,80700.0,697.0,15400,0.0,54.0,27600,12,Car,8.22,Rent,1
+30,Male,Bachelor,Married,2,24900.0,824.0,14900,2.0,18.0,30500,24,Personal,11.05,Mortgage,1
+37,Male,PhD,Married,3,88200.0,584.0,50800,7.0,6.0,44300,36,Education,11.39,Rent,1
+42,Male,High School,Single,0,48200.0,712.0,38300,5.0,46.0,27400,24,Personal,6.01,Own,1
+21,Male,Bachelor,Married,0,63500.0,,34300,3.0,12.0,18400,48,Home,10.82,Mortgage,0
+27,Female,Bachelor,Divorced,1,66100.0,734.0,43600,1.0,55.0,24100,24,Car,6.74,Mortgage,0
+20,Male,Bachelor,Single,1,23900.0,587.0,6900,7.0,88.0,18100,12,Car,7.97,Rent,1
+58,Female,Bachelor,Divorced,1,61600.0,666.0,20800,2.0,6.0,47600,60,Car,12.44,Mortgage,1
+62,Female,Bachelor,Single,2,59600.0,596.0,44200,1.0,28.0,29500,36,Personal,10.88,Rent,1
+35,Female,Bachelor,Divorced,3,60700.0,509.0,38200,,28.0,32000,24,Car,3.64,Mortgage,0
+64,Male,Master,Divorced,0,83600.0,762.0,46700,4.0,48.0,41200,24,Education,8.9,Own,0
+53,Male,High School,Married,4,41800.0,615.0,11600,4.0,20.0,14800,60,Education,9.76,Own,0
+64,Female,High School,Married,2,25800.0,583.0,15200,3.0,26.0,7900,48,Personal,8.95,Own,0
+39,Female,High School,Married,0,19800.0,604.0,14300,2.0,1.0,24700,60,Education,3.0,Mortgage,1
+51,Male,Bachelor,Married,3,51300.0,796.0,13400,7.0,6.0,7900,48,Medical,4.44,Rent,0
+64,Male,Bachelor,Divorced,2,48200.0,755.0,28600,0.0,40.0,20100,48,Personal,3.18,Rent,1
+25,Male,High School,Married,0,18800.0,633.0,7100,5.0,12.0,1000,36,Home,6.6,Mortgage,1
+57,Female,Master,Married,2,88100.0,719.0,16100,5.0,7.0,8800,48,Personal,8.91,Own,0
+66,Male,Bachelor,Married,0,54800.0,564.0,34800,7.0,19.0,39700,36,Personal,6.93,Rent,0
+61,Male,High School,Married,0,50900.0,692.0,11000,5.0,9.0,29900,48,Car,6.64,Rent,1
+36,Female,Bachelor,Married,3,62100.0,616.0,17200,0.0,3.0,46600,48,Personal,3.28,Rent,0
+59,Male,High School,Married,4,60000.0,685.0,38900,1.0,16.0,24600,48,Personal,4.75,Own,1
+58,Male,Bachelor,Married,3,,540.0,40300,7.0,9.0,24200,36,Personal,5.63,Mortgage,0
+54,Female,Bachelor,Single,0,42700.0,602.0,11900,3.0,77.0,27600,36,Home,11.14,Rent,0
+23,Female,High School,Married,2,31000.0,665.0,23500,3.0,3.0,68100,36,Personal,9.79,Own,1
+69,Male,High School,Married,3,21600.0,664.0,5400,0.0,66.0,37600,36,Home,10.85,Own,0
+43,Male,Bachelor,Single,4,42800.0,533.0,34000,2.0,23.0,14900,60,Home,9.89,Own,1
+51,Male,High School,Single,0,40600.0,572.0,25000,5.0,54.0,29900,36,Personal,10.97,Rent,1
+62,Male,High School,Married,3,38200.0,684.0,14300,7.0,3.0,26800,12,Personal,4.4,Own,1
+23,Female,Bachelor,Single,3,67700.0,674.0,12900,6.0,122.0,33700,36,Education,12.51,Rent,1
+54,Male,Bachelor,Single,3,57800.0,702.0,18700,3.0,70.0,47500,48,Education,11.64,Mortgage,0
+50,Male,Bachelor,Married,3,50800.0,665.0,12000,7.0,7.0,32100,60,Personal,7.38,Mortgage,0
+39,Male,Bachelor,Divorced,2,59300.0,566.0,31700,4.0,12.0,20600,36,Personal,11.41,Mortgage,1
+38,Female,Bachelor,Married,4,51500.0,622.0,18000,4.0,,47400,12,Car,12.15,Mortgage,0
+23,Female,High School,Divorced,4,15000.0,692.0,4600,,122.0,9300,24,Home,8.34,Rent,1
+23,Female,High School,Married,0,21100.0,570.0,13300,3.0,28.0,21700,24,Personal,10.11,Rent,1
+65,Male,Master,Single,1,57400.0,560.0,15000,5.0,32.0,35800,24,Car,6.94,Mortgage,0
+21,Female,Bachelor,Married,2,15000.0,626.0,7700,5.0,13.0,15500,48,Home,12.46,Mortgage,1
+47,Female,Master,Married,0,59200.0,672.0,14000,5.0,23.0,24400,36,Medical,7.14,Rent,1
+28,Male,Bachelor,Married,0,67400.0,503.0,40500,2.0,16.0,16600,36,Education,9.44,Rent,1
+47,Male,Bachelor,Single,3,49100.0,631.0,26400,4.0,21.0,24500,48,Education,8.37,Mortgage,0
+48,Male,Bachelor,Married,1,65800.0,691.0,43300,2.0,,16600,36,Personal,6.75,Own,1
+41,Male,Bachelor,Single,1,42900.0,707.0,6300,0.0,2.0,25900,12,Car,3.39,Mortgage,0
+26,Male,Bachelor,Married,2,77100.0,570.0,19000,1.0,55.0,21000,36,Home,11.16,Rent,0
+20,Male,Bachelor,Single,1,50000.0,680.0,10400,5.0,55.0,40900,24,Car,8.39,Rent,1
+68,Male,High School,Married,0,35600.0,729.0,8300,0.0,19.0,29600,36,Home,14.0,Own,0
+48,Female,Bachelor,Married,1,45300.0,,7800,1.0,104.0,33900,48,Education,12.15,Own,0
+124,Male,Master,Single,1,100400.0,617.0,49500,6.0,15.0,26700,60,Car,12.11,Own,0
+54,Female,Master,Married,4,72400.0,459.0,37300,4.0,24.0,19800,12,Personal,10.7,Own,1
+53,Female,Bachelor,Married,0,63800.0,667.0,44100,1.0,63.0,29000,36,Personal,10.76,Rent,1
+41,Female,Bachelor,Married,1,57900.0,776.0,22700,7.0,65.0,27400,48,Car,8.97,Own,0
+48,Female,High School,Divorced,1,33100.0,716.0,15600,1.0,95.0,1000,36,Home,10.97,Mortgage,0
+23,Male,Bachelor,Married,3,34900.0,710.0,27700,3.0,1.0,25400,36,Car,7.16,Rent,1
+19,Female,Bachelor,Married,1,73200.0,663.0,34600,,10.0,33100,12,Medical,3.0,Rent,1
+37,Male,PhD,Single,1,82000.0,722.0,41100,3.0,49.0,16400,48,Home,10.62,Rent,0
+45,Male,Bachelor,Single,4,62500.0,674.0,49800,1.0,20.0,35400,60,Personal,10.69,Own,1
+28,Female,Bachelor,Single,0,52000.0,510.0,41400,3.0,2.0,29300,60,Car,4.54,Mortgage,1
+21,Male,Bachelor,Married,2,35700.0,721.0,14200,4.0,42.0,20200,48,Personal,10.04,Rent,0
+32,Male,Master,Single,0,70100.0,581.0,38200,4.0,24.0,31500,12,Education,9.99,Own,0
+23,Female,Bachelor,Single,3,58800.0,655.0,25700,7.0,22.0,20600,48,Personal,11.74,Own,0
+66,Female,Bachelor,Married,0,49300.0,709.0,29800,1.0,15.0,28300,36,Medical,8.18,Rent,1
+47,Female,PhD,Married,1,98400.0,590.0,74500,6.0,0.0,21900,60,Education,3.93,Rent,1
+55,Male,High School,Married,3,23600.0,571.0,7500,6.0,10.0,31600,60,Medical,7.05,Rent,1
+68,Female,Master,Single,0,50100.0,688.0,33700,2.0,31.0,41200,60,Personal,7.04,Rent,1
+19,Male,High School,Married,3,37600.0,561.0,21000,6.0,15.0,19800,60,Medical,8.15,Mortgage,0
+32,Female,Master,Married,2,46200.0,635.0,13700,7.0,100.0,35800,36,Personal,8.87,Mortgage,0
+28,Female,Bachelor,Married,0,63000.0,740.0,41500,4.0,7.0,21400,48,Home,7.79,Rent,0
+25,Female,Bachelor,Single,1,41600.0,,16600,0.0,100.0,21500,60,Car,9.69,Mortgage,0
+43,Female,Master,Married,3,99200.0,507.0,18300,6.0,25.0,20300,36,Home,5.21,Own,0
+68,Male,High School,Divorced,4,15000.0,633.0,11900,0.0,15.0,4700,48,Personal,9.58,Rent,1
+62,Female,High School,Single,3,15000.0,752.0,6000,3.0,17.0,31000,60,Home,6.22,Own,1
+61,Female,Bachelor,Divorced,4,,618.0,21500,2.0,19.0,28400,36,Personal,7.9,Own,0
+22,Male,Bachelor,Married,1,64800.0,713.0,43100,7.0,34.0,27000,24,Car,3.01,Rent,0
+23,Female,Bachelor,Single,2,29300.0,719.0,22600,7.0,21.0,43700,24,Home,11.33,Mortgage,1
+43,Male,High School,Married,4,38900.0,601.0,27700,5.0,50.0,45000,24,Car,7.58,Own,1
+21,Female,High School,Single,2,38800.0,684.0,18100,3.0,27.0,40700,36,Car,9.52,Own,0
+36,Female,High School,Single,3,52400.0,689.0,25300,1.0,53.0,22200,36,Education,6.04,Mortgage,0
+37,Female,High School,Married,1,39100.0,723.0,11600,6.0,45.0,21600,36,Education,6.82,Rent,1
+50,Male,Bachelor,Married,4,42700.0,520.0,18100,7.0,13.0,12800,36,Car,5.6,Own,0
+37,Female,Master,Divorced,3,78900.0,753.0,60200,4.0,80.0,25700,60,Personal,8.98,Own,1
+66,Female,Master,Married,0,85600.0,705.0,52100,2.0,77.0,25100,24,Car,10.23,Mortgage,0
+29,Female,Master,Single,3,82000.0,560.0,8900,3.0,216.0,31500,60,Education,5.5,Rent,0
+64,Male,High School,Married,2,59600.0,640.0,10800,3.0,9.0,12200,24,Personal,8.92,Own,0
+18,Male,Bachelor,Married,1,32000.0,717.0,23900,0.0,90.0,20500,36,Home,7.77,Rent,1
+43,Female,High School,Married,1,38800.0,564.0,26900,1.0,,4700,36,Car,9.08,Rent,0
+31,Male,Bachelor,Married,3,48500.0,576.0,21400,3.0,49.0,16400,48,Car,5.8,Rent,0
+55,Female,Bachelor,Divorced,0,45200.0,651.0,24000,7.0,34.0,35700,36,Education,9.9,Mortgage,1
+54,Female,High School,Married,2,44300.0,615.0,13400,0.0,151.0,11800,24,Home,7.66,Own,0
+28,Female,High School,Married,3,15000.0,670.0,9800,2.0,173.0,45900,36,Home,8.08,Mortgage,1
+53,Female,PhD,Single,3,90400.0,716.0,47200,3.0,49.0,37100,24,Car,15.52,Mortgage,0
+30,Male,Bachelor,Divorced,1,50500.0,672.0,29600,5.0,21.0,31000,36,Home,3.21,Rent,0
+60,Male,Bachelor,Single,2,56600.0,649.0,20500,5.0,82.0,41000,36,Car,10.12,Mortgage,0
+20,Male,High School,Single,0,50100.0,716.0,20100,0.0,4.0,23500,36,Home,9.81,Rent,0
+50,Male,High School,Single,1,38000.0,642.0,9300,5.0,16.0,16100,48,Education,10.39,Mortgage,0
+23,Male,Master,Married,3,75900.0,590.0,58000,7.0,203.0,23800,60,Home,10.26,Rent,0
+67,Female,High School,Married,1,40400.0,742.0,30800,1.0,81.0,4400,36,Medical,9.08,Own,0
+27,Female,Bachelor,Married,1,23600.0,457.0,15900,7.0,135.0,39300,12,Personal,9.73,Rent,1
+22,Female,High School,Divorced,4,27800.0,655.0,21000,4.0,43.0,20800,48,Personal,16.56,Own,1
+40,Female,Bachelor,Divorced,1,59800.0,621.0,33800,5.0,25.0,15900,36,Personal,7.98,Own,0
+27,Female,High School,Single,1,34500.0,576.0,9100,7.0,187.0,17300,36,Medical,7.95,Mortgage,0
+61,Female,Master,Single,2,81500.0,674.0,51500,2.0,18.0,25200,36,Education,5.3,Mortgage,0
+19,Female,Master,Married,1,55100.0,687.0,18100,3.0,68.0,26400,48,Home,6.03,Rent,0
+30,Female,Master,Divorced,0,47200.0,584.0,19300,7.0,39.0,23200,60,Car,9.17,Mortgage,0
+57,Male,Bachelor,Married,3,36800.0,538.0,10700,0.0,12.0,23200,60,Car,9.61,Own,0
+19,Male,Master,Married,2,69100.0,,27400,3.0,1.0,31600,60,Home,8.16,Mortgage,1
+37,Male,Bachelor,Single,1,26100.0,795.0,15000,4.0,23.0,11800,48,Personal,10.46,Mortgage,0
+18,Female,Bachelor,Married,0,83100.0,804.0,14700,7.0,38.0,27700,60,Personal,7.3,Own,0
+54,Female,Bachelor,Married,3,49300.0,652.0,8600,3.0,10.0,21200,12,Home,15.96,Own,0
+26,Male,High School,Married,2,24200.0,540.0,14000,3.0,26.0,1000,48,Education,8.96,Mortgage,0
+34,Male,High School,Single,0,,638.0,25000,0.0,46.0,12000,12,Education,10.52,Rent,0
+26,Female,Master,Divorced,1,,474.0,37800,7.0,60.0,15500,48,Medical,8.98,Rent,0
+28,Male,High School,Married,4,33500.0,675.0,7600,4.0,3.0,45000,24,Medical,6.69,Mortgage,0
+32,Male,Bachelor,Single,4,33000.0,570.0,13300,2.0,52.0,30400,36,Home,6.98,Mortgage,0
+41,Female,Bachelor,Married,2,38500.0,553.0,24300,0.0,3.0,28300,24,Medical,5.06,Mortgage,0
+55,Male,Master,Married,0,44800.0,,26000,6.0,1.0,19200,36,Medical,3.33,Mortgage,0
+52,Male,PhD,Married,3,89100.0,638.0,15800,4.0,8.0,18900,36,Education,11.35,Own,0
+47,Female,Master,Married,0,54800.0,719.0,42700,4.0,51.0,10800,12,Car,6.67,Own,0
+48,Female,Bachelor,Married,4,46200.0,747.0,11800,3.0,3.0,21100,48,Personal,8.31,Mortgage,1
+66,Female,High School,Divorced,2,34400.0,643.0,8700,1.0,1.0,41500,60,Personal,13.1,Mortgage,1
+22,Male,Bachelor,Single,1,38400.0,650.0,16200,1.0,6.0,9200,48,Education,12.01,Mortgage,0
+61,Male,High School,Single,0,47900.0,735.0,15800,7.0,,18000,48,Home,8.95,Own,0
+67,Male,High School,Single,4,41200.0,607.0,32500,2.0,114.0,36100,48,Car,7.87,Mortgage,1
+31,Female,Bachelor,Married,3,,742.0,8100,3.0,4.0,36100,60,Personal,8.04,Own,1
+28,Female,Bachelor,Married,2,55900.0,488.0,17600,1.0,17.0,16400,36,Home,15.11,Own,1
+26,Male,PhD,Divorced,1,86000.0,622.0,31600,0.0,141.0,39000,36,Car,9.02,Own,0
+51,Female,High School,Married,0,58800.0,665.0,26200,7.0,5.0,19800,60,Home,17.48,Mortgage,1
+29,Male,Bachelor,Married,3,39200.0,554.0,4400,2.0,5.0,11200,36,Car,4.6,Mortgage,0
+52,Male,High School,Divorced,1,27100.0,680.0,4300,3.0,4.0,43000,12,Home,8.64,Rent,0
+52,Male,Master,Single,4,68800.0,664.0,19300,5.0,180.0,26100,48,Home,12.0,Own,0
+18,Male,Master,Married,4,52300.0,591.0,25500,0.0,65.0,23000,24,Education,11.74,Mortgage,0
+57,Female,Master,Married,3,81400.0,588.0,51900,1.0,12.0,27100,36,Personal,10.39,Mortgage,0
+39,Male,Master,Married,4,95500.0,580.0,55400,1.0,2.0,13400,24,Education,6.67,Own,1
+46,Male,Bachelor,Married,2,25700.0,525.0,12800,1.0,,18300,48,Education,4.56,Mortgage,0
+25,Female,Bachelor,Married,3,91800.0,779.0,34700,1.0,27.0,42200,60,Personal,7.96,Mortgage,0
+28,Male,Bachelor,Single,4,63400.0,,45000,4.0,44.0,47300,12,Car,11.63,Rent,0
+58,Female,Bachelor,Married,0,,542.0,33500,5.0,16.0,11600,24,Home,13.6,Own,0
+54,Female,Bachelor,Married,4,65600.0,640.0,20300,2.0,68.0,20300,24,Home,8.83,Mortgage,0
+31,Male,Bachelor,Married,2,37800.0,669.0,20400,2.0,11.0,25100,48,Personal,8.21,Own,0
+47,Male,PhD,Married,1,98600.0,585.0,57600,1.0,74.0,27400,36,Medical,9.13,Own,0
+52,Male,PhD,Divorced,1,114100.0,621.0,43200,2.0,13.0,13600,36,Home,9.16,Mortgage,0
+38,Male,Master,Married,4,57600.0,754.0,6900,5.0,5.0,32800,24,Medical,12.06,Rent,0
+54,Male,Master,Married,1,,557.0,8800,0.0,31.0,33700,36,Personal,7.39,Mortgage,0
+22,Female,Bachelor,Married,4,,603.0,28900,0.0,81.0,35200,36,Home,8.15,Mortgage,0
+36,Female,High School,Married,2,28500.0,490.0,4000,6.0,23.0,34000,36,Medical,9.89,Mortgage,1
+141,Male,High School,Divorced,1,45800.0,796.0,23600,2.0,1.0,26000,24,Car,6.6,Rent,0
+43,Female,Bachelor,Married,0,67400.0,,15400,1.0,39.0,36900,36,Education,5.74,Rent,0
+21,Female,Master,Married,4,73700.0,646.0,19200,3.0,55.0,31500,36,Education,12.71,Rent,0
+42,Female,High School,Single,1,42300.0,593.0,12300,5.0,65.0,7200,36,Personal,8.43,Mortgage,0
+62,Female,PhD,Married,2,122500.0,589.0,15500,1.0,25.0,7300,36,Education,11.17,Mortgage,0
+59,Female,High School,Single,2,33300.0,628.0,7500,4.0,5.0,28700,48,Education,10.57,Rent,0
+42,Male,Bachelor,Married,0,55200.0,690.0,30700,7.0,42.0,40400,36,Car,4.37,Own,0
+35,Male,Bachelor,Single,2,58300.0,565.0,26200,3.0,19.0,30400,60,Home,6.54,Mortgage,1
+57,Female,High School,Single,2,20400.0,613.0,13400,5.0,141.0,32100,24,Medical,8.69,Own,1
+25,Male,High School,Single,1,36700.0,719.0,5200,4.0,34.0,12300,12,Home,7.78,Own,0
+56,Female,Bachelor,Single,4,60100.0,779.0,43400,2.0,31.0,25800,24,Car,9.23,Mortgage,1
+57,Female,Master,Single,3,72500.0,693.0,57800,4.0,18.0,38700,36,Home,9.06,Rent,0
+31,Male,Bachelor,Divorced,2,50600.0,597.0,5600,2.0,20.0,30300,24,Car,10.86,Rent,0
+49,Male,Bachelor,Married,2,46800.0,638.0,36400,4.0,35.0,26300,12,Car,8.37,Mortgage,1
+68,Male,Bachelor,Married,3,57700.0,683.0,15300,,18.0,32100,36,Personal,8.71,Mortgage,0
+55,Female,High School,Married,2,23900.0,627.0,14000,4.0,107.0,27700,48,Car,4.19,Rent,1
+50,Male,PhD,Single,1,94600.0,707.0,28800,1.0,28.0,39100,48,Education,6.7,Mortgage,0
+40,Male,High School,Divorced,1,46500.0,592.0,21600,2.0,17.0,27700,36,Education,6.85,Mortgage,0
+32,Male,PhD,Single,3,80600.0,779.0,36900,0.0,8.0,24600,36,Personal,7.17,Own,1
+50,Male,Bachelor,Single,2,58500.0,643.0,20600,4.0,54.0,12400,48,Car,7.39,Mortgage,0
+42,Male,PhD,Married,2,105900.0,600.0,63800,2.0,1.0,39600,36,Personal,10.3,Own,1
+34,Male,High School,Single,4,54500.0,697.0,28300,0.0,29.0,13700,48,Home,13.82,Rent,0
+50,Female,Bachelor,Married,2,51000.0,572.0,23200,2.0,38.0,27800,60,Medical,4.45,Rent,0
+64,Male,High School,Married,1,34300.0,662.0,27000,7.0,20.0,34600,60,Home,7.9,Mortgage,1
+19,Male,High School,Married,0,32700.0,762.0,24800,6.0,67.0,46500,36,Personal,5.9,Own,0
+31,Male,Bachelor,Married,0,48100.0,,37000,2.0,54.0,27700,36,Home,4.48,Mortgage,0
+57,Male,High School,Single,0,43400.0,745.0,31100,7.0,171.0,41700,48,Car,6.92,Mortgage,0
+57,Female,Bachelor,Married,0,51900.0,547.0,14500,0.0,34.0,25300,36,Car,5.34,Own,1
+68,Female,High School,Single,2,42400.0,716.0,14600,0.0,37.0,18300,48,Personal,9.2,Mortgage,0
+56,Male,Bachelor,Married,2,62300.0,574.0,16300,,14.0,58200,36,Home,8.01,Rent,0
+68,Female,Master,Single,4,57800.0,745.0,45700,5.0,23.0,10400,48,Medical,7.6,Rent,0
+23,Male,Bachelor,Married,2,49000.0,604.0,10100,6.0,1.0,60100,24,Personal,9.42,Own,1
+23,Male,Bachelor,Married,0,54000.0,621.0,19300,4.0,56.0,44500,12,Home,4.2,Rent,0
+20,Female,Bachelor,Married,3,32300.0,575.0,7700,4.0,18.0,18100,36,Personal,5.46,Own,1
+24,Female,Master,Divorced,3,70500.0,457.0,18100,6.0,37.0,32800,36,Home,9.57,Mortgage,0
+68,Female,Bachelor,Divorced,1,47000.0,559.0,12800,2.0,14.0,8200,12,Personal,5.43,Own,0
+25,Male,Bachelor,Married,1,53200.0,515.0,29100,6.0,47.0,32100,36,Personal,3.0,Rent,1
+59,Female,PhD,Married,2,53500.0,487.0,8200,1.0,28.0,28900,24,Personal,13.31,Rent,1
+69,Male,Master,Single,3,43400.0,674.0,21700,7.0,32.0,35400,36,Education,9.53,Rent,1
+32,Male,Bachelor,Married,0,50100.0,772.0,33700,1.0,137.0,20200,36,Personal,11.55,Own,1
+64,Female,Bachelor,Single,0,37000.0,794.0,23600,5.0,59.0,26900,24,Home,6.32,Own,0
+46,Male,Master,Single,0,35900.0,557.0,7400,2.0,15.0,30700,36,Car,4.35,Own,0
+50,Female,Bachelor,Divorced,2,69300.0,641.0,51300,3.0,34.0,19100,24,Car,9.36,Rent,0
+69,Female,High School,Married,2,51200.0,743.0,32700,0.0,30.0,41900,48,Car,5.19,Own,1
+47,Male,High School,Married,4,42500.0,545.0,4400,2.0,76.0,26600,24,Personal,11.56,Own,0
+56,Male,Master,Single,0,66400.0,746.0,40900,7.0,,29100,48,Home,9.22,Own,0
+44,Female,Bachelor,Married,0,55400.0,748.0,34100,4.0,16.0,15000,12,Personal,9.09,Mortgage,0
+53,Male,Master,Single,2,77500.0,494.0,34700,1.0,83.0,5200,36,Medical,9.12,Mortgage,1
+46,Female,Bachelor,Single,2,,,8200,7.0,9.0,8800,36,Personal,14.6,Mortgage,0
+55,Female,Bachelor,Single,4,55800.0,618.0,28200,1.0,69.0,32200,12,Personal,10.46,Rent,1
+50,Male,High School,Married,4,22800.0,725.0,14500,1.0,14.0,15500,24,Personal,7.89,Own,1
+54,Female,High School,Married,1,25400.0,528.0,7400,3.0,17.0,33700,36,Home,8.91,Rent,1
+44,Female,PhD,Single,3,61600.0,487.0,34900,4.0,92.0,44900,12,Education,5.89,Rent,1
+50,Male,Master,Married,0,61500.0,655.0,21400,3.0,26.0,34300,36,Car,6.93,Rent,0
+21,Female,Bachelor,Single,0,62200.0,701.0,31200,0.0,224.0,30100,36,Home,12.25,Rent,0
+39,Male,Bachelor,Married,4,19900.0,596.0,7300,2.0,8.0,32900,24,Car,8.63,Rent,1
+19,Female,Bachelor,Divorced,4,80500.0,602.0,25200,2.0,30.0,38200,36,Medical,10.79,Own,0
+27,Female,Bachelor,Married,1,47700.0,700.0,33300,6.0,63.0,28700,60,Home,5.83,Own,0
+22,Male,Bachelor,Divorced,3,77800.0,580.0,48800,1.0,0.0,33000,60,Car,11.04,Own,1
+27,Male,High School,Divorced,1,21000.0,586.0,7200,6.0,8.0,18200,12,Car,7.91,Own,0
+50,Female,Bachelor,Married,3,55700.0,,22500,1.0,1.0,13300,24,Home,9.18,Own,0
+55,Male,Master,Married,0,78900.0,681.0,46100,0.0,237.0,18900,36,Medical,8.68,Own,0
+30,Female,PhD,Divorced,1,102300.0,632.0,68300,7.0,69.0,21100,24,Medical,9.05,Own,0
+48,Male,High School,Married,4,26300.0,769.0,15200,3.0,22.0,20600,12,Personal,8.17,Own,1
+64,Female,Master,Single,1,102000.0,710.0,48800,5.0,8.0,38800,24,Car,12.35,Own,0
+53,Female,Bachelor,Divorced,1,43300.0,622.0,33300,5.0,5.0,1000,12,Car,3.98,Own,0
+62,Female,Bachelor,Married,0,52000.0,547.0,33400,5.0,36.0,22400,36,Car,10.1,Rent,1
+41,Male,High School,Single,4,15000.0,729.0,2700,4.0,179.0,33900,36,Personal,6.49,Mortgage,1
+69,Female,Bachelor,Married,4,67100.0,,32900,0.0,54.0,33500,12,Car,5.63,Mortgage,0
+32,Female,Bachelor,Married,2,63400.0,642.0,24500,2.0,22.0,15200,36,Car,14.91,Mortgage,0
+46,Male,Bachelor,Married,2,63400.0,672.0,41600,2.0,33.0,45900,36,Car,5.65,Rent,0
+25,Male,Master,Married,2,84300.0,706.0,11100,3.0,,8400,36,Home,3.05,Rent,0
+22,Male,Master,Married,0,62900.0,778.0,24400,6.0,35.0,20800,60,Home,11.37,Own,0
+46,Female,Bachelor,Married,1,63700.0,721.0,20600,0.0,160.0,21300,60,Personal,7.02,Mortgage,0
+64,Female,PhD,Married,4,79900.0,686.0,15900,4.0,1.0,21200,36,Medical,12.32,Mortgage,0
+21,Male,Bachelor,Married,4,,724.0,20500,0.0,61.0,41300,48,Car,3.0,Mortgage,0
+29,Female,High School,Married,1,45500.0,742.0,26000,0.0,47.0,25200,12,Education,14.06,Own,0
+62,Male,Bachelor,Married,4,55200.0,672.0,19500,3.0,55.0,28800,36,Car,11.33,Rent,0
+19,Male,High School,Married,1,36100.0,723.0,18300,7.0,41.0,35600,48,Personal,7.88,Own,1
+44,Female,Bachelor,Married,0,73100.0,,37600,4.0,2.0,17300,36,Personal,3.3,Mortgage,0
+48,Female,High School,Divorced,0,41300.0,733.0,21100,5.0,8.0,23100,24,Personal,4.51,Own,0
+68,Male,High School,Single,0,48100.0,597.0,22600,2.0,,45100,12,Home,6.43,Rent,1
+68,Male,Master,Single,1,67900.0,569.0,12400,7.0,13.0,29500,36,Medical,10.64,Own,1
+53,Female,Bachelor,Married,1,53700.0,640.0,13600,1.0,238.0,11900,36,Personal,5.91,Mortgage,0
+53,Male,Bachelor,Married,3,47000.0,543.0,31000,6.0,55.0,14700,60,Medical,3.0,Own,1
+43,Male,High School,Single,4,32300.0,602.0,14600,5.0,28.0,35700,24,Car,9.18,Mortgage,0
+60,Male,Bachelor,Single,4,75700.0,680.0,45000,4.0,121.0,11400,60,Medical,11.49,Rent,0
+44,Female,Bachelor,Single,3,36600.0,672.0,18300,2.0,76.0,19300,12,Medical,15.09,Rent,0
+22,Female,Master,Married,3,74700.0,701.0,9500,5.0,27.0,27400,60,Car,5.42,Own,1
+37,Male,Bachelor,Single,0,51600.0,702.0,33900,7.0,3.0,25200,48,Home,5.74,Mortgage,0
+28,Female,High School,Married,3,32900.0,680.0,4800,7.0,97.0,42800,12,Medical,3.0,Mortgage,0
+27,Female,Bachelor,Married,1,48700.0,582.0,37000,3.0,70.0,1000,24,Personal,3.86,Rent,0
+57,Male,High School,Divorced,2,40500.0,724.0,10200,6.0,75.0,30800,12,Personal,5.3,Rent,0
+55,Female,Bachelor,Married,1,36900.0,641.0,16900,4.0,66.0,21600,60,Home,5.82,Own,0
+23,Female,Bachelor,Single,3,64400.0,669.0,9300,4.0,15.0,40800,36,Personal,6.9,Own,1
+25,Male,Master,Married,4,56700.0,658.0,41200,2.0,94.0,22200,48,Home,10.28,Rent,0
+40,Male,High School,Divorced,1,40700.0,,32000,2.0,0.0,22500,24,Personal,10.03,Rent,1
+64,Female,Bachelor,Married,4,57400.0,,11600,0.0,13.0,25000,60,Home,6.96,Rent,1
+43,Female,High School,Divorced,1,26400.0,623.0,8100,7.0,2.0,17100,24,Car,8.55,Rent,1
+63,Female,Bachelor,Married,4,41100.0,693.0,4600,0.0,6.0,17900,24,Home,4.43,Mortgage,0
+60,Male,Bachelor,Single,1,40900.0,652.0,26600,4.0,36.0,23200,36,Medical,6.8,Mortgage,1
+29,Female,Master,Married,4,66600.0,611.0,21200,1.0,2.0,44700,36,Car,4.62,Rent,0
+43,Male,High School,Single,2,20500.0,,10500,3.0,10.0,19100,12,Personal,6.28,Rent,1
+30,Male,High School,Married,0,34700.0,627.0,4400,2.0,13.0,16800,36,Education,14.07,Mortgage,0
+57,Female,Bachelor,Single,1,34400.0,679.0,20700,0.0,51.0,20200,12,Car,8.94,Rent,1
+35,Male,High School,Single,2,31800.0,693.0,15000,3.0,30.0,25000,36,Car,6.72,Rent,0
+42,Male,High School,Divorced,0,53100.0,637.0,32300,6.0,29.0,46500,36,Home,9.93,Mortgage,0
+50,Male,Bachelor,Single,1,58100.0,664.0,37900,5.0,70.0,15800,24,Home,7.32,Mortgage,0
+64,Male,High School,Divorced,2,52100.0,559.0,8500,5.0,29.0,55000,36,Medical,13.55,Mortgage,1
+57,Male,High School,Single,2,24000.0,681.0,12100,7.0,21.0,30400,48,Education,9.56,Own,1
+60,Female,Master,Single,2,51700.0,651.0,28700,4.0,158.0,13000,12,Home,5.02,Rent,0
+29,Male,Bachelor,Divorced,3,64700.0,663.0,29900,2.0,0.0,18400,36,Education,12.46,Own,0
+61,Female,High School,Married,4,40200.0,632.0,9200,7.0,17.0,1800,48,Home,10.36,Rent,1
+53,Female,Bachelor,Married,0,62100.0,667.0,40800,5.0,45.0,26300,24,Education,9.9,Rent,0
+65,Female,Bachelor,Single,4,73500.0,701.0,58700,6.0,73.0,37600,36,Personal,10.98,Own,1
+21,Male,Bachelor,Married,4,56400.0,670.0,43900,2.0,81.0,25400,24,Car,10.69,Rent,0
+22,Female,Bachelor,Married,4,72000.0,504.0,46400,0.0,2.0,34600,24,Personal,10.04,Rent,1
+54,Female,High School,Married,2,33800.0,672.0,13300,5.0,59.0,30100,48,Personal,8.02,Mortgage,0
+25,Female,Bachelor,Married,4,,619.0,8200,1.0,61.0,39500,24,Car,11.22,Own,0
+59,Female,Bachelor,Divorced,3,55600.0,593.0,8200,5.0,12.0,13200,36,Education,7.98,Rent,0
+66,Female,Bachelor,Married,1,43200.0,758.0,16900,2.0,6.0,35600,48,Education,12.48,Rent,1
+45,Male,Master,Divorced,2,,575.0,22000,1.0,66.0,47600,24,Car,9.99,Own,0
+48,Female,Bachelor,Married,0,47300.0,584.0,13200,3.0,14.0,55800,36,Personal,9.06,Rent,0
+26,Female,Bachelor,Married,1,54200.0,471.0,39300,5.0,,42000,60,Personal,10.4,Mortgage,1
+68,Female,Bachelor,Single,1,53200.0,765.0,41400,2.0,12.0,27100,36,Personal,8.97,Own,0
+46,Female,Bachelor,Married,1,53700.0,721.0,41000,5.0,2.0,13400,12,Medical,12.32,Rent,0
+31,Male,High School,Divorced,4,973327.0,623.0,17300,5.0,14.0,15200,36,Car,11.35,Rent,1
+57,Female,High School,Single,4,40100.0,699.0,29300,2.0,20.0,22900,12,Personal,8.72,Own,1
+58,Male,Master,Single,2,68300.0,472.0,13600,1.0,15.0,47300,24,Medical,3.0,Own,0
+39,Male,Bachelor,Single,4,,688.0,33600,0.0,121.0,18600,48,Medical,11.09,Mortgage,0
+28,Male,Bachelor,Single,4,537243.0,581.0,23600,6.0,13.0,27200,12,Personal,9.75,Mortgage,1
+40,Male,Bachelor,Divorced,4,42800.0,784.0,18100,5.0,30.0,36300,12,Personal,15.78,Mortgage,0
+18,Female,Bachelor,Divorced,2,54400.0,679.0,41700,4.0,152.0,1000,36,Home,4.6,Rent,0
+63,Male,High School,Married,2,23900.0,660.0,8000,3.0,101.0,12200,60,Car,7.84,Mortgage,0
+54,Male,Master,Single,3,74200.0,584.0,34800,2.0,18.0,48400,24,Medical,3.86,Own,0
+38,Female,High School,Married,3,44600.0,585.0,6800,5.0,19.0,37500,24,Education,6.32,Mortgage,1
+43,Female,Master,Married,3,69800.0,,48600,6.0,43.0,37600,36,Medical,13.17,Rent,1
+63,Female,Master,Divorced,3,75100.0,584.0,29200,0.0,120.0,13700,36,Car,3.51,Mortgage,0
+53,Female,Master,Married,1,104800.0,580.0,61900,2.0,0.0,42400,36,Car,4.32,Own,0
+40,Female,Bachelor,Single,1,74100.0,763.0,42800,7.0,24.0,15200,60,Home,10.24,Mortgage,0
+18,Male,High School,Married,3,29500.0,673.0,16900,5.0,91.0,26100,24,Medical,9.08,Rent,0
+68,Male,Bachelor,Divorced,3,55900.0,562.0,25400,3.0,,33300,24,Home,7.51,Own,1
+57,Female,Bachelor,Married,0,39900.0,694.0,11700,4.0,61.0,35000,24,Medical,3.0,Rent,0
+32,Male,Bachelor,Married,1,64000.0,628.0,34400,2.0,,30900,48,Personal,12.3,Rent,1
+38,Female,Master,Single,0,72500.0,509.0,56100,5.0,,22600,36,Car,7.79,Own,1
+64,Male,Bachelor,Married,0,34800.0,610.0,23800,,29.0,2800,48,Home,5.44,Rent,1
+26,Male,Bachelor,Married,4,,566.0,13000,0.0,40.0,26000,60,Home,9.46,Rent,0
+26,Female,Bachelor,Single,2,46200.0,670.0,5400,4.0,60.0,1000,12,Car,12.27,Own,0
+27,Female,Bachelor,Married,1,24100.0,598.0,10800,2.0,83.0,31800,60,Home,7.7,Rent,1
+69,Female,Bachelor,Single,3,48000.0,657.0,30900,5.0,68.0,13300,24,Education,6.55,Own,0
+43,Female,Master,Single,3,69000.0,703.0,22100,4.0,1.0,23100,36,Education,8.61,Own,0
+58,Male,Bachelor,Single,2,,839.0,36500,1.0,53.0,18900,48,Car,9.65,Own,0
+52,Male,Master,Single,1,53100.0,808.0,39900,2.0,33.0,31800,48,Personal,9.93,Own,0
+69,Female,Master,Married,3,55100.0,668.0,23200,7.0,41.0,15500,48,Personal,7.76,Mortgage,0
+128,Female,Master,Single,3,93700.0,646.0,25400,4.0,22.0,28100,36,Home,12.19,Mortgage,0
+43,Male,High School,Single,4,34400.0,602.0,25500,2.0,60.0,27200,60,Personal,5.87,Mortgage,0
+28,Female,Master,Divorced,0,77000.0,519.0,33200,7.0,54.0,25800,48,Home,7.98,Own,1
+55,Male,High School,Married,3,43200.0,467.0,16700,,42.0,29700,36,Home,7.97,Mortgage,1
+19,Male,High School,Married,1,57400.0,583.0,19900,4.0,95.0,10600,60,Education,3.88,Rent,0
+24,Male,Bachelor,Married,2,49300.0,781.0,19500,2.0,5.0,11000,60,Car,9.59,Own,1
+35,Female,Bachelor,Married,4,47800.0,778.0,27300,1.0,17.0,42200,36,Home,8.78,Mortgage,0
+44,Female,High School,Single,1,28200.0,656.0,11400,4.0,33.0,6500,48,Car,7.93,Mortgage,0
+51,Male,High School,Married,4,28000.0,687.0,9200,5.0,153.0,51000,48,Personal,10.02,Mortgage,1
+44,Female,High School,Single,0,27400.0,602.0,17000,6.0,4.0,23300,48,Home,7.92,Own,1
+34,Male,Master,Married,3,36000.0,648.0,8700,4.0,20.0,14800,12,Personal,12.73,Rent,0
+60,Male,High School,Single,1,40000.0,588.0,9700,1.0,,35300,36,Personal,9.91,Own,0
+61,Male,High School,Married,2,44900.0,588.0,26400,1.0,110.0,18300,60,Home,9.62,Own,1
+68,Male,Bachelor,Married,0,37900.0,699.0,26800,1.0,96.0,29100,24,Car,6.48,Mortgage,0
+41,Male,Bachelor,Married,0,52000.0,602.0,14000,7.0,18.0,39900,48,Home,3.0,Rent,1
+42,Female,Master,Single,4,93700.0,,21900,5.0,90.0,33600,36,Home,10.91,Own,0
+24,Female,High School,Married,0,54600.0,638.0,31100,5.0,34.0,30100,24,Home,3.0,Own,0
+69,Female,Bachelor,Divorced,1,48900.0,763.0,26100,6.0,46.0,32900,12,Home,7.7,Rent,0
+23,Male,Bachelor,Married,4,77000.0,694.0,31800,,13.0,25500,48,Home,11.14,Mortgage,0
+41,Male,PhD,Single,0,,670.0,15700,2.0,59.0,34700,36,Home,5.9,Rent,0
+50,Male,Bachelor,Married,2,15000.0,536.0,2500,2.0,19.0,12100,36,Education,7.12,Own,0
+66,Male,Master,Divorced,1,,611.0,47500,3.0,20.0,42500,36,Car,4.32,Rent,0
+46,Female,High School,Married,2,17700.0,646.0,7400,6.0,49.0,23100,36,Personal,5.73,Rent,1
+60,Male,Bachelor,Married,2,54400.0,654.0,38100,6.0,13.0,27100,24,Home,6.11,Mortgage,0
+39,Female,Bachelor,Divorced,4,33500.0,,16800,2.0,12.0,21200,48,Medical,7.11,Rent,0
+43,Female,Master,Divorced,3,53200.0,666.0,28400,1.0,22.0,32300,48,Personal,8.89,Own,1
+45,Male,High School,Married,4,31900.0,567.0,24100,3.0,72.0,37600,24,Home,9.19,Own,1
+67,Female,High School,Married,1,21500.0,697.0,4600,6.0,12.0,13100,36,Education,12.84,Mortgage,0
+38,Female,Bachelor,Single,1,80400.0,613.0,38600,1.0,74.0,24200,36,Education,7.04,Own,0
+66,Female,High School,Married,4,43200.0,598.0,6100,0.0,57.0,27000,24,Personal,10.17,Mortgage,1
+24,Female,High School,Single,3,28200.0,562.0,9900,7.0,55.0,30200,60,Medical,6.59,Own,0
+34,Male,PhD,Single,4,102400.0,622.0,20900,6.0,31.0,21500,36,Car,13.53,Mortgage,1
+37,Male,Bachelor,Married,1,52700.0,605.0,12200,5.0,66.0,19800,24,Personal,8.87,Own,1
+58,Male,Bachelor,Single,3,,743.0,32400,4.0,1.0,35600,36,Education,7.88,Own,1
+66,Male,Master,Married,1,48600.0,629.0,25600,0.0,18.0,31100,36,Car,6.13,Rent,1
+37,Female,Bachelor,Married,3,58000.0,693.0,42000,5.0,55.0,27600,12,Personal,11.22,Rent,1
+39,Male,High School,Married,3,22100.0,506.0,9100,5.0,210.0,40000,12,Medical,8.89,Rent,1
+45,Female,High School,Married,4,21300.0,710.0,11000,7.0,0.0,8900,12,Home,9.11,Rent,0
+57,Female,Bachelor,Divorced,4,64600.0,701.0,7900,1.0,34.0,34600,36,Personal,5.33,Rent,1
+66,Male,Bachelor,Single,4,80200.0,534.0,34400,2.0,124.0,29500,36,Car,6.15,Mortgage,0
+24,Male,Bachelor,Married,3,18600.0,580.0,9200,4.0,,7500,60,Medical,3.21,Rent,0
+18,Female,High School,Divorced,3,56800.0,597.0,6300,2.0,1.0,39000,36,Car,6.97,Mortgage,0
+49,Female,Bachelor,Married,1,16200.0,634.0,10600,2.0,36.0,32100,48,Personal,7.06,Rent,1
+30,Female,PhD,Married,2,77000.0,594.0,23600,6.0,,33700,48,Medical,4.47,Mortgage,0
+47,Male,Master,Divorced,4,64800.0,630.0,27000,4.0,75.0,21400,36,Education,8.28,Rent,0
+40,Male,Master,Single,1,61000.0,702.0,29000,4.0,18.0,34200,48,Personal,7.46,Rent,0
+68,Male,Master,Married,1,50600.0,605.0,40200,0.0,70.0,16200,36,Car,6.32,Rent,0
+36,Male,Bachelor,Married,0,63900.0,674.0,10800,1.0,139.0,8900,36,Home,5.93,Rent,0
+49,Female,Master,Single,4,49800.0,664.0,24300,2.0,179.0,24800,36,Education,9.0,Rent,0
+47,Female,High School,Married,1,48800.0,413.0,23000,7.0,108.0,33100,48,Car,6.17,Mortgage,0
+46,Female,Bachelor,Divorced,0,38000.0,585.0,5600,1.0,11.0,37200,36,Education,13.43,Rent,1
+66,Female,Bachelor,Married,4,70700.0,729.0,38400,1.0,10.0,26800,36,Medical,7.95,Mortgage,0
+62,Female,High School,Single,3,36800.0,578.0,11100,7.0,47.0,25900,24,Medical,11.26,Rent,0
+46,Male,Master,Single,0,65200.0,564.0,11300,6.0,38.0,37200,36,Car,5.06,Own,0
+47,Male,Master,Married,3,79700.0,733.0,17900,3.0,0.0,21000,24,Personal,8.01,Mortgage,0
+33,Female,Bachelor,Single,2,47400.0,662.0,32100,0.0,24.0,18300,60,Medical,5.64,Mortgage,0
+57,Male,Master,Married,2,53100.0,767.0,9200,2.0,114.0,44400,36,Personal,9.78,Own,0
+36,Female,High School,Married,2,36000.0,613.0,15400,5.0,,21700,12,Personal,8.31,Own,1
+35,Female,Bachelor,Married,2,57400.0,746.0,13600,4.0,11.0,36000,12,Home,14.44,Rent,0
+18,Male,Bachelor,Married,1,47400.0,579.0,10100,4.0,23.0,41300,24,Medical,7.36,Own,1
+31,Female,Bachelor,Married,2,62900.0,445.0,15300,1.0,39.0,27500,12,Car,3.22,Rent,0
+68,Female,PhD,Single,1,72900.0,704.0,32400,7.0,92.0,28200,60,Personal,8.32,Mortgage,0
+64,Female,Master,Single,1,53500.0,696.0,14300,0.0,36.0,46600,60,Personal,9.09,Own,0
+67,Female,Master,Married,4,35800.0,704.0,6000,0.0,,9300,60,Home,6.62,Own,0
+19,Female,Bachelor,Married,1,35500.0,633.0,23500,2.0,77.0,9100,48,Personal,6.24,Mortgage,0
+45,Male,Master,Married,1,81700.0,767.0,39000,2.0,147.0,34800,36,Medical,4.91,Own,0
+66,Male,High School,Married,2,31700.0,719.0,6700,1.0,63.0,20100,60,Personal,9.94,Mortgage,0
+67,Female,Master,Divorced,1,34100.0,716.0,14700,1.0,101.0,35300,60,Home,10.27,Own,0
+47,Female,Bachelor,Single,3,79900.0,660.0,11800,1.0,85.0,24300,60,Personal,15.79,Rent,0
+55,Male,High School,Single,2,34100.0,542.0,17300,3.0,14.0,35000,60,Medical,8.0,Own,1
+68,Male,Bachelor,Single,0,31800.0,655.0,10800,0.0,13.0,14400,48,Education,8.96,Mortgage,0
+21,Female,High School,Married,2,39100.0,679.0,6700,1.0,96.0,32400,12,Personal,7.77,Rent,0
+18,Female,High School,Married,1,25100.0,813.0,5700,6.0,4.0,19000,36,Medical,16.62,Mortgage,1
+25,Female,Bachelor,Married,3,50500.0,671.0,17300,0.0,25.0,33600,36,Medical,10.35,Rent,1
+46,Female,High School,Married,2,34500.0,,22900,5.0,82.0,53400,36,Car,8.51,Mortgage,1
+56,Male,High School,Divorced,3,30900.0,687.0,6800,4.0,81.0,15300,48,Personal,14.81,Rent,1
+20,Male,High School,Divorced,0,31700.0,751.0,5600,4.0,7.0,20800,48,Medical,8.32,Mortgage,0
+49,Female,Bachelor,Single,0,43300.0,,20000,0.0,32.0,23500,36,Personal,19.13,Own,1
+27,Male,High School,Married,4,39400.0,641.0,19300,5.0,31.0,28900,12,Car,13.49,Rent,1
+27,Male,Bachelor,Married,4,69100.0,634.0,11300,4.0,19.0,1000,36,Car,8.44,Rent,0
+36,Male,High School,Single,2,53300.0,537.0,15900,4.0,120.0,25400,24,Home,10.04,Own,1
+63,Female,PhD,Married,4,66700.0,602.0,18900,4.0,51.0,22400,36,Personal,8.88,Rent,1
+51,Female,Master,Married,3,82700.0,685.0,19100,2.0,188.0,22500,36,Car,10.76,Mortgage,0
+50,Male,Bachelor,Single,4,62600.0,528.0,20100,,3.0,28500,12,Car,6.76,Rent,1
+40,Male,Master,Married,3,63400.0,814.0,8000,7.0,24.0,29200,12,Medical,14.79,Own,0
+45,Female,Master,Married,4,88700.0,621.0,49300,2.0,87.0,29100,36,Car,6.54,Own,0
+49,Female,PhD,Single,4,98400.0,660.0,77900,0.0,26.0,12100,48,Personal,9.26,Own,0
+67,Male,Bachelor,Married,4,52800.0,677.0,28700,0.0,15.0,22000,12,Education,9.6,Mortgage,1
+24,Male,High School,Single,1,15000.0,740.0,5300,3.0,294.0,21500,48,Personal,7.55,Rent,1
+46,Male,Bachelor,Married,1,85500.0,671.0,48500,7.0,99.0,31300,36,Home,4.63,Rent,1
+25,Female,Bachelor,Single,4,49600.0,565.0,24800,,38.0,13400,24,Car,9.22,Rent,0
+18,Male,Bachelor,Divorced,3,61600.0,684.0,42700,0.0,40.0,27300,36,Car,9.24,Own,0
+20,Male,Bachelor,Married,2,77500.0,740.0,41500,7.0,0.0,44300,60,Personal,7.51,Own,1
+41,Female,Master,Single,0,82500.0,578.0,44900,2.0,190.0,1000,36,Home,7.63,Rent,0
+40,Female,PhD,Married,1,69400.0,714.0,17700,3.0,79.0,23000,48,Car,8.96,Mortgage,0
+25,Male,High School,Married,4,27500.0,670.0,10800,0.0,2.0,1200,48,Personal,12.24,Mortgage,0
+64,Female,High School,Married,0,35300.0,658.0,12000,,9.0,25000,48,Home,12.02,Mortgage,1
+54,Male,High School,Married,1,36400.0,599.0,3900,,83.0,35000,12,Personal,9.94,Mortgage,0
+20,Female,Master,Married,2,76700.0,632.0,24500,0.0,4.0,18900,48,Personal,7.21,Own,0
+68,Male,Bachelor,Single,3,56600.0,685.0,24900,1.0,136.0,36100,60,Home,7.48,Own,0
+50,Female,Bachelor,Single,4,51600.0,616.0,26800,5.0,360.0,41300,48,Medical,7.77,Own,0
+45,Male,Bachelor,Married,2,56800.0,572.0,42800,5.0,104.0,29800,48,Education,7.15,Rent,1
+64,Female,Bachelor,Married,1,35000.0,568.0,9400,2.0,64.0,18800,36,Car,5.19,Rent,1
+25,Female,Bachelor,Married,4,,672.0,11800,2.0,32.0,31400,36,Car,6.16,Mortgage,0
+51,Female,Bachelor,Married,0,64300.0,,45600,7.0,4.0,45200,48,Personal,10.31,Rent,0
+52,Female,Master,Married,3,38200.0,,29000,7.0,63.0,9000,36,Home,6.57,Rent,0
+49,Female,PhD,Married,1,104900.0,795.0,46300,2.0,24.0,38300,60,Education,8.61,Rent,0
+41,Male,PhD,Single,3,96300.0,514.0,17400,3.0,41.0,9500,60,Medical,8.5,Own,0
+31,Male,PhD,Single,4,93600.0,680.0,41200,6.0,17.0,6800,48,Home,9.88,Mortgage,0
+49,Female,Bachelor,Divorced,2,32800.0,503.0,5800,1.0,13.0,10200,60,Personal,6.52,Mortgage,1
+63,Male,Bachelor,Married,3,62200.0,642.0,44700,6.0,19.0,24500,36,Car,3.0,Rent,0
+60,Female,Master,Married,0,89200.0,670.0,53100,2.0,81.0,40200,60,Car,6.65,Mortgage,0
+33,Female,PhD,Single,1,63600.0,636.0,17100,7.0,27.0,1000,36,Medical,5.73,Rent,0
+21,Male,High School,Married,0,28600.0,494.0,20600,7.0,18.0,36900,24,Home,3.0,Own,1
+69,Female,Bachelor,Divorced,3,47900.0,642.0,26200,2.0,27.0,23200,36,Medical,6.84,Own,0
+54,Male,High School,Single,2,48300.0,650.0,37100,0.0,2.0,11800,36,Personal,6.45,Own,0
+38,Female,Bachelor,Married,2,80900.0,722.0,63600,7.0,106.0,32100,60,Home,8.42,Rent,0
+31,Male,Bachelor,Married,0,52200.0,536.0,5300,6.0,39.0,19300,36,Car,10.07,Own,0
+48,Male,Bachelor,Married,4,62600.0,765.0,11500,7.0,5.0,52100,60,Home,14.12,Mortgage,1
+65,Female,High School,Married,4,17100.0,,8300,0.0,16.0,31000,12,Personal,8.78,Mortgage,1
+35,Female,Bachelor,Divorced,2,50600.0,546.0,38900,7.0,197.0,25700,48,Home,8.59,Own,0
+24,Female,Master,Single,0,83400.0,664.0,66400,6.0,43.0,32800,48,Car,14.49,Own,0
+27,Female,High School,Single,0,27800.0,675.0,13800,6.0,17.0,41100,48,Medical,4.69,Mortgage,1
+24,Male,Bachelor,Divorced,0,90000.0,771.0,19900,0.0,,42300,36,Car,4.89,Mortgage,0
+50,Female,Bachelor,Married,3,53300.0,665.0,11400,2.0,14.0,36100,48,Home,10.31,Rent,1
+40,Male,Master,Single,4,86800.0,642.0,55100,0.0,2.0,41500,36,Personal,12.45,Rent,1
+38,Female,High School,Married,4,25500.0,686.0,13100,2.0,89.0,39400,48,Car,12.8,Mortgage,1
+36,Female,PhD,Married,3,74100.0,463.0,35900,6.0,17.0,35900,36,Car,3.09,Rent,0
+65,Female,Bachelor,Married,1,749400.0,569.0,25000,3.0,87.0,20300,24,Home,3.17,Own,0
+36,Female,PhD,Single,3,99100.0,556.0,60200,3.0,31.0,40100,12,Personal,8.15,Mortgage,1
+53,Male,Master,Married,0,60700.0,726.0,42500,4.0,10.0,19900,36,Car,10.63,Own,0
+46,Female,High School,Single,3,52100.0,754.0,16300,7.0,78.0,28200,60,Home,7.36,Own,1
+35,Male,High School,Married,0,30200.0,,7700,1.0,23.0,20500,36,Car,4.97,Rent,0
+19,Female,Bachelor,Married,2,,696.0,22600,0.0,59.0,33100,48,Personal,4.68,Own,0
+18,Male,Bachelor,Married,0,43200.0,721.0,32000,5.0,87.0,40400,36,Home,11.61,Mortgage,1
+64,Female,High School,Single,4,27500.0,658.0,9500,0.0,158.0,20100,60,Home,11.7,Rent,0
+22,Female,High School,Single,3,21800.0,610.0,6300,1.0,4.0,8100,36,Education,10.39,Mortgage,1
+37,Male,Bachelor,Married,0,46500.0,564.0,12000,7.0,0.0,37100,12,Car,8.35,Own,1
+28,Male,High School,Married,1,31100.0,556.0,8700,7.0,38.0,37400,48,Personal,5.9,Own,1
+59,Female,High School,Married,2,45100.0,540.0,8800,6.0,15.0,43800,48,Personal,3.0,Rent,0
+19,Male,Bachelor,Married,1,88500.0,708.0,45800,1.0,30.0,35700,36,Home,3.99,Mortgage,0
+20,Male,High School,Married,1,36600.0,617.0,10900,6.0,4.0,36000,36,Education,3.0,Own,1
+40,Male,Bachelor,Single,1,44200.0,592.0,23400,4.0,33.0,16400,24,Home,7.6,Rent,0
+29,Male,Bachelor,Single,2,53200.0,488.0,8400,1.0,6.0,33800,36,Car,9.9,Own,0
+37,Female,Bachelor,Single,2,36100.0,577.0,6500,2.0,88.0,50800,48,Personal,8.7,Mortgage,1
+22,Female,Master,Single,2,58000.0,627.0,27600,0.0,68.0,18400,36,Car,12.75,Mortgage,0
+54,Male,Bachelor,Married,2,79500.0,527.0,36400,1.0,,10400,36,Home,9.04,Rent,0
+55,Male,Bachelor,Divorced,1,57400.0,850.0,16600,2.0,87.0,26700,36,Home,3.57,Mortgage,0
+47,Male,Bachelor,Married,4,66800.0,543.0,45400,1.0,19.0,36200,24,Personal,8.09,Own,0
+26,Male,Master,Single,4,58900.0,,13600,5.0,21.0,27600,48,Personal,8.18,Own,0
+51,Male,Master,Single,2,41600.0,640.0,14700,2.0,,46400,48,Car,10.0,Own,1
+61,Male,Master,Single,3,70100.0,605.0,34300,3.0,87.0,14700,12,Home,11.04,Own,0
+52,Male,Bachelor,Single,0,30500.0,630.0,21600,7.0,25.0,6800,24,Personal,9.92,Mortgage,0
+69,Female,High School,Married,3,48600.0,651.0,19100,2.0,2.0,42100,12,Education,7.04,Rent,1
+39,Male,Bachelor,Married,3,49600.0,668.0,18800,4.0,163.0,8100,60,Education,12.64,Own,0
+61,Female,High School,Single,3,28600.0,571.0,14500,6.0,14.0,28800,36,Personal,11.01,Mortgage,1
+41,Female,PhD,Single,4,91900.0,,29600,2.0,132.0,41800,36,Home,3.0,Mortgage,0
+34,Female,Bachelor,Single,0,68500.0,628.0,40900,1.0,17.0,27600,36,Education,10.79,Rent,0
+27,Female,Master,Single,3,69500.0,543.0,19000,3.0,85.0,16600,60,Personal,5.84,Rent,0
+47,Female,Bachelor,Married,2,50300.0,616.0,34000,7.0,52.0,40300,48,Home,3.24,Own,0
+63,Female,Master,Single,4,59000.0,764.0,17100,7.0,95.0,27000,24,Medical,9.26,Rent,0
+40,Female,Bachelor,Married,2,71900.0,668.0,57200,3.0,179.0,22300,36,Education,15.47,Rent,0
+49,Female,High School,Married,2,22500.0,650.0,7200,2.0,98.0,44700,48,Personal,8.34,Mortgage,1
+34,Female,Bachelor,Divorced,3,63600.0,618.0,45500,1.0,25.0,20500,36,Car,7.63,Mortgage,0
+67,Female,Bachelor,Divorced,2,61300.0,624.0,23200,7.0,81.0,17800,36,Personal,8.79,Mortgage,0
+68,Male,Bachelor,Married,0,56700.0,668.0,15400,3.0,60.0,14200,60,Car,15.67,Own,0
+34,Male,Master,Single,2,55100.0,629.0,14200,5.0,3.0,39600,60,Car,7.7,Rent,0
+31,Male,High School,Married,3,35800.0,686.0,24900,2.0,127.0,30100,60,Home,11.45,Own,0
+26,Female,Bachelor,Married,2,47400.0,676.0,15000,2.0,30.0,19200,24,Personal,7.31,Mortgage,0
+57,Female,Bachelor,Single,4,76600.0,555.0,25800,6.0,7.0,7700,24,Home,6.76,Own,1
+19,Female,Bachelor,Married,4,53200.0,692.0,12700,7.0,27.0,41900,36,Personal,12.74,Rent,0
+62,Female,Master,Divorced,4,,574.0,44400,7.0,44.0,19300,48,Education,5.19,Own,1
+42,Male,Master,Married,1,64300.0,570.0,17400,7.0,41.0,3200,48,Personal,10.74,Rent,0
+56,Male,Master,Single,4,44900.0,648.0,12300,2.0,41.0,26000,48,Car,7.47,Rent,0
+26,Female,Master,Single,4,46300.0,671.0,35200,3.0,14.0,37400,60,Home,6.23,Rent,0
+39,Female,Master,Married,1,85200.0,699.0,62200,0.0,48.0,33600,48,Education,7.25,Own,1
+60,Female,High School,Single,4,17800.0,477.0,4900,1.0,114.0,26000,24,Education,3.0,Rent,1
+63,Male,Master,Married,3,57100.0,713.0,40300,4.0,24.0,19700,24,Car,5.35,Rent,0
+21,Female,Bachelor,Married,4,36900.0,683.0,10100,4.0,48.0,18300,36,Medical,8.9,Mortgage,1
+43,Female,High School,Single,4,28400.0,592.0,4500,7.0,13.0,40300,36,Home,7.76,Own,0
+46,Female,High School,Divorced,1,30500.0,,20600,1.0,2.0,1600,24,Medical,5.66,Mortgage,0
+62,Female,Master,Married,3,51100.0,666.0,32700,0.0,42.0,13600,48,Home,12.94,Rent,0
+51,Female,Master,Single,2,105900.0,371.0,32400,6.0,2.0,23900,12,Home,5.52,Own,1
+40,Male,High School,Married,0,35300.0,550.0,5800,6.0,62.0,1100,48,Personal,12.81,Mortgage,0
+54,Female,Master,Married,3,,743.0,15500,6.0,,22400,48,Education,8.94,Rent,0
+28,Female,Master,Married,2,59100.0,602.0,37800,6.0,22.0,10300,12,Personal,7.71,Own,0
+23,Female,High School,Divorced,3,51000.0,643.0,39500,1.0,25.0,30700,12,Home,8.78,Rent,1
+35,Female,High School,Married,2,37600.0,641.0,10600,,120.0,18100,24,Home,9.38,Rent,0
+38,Male,Master,Divorced,2,69500.0,707.0,46800,5.0,1.0,20200,24,Education,5.63,Mortgage,1
+59,Male,Bachelor,Married,3,67400.0,617.0,17500,1.0,40.0,17300,36,Car,5.71,Mortgage,0
+53,Female,Bachelor,Married,1,56700.0,624.0,32600,1.0,,33100,48,Home,7.9,Rent,1
+58,Female,High School,Divorced,3,33000.0,665.0,5200,5.0,118.0,24200,36,Home,9.81,Rent,0
+55,Female,Bachelor,Married,3,36500.0,718.0,18600,3.0,42.0,36400,36,Home,10.49,Own,1
+51,Male,Master,Single,2,61000.0,743.0,17600,4.0,23.0,39500,36,Car,12.24,Rent,0
+34,Female,Bachelor,Married,0,66500.0,624.0,49700,7.0,5.0,21600,36,Personal,4.81,Own,1
+54,Female,Master,Married,2,55000.0,611.0,16700,4.0,9.0,16600,24,Car,9.57,Own,0
+42,Female,Master,Single,4,52500.0,638.0,19900,7.0,55.0,20000,24,Medical,8.46,Rent,1
+55,Male,Master,Divorced,3,80300.0,757.0,55300,2.0,1.0,56900,60,Home,6.9,Own,0
+29,Female,Bachelor,Single,3,70400.0,712.0,28600,5.0,103.0,17600,36,Personal,14.51,Rent,0
+40,Female,High School,Single,1,31100.0,612.0,8300,6.0,43.0,22900,48,Home,9.8,Rent,1
+59,Male,Bachelor,Divorced,2,45400.0,521.0,21900,6.0,,27600,24,Car,12.79,Mortgage,1
+39,Female,High School,Married,1,29500.0,739.0,20300,2.0,13.0,31600,12,Home,3.0,Own,0
+38,Female,Master,Single,3,90100.0,748.0,36300,3.0,43.0,26200,36,Car,11.64,Rent,0
+44,Female,Bachelor,Married,2,38200.0,561.0,7400,2.0,2.0,46300,60,Personal,10.11,Mortgage,1
+48,Male,Bachelor,Married,2,75700.0,614.0,27900,5.0,73.0,27800,48,Car,10.61,Mortgage,0
+23,Male,Bachelor,Single,4,60500.0,720.0,46500,5.0,121.0,23200,24,Personal,7.62,Mortgage,0
+44,Male,Master,Divorced,4,61400.0,681.0,9200,0.0,156.0,36500,60,Personal,14.83,Rent,0
+57,Male,Master,Married,0,51000.0,490.0,19700,3.0,64.0,14400,36,Home,7.91,Mortgage,1
+51,Male,Bachelor,Married,4,56300.0,560.0,31200,5.0,93.0,31500,12,Car,8.44,Rent,0
+29,Female,Master,Married,2,32100.0,697.0,5000,5.0,45.0,20600,12,Personal,5.56,Rent,0
+62,Male,Bachelor,Married,4,39500.0,670.0,13500,3.0,29.0,40400,36,Home,8.38,Rent,1
+24,Female,Bachelor,Single,0,74300.0,967.0,56300,6.0,60.0,41400,36,Personal,7.98,Rent,1
+27,Female,Master,Single,3,98500.0,712.0,12000,1.0,12.0,22900,12,Personal,11.72,Own,0
+62,Female,Bachelor,Married,4,58800.0,669.0,36800,6.0,6.0,14600,60,Personal,10.4,Mortgage,0
+34,Female,PhD,Married,2,68900.0,684.0,47500,1.0,69.0,2700,48,Personal,12.02,Mortgage,1
+43,Female,High School,Single,3,28200.0,604.0,8300,0.0,152.0,27700,48,Personal,8.18,Own,1
+38,Female,High School,Married,2,20500.0,659.0,5100,6.0,41.0,1000,36,Medical,7.48,Mortgage,0
+45,Male,Master,Married,3,89600.0,675.0,66300,5.0,32.0,24000,48,Car,11.15,Rent,1
+63,Male,High School,Single,2,54600.0,786.0,34700,3.0,37.0,18300,36,Home,8.97,Rent,0
+19,Female,PhD,Single,4,88100.0,584.0,15800,3.0,31.0,31700,48,Personal,3.0,Rent,1
+60,Female,PhD,Single,4,89500.0,708.0,22200,7.0,28.0,24800,60,Personal,7.14,Mortgage,0
+18,Male,High School,Married,0,32900.0,641.0,17600,1.0,141.0,18200,36,Education,3.0,Rent,0
+68,Female,Bachelor,Single,3,41700.0,710.0,16400,6.0,31.0,35200,36,Education,6.05,Mortgage,0
+53,Female,High School,Married,0,47400.0,640.0,21500,4.0,4.0,11900,24,Car,11.58,Rent,0
+68,Male,Bachelor,Married,1,55000.0,744.0,42100,4.0,70.0,31800,60,Personal,7.49,Mortgage,0
+43,Female,High School,Married,4,47900.0,591.0,18900,5.0,24.0,49700,24,Home,7.69,Mortgage,0
+46,Female,High School,Single,3,42400.0,661.0,30400,1.0,60.0,36600,48,Medical,7.92,Mortgage,0
+38,Male,Bachelor,Married,0,51800.0,685.0,29100,5.0,42.0,20100,36,Personal,8.53,Mortgage,1
+28,Female,Bachelor,Married,0,,595.0,11500,2.0,60.0,12800,36,Home,7.5,Own,0
+57,Male,PhD,Divorced,1,70900.0,674.0,44000,3.0,3.0,36200,48,Personal,13.95,Rent,1
+28,Female,Master,Divorced,0,54200.0,731.0,25200,6.0,2.0,10300,24,Personal,3.39,Rent,1
+53,Male,Master,Married,2,80000.0,645.0,20600,6.0,23.0,25100,36,Personal,9.19,Rent,0
+66,Male,Bachelor,Married,4,76700.0,710.0,23200,5.0,57.0,33700,12,Education,10.17,Mortgage,0
+56,Female,Master,Single,0,69500.0,596.0,34100,0.0,12.0,12900,48,Car,5.82,Own,0
+57,Female,Bachelor,Single,0,86700.0,562.0,45200,6.0,27.0,12200,12,Personal,10.44,Mortgage,0
+52,Male,Master,Single,1,54900.0,706.0,42700,4.0,190.0,9200,12,Car,6.5,Mortgage,1
+51,Male,PhD,Married,2,73000.0,605.0,51000,5.0,12.0,44100,48,Home,9.94,Own,1
+64,Female,Bachelor,Single,0,36800.0,516.0,9000,2.0,90.0,45400,36,Personal,4.71,Rent,1
+41,Male,Bachelor,Single,4,55700.0,589.0,35700,3.0,84.0,45200,24,Medical,8.76,Own,1
+39,Male,Master,Divorced,4,66400.0,,7000,7.0,107.0,46800,36,Home,15.19,Mortgage,0
+22,Male,Master,Single,0,51400.0,735.0,9800,,118.0,17400,36,Home,5.78,Own,0
+50,Male,Master,Single,2,66700.0,560.0,16000,7.0,34.0,3200,36,Personal,7.25,Own,0
+53,Female,Bachelor,Single,4,29400.0,533.0,15200,2.0,55.0,45400,60,Personal,13.45,Own,1
+64,Female,Bachelor,Married,4,43800.0,617.0,10300,7.0,46.0,36200,48,Car,12.21,Own,0
+37,Male,High School,Married,2,38700.0,733.0,13800,5.0,18.0,35200,24,Home,13.75,Rent,1
+36,Female,Master,Married,2,87200.0,634.0,23500,3.0,16.0,12500,36,Medical,7.39,Mortgage,0
+52,Male,High School,Married,0,25800.0,635.0,8700,3.0,20.0,26200,12,Car,9.54,Rent,1
+69,Female,Master,Married,3,73800.0,601.0,56100,1.0,12.0,26900,24,Home,9.88,Own,1
+60,Female,High School,Married,1,36400.0,628.0,29100,1.0,68.0,24200,60,Education,6.17,Rent,1
+34,Male,High School,Divorced,3,27200.0,718.0,15800,7.0,160.0,14800,36,Education,5.15,Rent,1
+62,Female,Bachelor,Married,3,72800.0,657.0,36400,0.0,97.0,2200,60,Education,4.78,Rent,0
+60,Female,Master,Married,4,77800.0,634.0,46400,0.0,12.0,16000,24,Personal,7.0,Rent,1
+51,Male,High School,Single,2,15000.0,,9600,6.0,3.0,1000,24,Education,4.67,Mortgage,0
+26,Male,Bachelor,Single,4,58900.0,656.0,36400,7.0,68.0,20000,36,Personal,6.47,Rent,1
+43,Male,Bachelor,Single,1,33500.0,726.0,5300,2.0,24.0,17600,36,Personal,5.48,Mortgage,0
+19,Female,High School,Married,0,55900.0,596.0,17700,1.0,84.0,11000,48,Medical,10.04,Rent,0
+26,Female,High School,Married,1,35100.0,672.0,11900,3.0,73.0,29800,36,Home,9.69,Own,0
+26,Female,Master,Married,4,71900.0,721.0,25800,1.0,47.0,20900,36,Personal,6.79,Mortgage,0
+57,Female,Bachelor,Single,4,78300.0,774.0,26700,7.0,14.0,21700,36,Personal,7.48,Own,0
+34,Female,High School,Married,4,26400.0,563.0,17200,3.0,5.0,41700,48,Car,10.29,Rent,1
+18,Female,Master,Divorced,4,58500.0,636.0,36500,1.0,14.0,21100,60,Education,7.44,Mortgage,1
+42,Female,PhD,Married,3,101800.0,545.0,10500,3.0,34.0,30400,36,Car,6.71,Own,0
+60,Male,Bachelor,Married,0,55000.0,572.0,16900,7.0,187.0,12000,48,Home,4.51,Own,0
+57,Female,Bachelor,Married,3,55900.0,651.0,30000,2.0,3.0,28100,36,Education,12.42,Rent,1
+59,Female,Master,Divorced,4,60500.0,488.0,11100,1.0,11.0,23800,48,Home,3.64,Own,0
+42,Male,PhD,Married,2,125400.0,684.0,18800,,47.0,26100,60,Home,7.55,Rent,0
+56,Female,Master,Married,3,58900.0,695.0,40000,4.0,17.0,10300,12,Education,5.84,Mortgage,0
+52,Male,Bachelor,Single,4,32300.0,644.0,13500,3.0,94.0,11400,36,Personal,8.94,Rent,1
+20,Male,Bachelor,Single,4,,583.0,10500,2.0,7.0,20800,60,Personal,7.16,Rent,1
+67,Female,Master,Married,0,83100.0,630.0,56200,3.0,158.0,41000,36,Personal,8.75,Mortgage,0
+54,Male,High School,Single,1,24600.0,819.0,17800,2.0,117.0,7700,60,Education,5.98,Mortgage,0
+61,Male,Bachelor,Divorced,3,50600.0,608.0,6800,7.0,105.0,45200,24,Education,7.14,Mortgage,0
+61,Male,Master,Single,3,67800.0,587.0,15600,0.0,9.0,16500,36,Personal,4.46,Mortgage,1
+68,Female,Bachelor,Divorced,3,,465.0,7000,1.0,19.0,26000,60,Medical,5.48,Rent,1
+47,Male,Bachelor,Married,4,46300.0,734.0,9000,2.0,78.0,37000,36,Home,7.11,Own,0
+55,Female,Bachelor,Single,0,90400.0,551.0,39800,7.0,79.0,20700,36,Car,8.99,Rent,1
+51,Male,High School,Divorced,4,37400.0,657.0,24700,3.0,59.0,22100,12,Personal,8.06,Mortgage,1
+29,Female,Bachelor,Married,4,65400.0,819.0,50100,6.0,29.0,42400,12,Home,12.59,Own,1
+36,Female,Master,Married,2,87900.0,680.0,63500,6.0,18.0,38200,36,Home,3.96,Mortgage,0
+54,Male,High School,Single,0,47400.0,679.0,19900,0.0,158.0,33400,48,Car,7.72,Rent,0
+61,Male,High School,Married,3,26600.0,969.0,14500,6.0,7.0,23200,60,Personal,3.0,Mortgage,1
+66,Male,PhD,Single,1,97800.0,675.0,25600,3.0,2.0,24100,48,Home,8.0,Mortgage,0
+34,Female,High School,Married,3,38300.0,656.0,14600,4.0,0.0,12100,48,Medical,6.49,Mortgage,1
+27,Male,Bachelor,Married,4,30300.0,,21500,4.0,72.0,21600,48,Home,6.95,Mortgage,0
+66,Male,PhD,Married,0,100400.0,457.0,12100,1.0,3.0,25800,48,Education,6.45,Mortgage,0
+64,Male,Master,Married,0,78600.0,680.0,37200,5.0,37.0,24600,48,Education,9.8,Rent,0
+29,Male,Bachelor,Married,0,,685.0,38600,1.0,22.0,28600,36,Home,9.34,Mortgage,1
+33,Male,Master,Single,2,32900.0,850.0,6100,6.0,8.0,38300,36,Personal,4.88,Own,1
+41,Female,High School,Married,3,,650.0,35000,0.0,65.0,6900,24,Personal,7.82,Mortgage,0
+36,Female,Master,Single,2,74100.0,,8100,6.0,3.0,17400,48,Car,3.94,Rent,0
+25,Male,Bachelor,Married,1,51300.0,682.0,37000,4.0,18.0,38700,12,Home,3.38,Rent,0
+48,Female,Master,Married,4,68300.0,684.0,23700,7.0,40.0,54600,24,Car,9.7,Mortgage,1
+38,Male,Bachelor,Divorced,2,51300.0,551.0,9900,2.0,25.0,12100,36,Personal,5.09,Rent,0
+34,Female,Bachelor,Married,2,49800.0,715.0,10500,4.0,14.0,17500,60,Home,6.66,Rent,1
+40,Female,Bachelor,Married,4,25600.0,577.0,15100,5.0,125.0,9300,48,Car,9.16,Own,1
+54,Female,Bachelor,Married,0,65000.0,683.0,46100,1.0,128.0,1000,36,Education,8.45,Mortgage,0
+33,Female,Master,Married,4,91700.0,581.0,50300,3.0,26.0,28300,48,Home,12.71,Rent,0
+23,Male,Bachelor,Single,3,45500.0,632.0,34100,6.0,24.0,32100,60,Car,4.73,Own,1
+25,Female,Bachelor,Married,4,55800.0,612.0,38500,0.0,18.0,21400,36,Education,12.16,Rent,1
+42,Female,Bachelor,Married,0,39300.0,630.0,4200,5.0,93.0,21500,36,Car,10.24,Rent,0
+35,Male,Bachelor,Divorced,4,45800.0,643.0,26000,4.0,40.0,23700,36,Personal,10.78,Rent,0
+42,Female,Master,Married,2,75200.0,680.0,23600,2.0,5.0,18200,36,Personal,7.33,Own,0
+29,Male,Master,Married,1,95100.0,642.0,39800,5.0,92.0,24500,60,Car,5.64,Rent,0
+32,Female,Bachelor,Single,2,27300.0,720.0,4500,7.0,37.0,41600,48,Education,8.79,Mortgage,0
+43,Male,PhD,Divorced,1,54600.0,607.0,16200,7.0,26.0,15100,48,Medical,5.63,Mortgage,0
+58,Male,Master,Married,4,58300.0,684.0,31600,2.0,20.0,21600,36,Medical,5.53,Mortgage,0
+62,Female,Bachelor,Single,3,51500.0,583.0,13000,2.0,5.0,23500,60,Home,8.95,Mortgage,1
+43,Female,Bachelor,Single,4,51000.0,793.0,28200,0.0,151.0,18200,24,Home,11.66,Own,0
+64,Male,PhD,Married,0,147700.0,685.0,100000,7.0,65.0,25800,24,Personal,3.69,Rent,0
+49,Male,Bachelor,Single,4,51700.0,594.0,5300,2.0,7.0,1000,24,Home,12.42,Mortgage,0
+27,Female,Master,Single,1,88700.0,789.0,57700,2.0,34.0,31900,48,Education,4.78,Own,1
+33,Male,Bachelor,Single,2,43000.0,691.0,23600,7.0,39.0,13300,48,Medical,7.58,Own,0
+24,Male,Bachelor,Single,3,50900.0,595.0,6800,4.0,9.0,14900,36,Home,7.63,Rent,0
+34,Female,High School,Married,4,42100.0,640.0,27500,0.0,27.0,23000,48,Personal,7.05,Rent,1
+40,Female,Bachelor,Married,4,78200.0,559.0,20100,7.0,50.0,8300,36,Personal,7.79,Own,0
+43,Male,PhD,Single,2,84500.0,559.0,24200,7.0,16.0,41000,12,Car,8.9,Rent,0
+38,Female,Bachelor,Single,3,64900.0,747.0,10700,3.0,19.0,15100,24,Personal,12.32,Mortgage,0
+39,Female,Bachelor,Single,4,68600.0,578.0,32500,7.0,,56600,36,Home,7.89,Own,0
+24,Female,PhD,Married,4,109700.0,543.0,49200,3.0,26.0,32600,48,Personal,5.76,Rent,1
+31,Female,Bachelor,Single,1,47200.0,701.0,16200,2.0,42.0,18200,48,Medical,5.29,Rent,0
+32,Male,Bachelor,Married,1,38400.0,783.0,8400,5.0,6.0,21300,24,Education,9.46,Mortgage,0
+24,Male,Master,Married,0,103900.0,743.0,71300,7.0,46.0,26800,12,Home,10.95,Mortgage,0
+26,Male,Master,Single,2,49700.0,833.0,35500,1.0,24.0,45400,60,Car,6.55,Own,1
+68,Female,High School,Single,3,37400.0,844.0,17900,0.0,54.0,36400,12,Personal,11.25,Own,0
+65,Male,Bachelor,Single,4,55400.0,578.0,15000,6.0,18.0,35500,36,Education,15.01,Rent,1
+25,Female,Bachelor,Married,4,58500.0,625.0,9800,1.0,40.0,21300,12,Education,12.46,Own,1
+67,Male,Bachelor,Divorced,0,32400.0,524.0,22900,0.0,46.0,18200,36,Personal,6.33,Rent,1
+40,Male,Bachelor,Single,4,47300.0,557.0,7900,0.0,56.0,32600,36,Education,11.59,Rent,1
+46,Female,Bachelor,Divorced,2,47500.0,736.0,5200,4.0,68.0,41000,24,Car,11.27,Own,0
+35,Male,High School,Single,0,33800.0,672.0,14500,7.0,7.0,23300,36,Personal,8.69,Rent,0
+48,Male,Bachelor,Married,2,40500.0,767.0,24800,2.0,161.0,16800,36,Personal,11.19,Rent,0
+47,Female,High School,Married,0,21400.0,581.0,9000,4.0,89.0,12600,24,Car,10.78,Own,1
+69,Male,Bachelor,Married,4,64900.0,606.0,8800,7.0,40.0,4900,48,Education,12.24,Mortgage,0
+56,Female,Master,Married,0,75100.0,697.0,43800,5.0,106.0,19600,48,Personal,10.24,Mortgage,0
+52,Female,Master,Married,1,,735.0,35700,6.0,,21900,24,Home,10.76,Own,0
+35,Male,Bachelor,Married,3,29900.0,519.0,17300,1.0,2.0,24800,24,Home,5.44,Own,1
+59,Female,High School,Married,4,27900.0,,6900,1.0,62.0,31500,12,Education,8.49,Mortgage,0
+56,Male,High School,Married,3,40400.0,682.0,26500,3.0,138.0,19400,36,Car,6.25,Mortgage,1
+34,Male,Bachelor,Single,4,63300.0,713.0,27600,5.0,8.0,46500,48,Education,12.09,Mortgage,0
+31,Male,High School,Single,3,37800.0,728.0,18000,6.0,50.0,11300,24,Personal,4.43,Rent,0
+48,Male,Bachelor,Married,1,36800.0,644.0,17700,5.0,81.0,33200,36,Home,3.0,Rent,0
+41,Female,High School,Married,3,61900.0,551.0,18600,7.0,113.0,10400,24,Personal,4.25,Mortgage,0
+52,Male,Master,Married,0,97000.0,496.0,26700,4.0,16.0,14800,36,Car,7.82,Rent,0
+61,Female,Bachelor,Married,3,42500.0,635.0,4400,7.0,7.0,28400,12,Car,3.0,Mortgage,0
+62,Female,High School,Divorced,4,27800.0,627.0,10500,4.0,14.0,37500,60,Car,3.0,Mortgage,1
+51,Female,Master,Married,2,47600.0,586.0,20900,5.0,41.0,21600,48,Personal,10.49,Mortgage,1
+20,Male,Bachelor,Married,3,58500.0,721.0,36300,4.0,120.0,26000,36,Home,4.32,Mortgage,0
+54,Male,High School,Married,3,45200.0,558.0,6600,3.0,42.0,40200,60,Home,11.51,Rent,1
+60,Female,Bachelor,Married,3,36700.0,,27400,7.0,121.0,10300,24,Personal,4.53,Own,0
+57,Male,Bachelor,Single,4,41400.0,743.0,11800,6.0,71.0,34200,12,Personal,3.0,Own,0
+43,Male,Master,Married,3,69200.0,588.0,24700,6.0,44.0,16700,60,Car,5.41,Mortgage,0
+40,Male,High School,Married,4,27100.0,676.0,3600,4.0,1.0,27900,36,Home,4.64,Own,1
+61,Male,Bachelor,Divorced,4,40100.0,649.0,22300,4.0,19.0,31500,60,Medical,4.62,Own,1
+56,Female,Bachelor,Single,2,52600.0,669.0,31400,6.0,3.0,10900,36,Medical,8.17,Mortgage,1
+32,Male,High School,Single,0,18800.0,721.0,14100,5.0,19.0,16000,60,Personal,9.01,Rent,1
+66,Male,Master,Divorced,4,102800.0,,34500,6.0,3.0,33000,48,Car,12.65,Mortgage,0
+21,Male,Master,Married,1,36700.0,539.0,10300,5.0,,21900,24,Home,7.41,Rent,1
+46,Female,Bachelor,Married,3,81400.0,553.0,49500,4.0,25.0,16400,60,Medical,9.36,Rent,1
+39,Female,Bachelor,Married,1,56400.0,674.0,33500,4.0,35.0,27300,24,Education,4.51,Own,0
+42,Male,High School,Married,3,40500.0,576.0,30600,7.0,12.0,12000,48,Personal,5.78,Rent,1
+30,Female,Master,Married,2,71800.0,726.0,17500,7.0,63.0,10800,36,Personal,12.4,Own,0
+35,Female,High School,Single,4,34400.0,675.0,20400,5.0,43.0,1000,48,Education,12.71,Rent,0
+50,Female,High School,Married,0,40600.0,513.0,6000,1.0,56.0,29300,48,Home,13.26,Rent,0
+33,Female,Bachelor,Divorced,4,54400.0,801.0,23700,2.0,63.0,25400,48,Education,8.12,Own,1
+62,Male,Bachelor,Single,3,42600.0,621.0,7800,1.0,62.0,31500,48,Car,4.53,Rent,0
+59,Male,Bachelor,Divorced,0,67800.0,633.0,37800,4.0,132.0,39700,48,Education,6.16,Mortgage,0
+61,Male,High School,Divorced,4,34400.0,684.0,17900,0.0,13.0,22100,36,Personal,7.52,Mortgage,0
+19,Male,Bachelor,Married,0,67500.0,643.0,9100,0.0,15.0,24200,60,Education,6.8,Rent,0
+52,Female,Bachelor,Married,3,34000.0,727.0,11000,3.0,5.0,29100,48,Home,8.84,Own,1
+59,Male,High School,Married,2,50900.0,569.0,19200,1.0,43.0,18200,48,Car,10.75,Mortgage,0
+51,Male,Master,Single,2,71400.0,742.0,19500,5.0,24.0,7500,60,Home,5.41,Mortgage,0
+47,Female,High School,Married,4,22000.0,704.0,2800,7.0,33.0,11200,24,Home,14.25,Mortgage,1
+30,Female,Bachelor,Divorced,1,61500.0,,19900,3.0,9.0,24500,36,Personal,8.72,Rent,1
+30,Male,Bachelor,Married,3,44500.0,670.0,29100,3.0,50.0,37000,48,Medical,12.57,Rent,1
+35,Male,Bachelor,Married,4,45900.0,747.0,16200,0.0,46.0,43800,12,Education,9.77,Mortgage,0
+49,Male,Bachelor,Single,4,53600.0,692.0,17500,1.0,15.0,21600,36,Car,14.97,Rent,1
+49,Female,Master,Single,2,53000.0,662.0,40200,2.0,30.0,27000,60,Car,5.01,Own,1
+52,Male,High School,Married,0,39700.0,,5100,6.0,108.0,47400,12,Home,6.96,Rent,1
+56,Male,Master,Single,3,57400.0,707.0,36600,5.0,71.0,31200,60,Car,6.97,Own,0
+63,Male,Bachelor,Married,0,71600.0,610.0,31400,1.0,12.0,26600,60,Personal,9.05,Mortgage,0
+69,Male,Bachelor,Married,3,44400.0,663.0,33800,7.0,101.0,27500,36,Personal,8.88,Rent,1
+46,Female,Bachelor,Married,1,41600.0,718.0,15600,3.0,3.0,32000,48,Personal,9.67,Own,1
+66,Male,Bachelor,Single,2,50200.0,661.0,29900,4.0,26.0,10400,24,Medical,8.92,Mortgage,0
+46,Male,Master,Married,1,81800.0,,12200,3.0,4.0,34100,48,Education,10.17,Rent,0
+61,Female,Master,Married,4,92900.0,672.0,69700,1.0,124.0,30300,36,Car,7.05,Own,0
+33,Female,Master,Single,2,89600.0,619.0,30600,0.0,2.0,38100,60,Home,9.9,Own,1
+61,Male,PhD,Single,4,113600.0,697.0,53000,6.0,,30900,24,Medical,16.95,Mortgage,1
+64,Female,Master,Single,1,61800.0,764.0,12200,1.0,118.0,37300,48,Education,8.51,Rent,0
+27,Female,Bachelor,Divorced,3,34200.0,704.0,26100,2.0,42.0,13900,48,Personal,4.17,Mortgage,0
+47,Female,Bachelor,Single,4,55200.0,,31500,5.0,76.0,17800,24,Car,6.62,Own,0
+42,Male,Bachelor,Married,0,65100.0,,9000,5.0,1.0,26800,48,Personal,7.12,Own,0
+56,Female,High School,Divorced,3,40700.0,444.0,8500,4.0,26.0,16000,60,Car,5.84,Mortgage,0
+37,Male,Master,Married,3,83400.0,642.0,31700,4.0,200.0,35300,36,Car,8.87,Rent,1
+22,Male,Bachelor,Single,1,38100.0,725.0,9600,3.0,42.0,8000,48,Personal,10.9,Rent,0
+18,Male,High School,Divorced,1,29900.0,682.0,9400,1.0,91.0,23100,36,Car,4.6,Mortgage,0
+47,Male,High School,Single,2,37900.0,659.0,30300,5.0,159.0,18200,36,Personal,3.42,Own,1
+66,Female,Bachelor,Married,2,45400.0,820.0,25500,0.0,55.0,16100,12,Home,15.92,Mortgage,0
+20,Male,Bachelor,Divorced,0,69100.0,514.0,51500,2.0,19.0,8500,36,Medical,5.69,Mortgage,1
+62,Male,Bachelor,Married,3,78800.0,532.0,31900,3.0,18.0,25500,36,Home,12.74,Own,0
+31,Female,Bachelor,Married,0,22900.0,689.0,13700,1.0,,24000,48,Home,10.78,Rent,1
+47,Male,Bachelor,Single,0,,722.0,25700,0.0,27.0,47900,24,Personal,6.69,Mortgage,0
+67,Male,Bachelor,Married,1,,725.0,18000,1.0,119.0,54900,24,Car,6.14,Rent,0
+21,Male,High School,Married,0,45300.0,604.0,21000,0.0,31.0,12200,48,Home,6.69,Rent,0
+35,Male,High School,Single,0,44300.0,582.0,17700,7.0,116.0,2200,24,Personal,7.17,Rent,0
+54,Male,Bachelor,Divorced,4,35700.0,571.0,28100,6.0,82.0,10600,36,Personal,10.36,Mortgage,1
+42,Female,Bachelor,Divorced,2,41900.0,676.0,18700,1.0,199.0,24300,24,Home,4.32,Mortgage,0
+65,Male,High School,Divorced,2,29800.0,571.0,19900,1.0,142.0,38500,36,Car,12.35,Mortgage,1
+18,Male,Bachelor,Married,3,41000.0,739.0,23200,7.0,59.0,19200,60,Personal,6.58,Mortgage,0
+63,Female,High School,Married,2,45900.0,648.0,20000,6.0,98.0,31900,60,Personal,4.11,Own,0
+32,Female,Bachelor,Divorced,3,64500.0,594.0,27900,5.0,66.0,15400,24,Personal,9.06,Mortgage,1
+26,Male,Bachelor,Divorced,4,82700.0,594.0,28100,3.0,58.0,19200,36,Car,15.71,Own,0
+32,Female,Bachelor,Married,2,63400.0,527.0,11100,1.0,60.0,27000,60,Education,5.98,Mortgage,0
+66,Male,Master,Single,4,44400.0,586.0,28100,1.0,61.0,24900,60,Home,8.89,Own,1
+41,Male,Bachelor,Single,2,49300.0,606.0,36600,3.0,23.0,24600,24,Car,8.92,Rent,1
+21,Male,PhD,Married,2,106200.0,,26800,3.0,26.0,12000,48,Home,14.16,Mortgage,0
+29,Male,Bachelor,Married,4,47100.0,642.0,35200,4.0,17.0,39700,24,Home,5.68,Mortgage,0
+54,Female,Bachelor,Married,0,51100.0,581.0,13400,4.0,8.0,39600,36,Education,11.31,Mortgage,0
+54,Male,Bachelor,Single,0,34600.0,552.0,16300,5.0,29.0,39800,12,Home,4.23,Own,1
+60,Female,Bachelor,Single,0,64200.0,631.0,21900,3.0,110.0,16900,60,Personal,9.17,Own,0
+23,Male,Bachelor,Married,0,74800.0,486.0,13500,6.0,51.0,26400,48,Personal,10.71,Mortgage,0
+56,Female,Bachelor,Married,2,53800.0,625.0,7400,2.0,3.0,18700,24,Home,11.51,Own,0
+63,Female,High School,Single,1,18500.0,739.0,6600,,80.0,13300,48,Personal,4.4,Mortgage,0
+41,Female,High School,Married,4,34700.0,634.0,4600,0.0,131.0,28400,24,Personal,3.0,Mortgage,0
+28,Male,Bachelor,Married,1,36500.0,663.0,6300,,85.0,1000,12,Education,7.91,Mortgage,0
+30,Female,Bachelor,Married,1,25900.0,653.0,5200,3.0,62.0,35200,36,Car,6.79,Rent,1
+51,Male,Bachelor,Married,3,44500.0,539.0,4500,4.0,8.0,11000,36,Car,4.24,Rent,0
+42,Female,High School,Single,0,28700.0,791.0,5900,7.0,21.0,21200,12,Home,4.58,Rent,0
+24,Female,Master,Married,2,37900.0,617.0,19100,1.0,40.0,1000,36,Education,7.07,Rent,0
+69,Female,Master,Divorced,0,54300.0,650.0,36600,3.0,4.0,46700,36,Home,13.63,Own,1
+21,Male,PhD,Single,0,87900.0,598.0,20700,3.0,5.0,32900,36,Education,4.8,Mortgage,0
+25,Male,Bachelor,Married,1,54700.0,,8600,4.0,131.0,26000,24,Car,11.17,Own,0
+37,Male,Master,Married,3,68700.0,533.0,42000,4.0,58.0,16700,12,Education,4.09,Rent,0
+46,Male,Master,Divorced,0,97700.0,754.0,10300,2.0,,12200,36,Car,6.24,Rent,0
+68,Female,Bachelor,Married,4,,626.0,22800,5.0,19.0,22600,36,Car,3.9,Rent,0
+62,Female,Bachelor,Single,4,69100.0,607.0,13300,4.0,23.0,28600,36,Car,15.02,Own,0
+63,Female,PhD,Married,0,114300.0,600.0,29700,4.0,4.0,22200,60,Education,11.37,Mortgage,0
+27,Male,Bachelor,Single,1,62900.0,795.0,11600,4.0,65.0,31400,24,Personal,10.6,Rent,0
+60,Female,Bachelor,Divorced,1,,522.0,17900,7.0,9.0,47300,48,Medical,10.45,Mortgage,1
+51,Female,High School,Married,2,30000.0,607.0,19800,,78.0,12100,12,Car,6.08,Own,0
+43,Female,High School,Married,3,24400.0,547.0,4700,1.0,90.0,27800,24,Personal,8.61,Own,1
+58,Female,Master,Married,1,85100.0,505.0,67700,3.0,49.0,45900,36,Personal,5.36,Own,0
+66,Male,Bachelor,Married,2,44500.0,754.0,14600,3.0,,21300,48,Home,16.58,Own,0
+20,Female,Bachelor,Single,4,20500.0,,15300,4.0,9.0,23300,60,Home,5.13,Own,1
+23,Male,High School,Married,4,15000.0,557.0,3500,6.0,41.0,30500,48,Home,5.92,Mortgage,1
+22,Male,Bachelor,Married,4,61800.0,716.0,14300,6.0,54.0,33100,12,Car,13.31,Own,0
+22,Male,Bachelor,Married,0,49200.0,618.0,24400,5.0,52.0,37600,48,Car,8.19,Own,0
+64,Female,High School,Married,3,52600.0,,7100,2.0,6.0,26300,48,Education,10.31,Own,0
+40,Female,Master,Married,2,66500.0,696.0,43900,4.0,20.0,15500,36,Personal,8.26,Mortgage,0
+66,Female,High School,Single,3,53700.0,616.0,21900,7.0,19.0,31700,60,Home,6.43,Rent,0
+26,Female,Bachelor,Married,0,37200.0,573.0,21900,5.0,41.0,13400,12,Car,6.43,Rent,0
+52,Male,Bachelor,Single,2,76500.0,706.0,17000,5.0,70.0,29000,48,Car,11.09,Mortgage,0
+37,Male,Bachelor,Married,2,87300.0,639.0,48000,7.0,41.0,25900,36,Personal,9.18,Rent,1
+66,Male,Master,Single,1,87400.0,710.0,45100,2.0,67.0,25600,48,Home,12.11,Own,0
+59,Male,Master,Single,3,104700.0,618.0,65900,5.0,5.0,24000,48,Home,12.07,Mortgage,0
+52,Male,Master,Single,3,81400.0,732.0,25100,7.0,101.0,37000,36,Home,10.23,Rent,0
+67,Male,High School,Married,1,38100.0,651.0,28700,3.0,37.0,32400,60,Education,11.64,Rent,1
+35,Male,High School,Married,4,35700.0,735.0,27600,2.0,2.0,33300,24,Car,10.11,Mortgage,1
+34,Female,Bachelor,Single,0,50200.0,732.0,35500,2.0,49.0,19400,24,Personal,9.64,Own,0
+41,Male,Bachelor,Single,3,34900.0,,17500,0.0,35.0,5300,60,Car,7.53,Own,0
+20,Female,Master,Divorced,1,50600.0,655.0,19900,2.0,12.0,20200,24,Home,3.42,Mortgage,0
+49,Female,Master,Single,2,63800.0,681.0,9000,2.0,69.0,30200,36,Car,6.6,Rent,0
+52,Male,Master,Divorced,1,81900.0,632.0,62500,7.0,130.0,25400,48,Personal,12.84,Rent,0
+55,Male,PhD,Single,4,76000.0,578.0,58200,1.0,19.0,19800,48,Car,9.37,Mortgage,0
+30,Male,Master,Married,0,57500.0,810.0,6500,3.0,33.0,27700,60,Personal,7.29,Own,0
+64,Male,Bachelor,Single,4,41100.0,590.0,14400,4.0,7.0,21800,48,Car,12.11,Own,1
+42,Female,Bachelor,Divorced,2,22100.0,722.0,15800,7.0,128.0,25600,48,Car,7.16,Own,1
+26,Male,Bachelor,Married,2,53900.0,708.0,8400,,18.0,1100,60,Personal,10.62,Mortgage,0
+21,Male,High School,Married,2,22900.0,664.0,5400,2.0,10.0,34200,36,Home,12.49,Rent,1
+31,Male,High School,Single,2,27300.0,638.0,21400,1.0,31.0,32400,36,Home,10.32,Mortgage,1
+54,Female,Bachelor,Married,1,,638.0,40900,1.0,2.0,50300,48,Home,11.69,Own,1
+51,Female,Master,Married,2,96700.0,597.0,71400,7.0,14.0,16500,24,Home,9.92,Rent,1
+28,Female,High School,Single,2,21800.0,658.0,4300,5.0,3.0,19000,12,Car,3.0,Rent,0
+58,Male,Master,Single,1,71800.0,555.0,17800,4.0,7.0,27100,48,Car,12.43,Own,1
+20,Female,Master,Married,2,86400.0,710.0,45300,4.0,6.0,24600,60,Car,10.91,Mortgage,0
+45,Female,Bachelor,Single,4,82300.0,632.0,37100,6.0,99.0,44000,36,Education,7.59,Rent,0
+46,Female,High School,Married,4,37900.0,573.0,11700,3.0,128.0,20100,24,Education,6.74,Rent,0
+26,Female,High School,Married,3,29200.0,548.0,21000,6.0,31.0,23200,36,Home,8.87,Own,1
+20,Male,Master,Divorced,4,56900.0,639.0,41600,5.0,48.0,18300,36,Medical,4.9,Mortgage,0
+42,Female,Master,Divorced,0,57400.0,642.0,17500,2.0,57.0,43300,36,Car,11.33,Own,0
+51,Female,Master,Divorced,0,75500.0,609.0,15800,1.0,,30800,36,Personal,8.05,Mortgage,0
+29,Male,Bachelor,Single,0,71900.0,690.0,14700,0.0,22.0,43900,24,Education,5.8,Mortgage,0
+59,Male,High School,Divorced,1,37300.0,678.0,16400,3.0,54.0,60000,36,Education,10.49,Own,0
+26,Female,High School,Single,4,34000.0,655.0,6600,7.0,23.0,15800,60,Medical,9.92,Own,0
+32,Male,Master,Married,0,62000.0,576.0,26700,2.0,42.0,37900,48,Car,10.95,Mortgage,0
+57,Female,High School,Married,3,42600.0,591.0,18000,5.0,35.0,21900,12,Car,4.65,Own,0
+42,Female,Bachelor,Single,1,41300.0,538.0,29700,4.0,36.0,16700,36,Education,10.71,Mortgage,0
+22,Female,Bachelor,Divorced,3,56700.0,635.0,17400,5.0,85.0,7400,12,Car,13.86,Rent,0
+28,Male,High School,Single,4,40700.0,695.0,20000,2.0,58.0,50500,60,Car,8.37,Rent,1
+51,Female,High School,Married,2,47100.0,553.0,29200,5.0,155.0,37000,24,Car,8.18,Own,0
+41,Male,Bachelor,Married,3,58400.0,605.0,30200,4.0,75.0,22300,60,Car,4.33,Own,0
+32,Male,Bachelor,Married,2,49600.0,646.0,38100,2.0,8.0,32500,48,Medical,8.75,Own,0
+55,Male,High School,Single,1,19800.0,695.0,10300,0.0,64.0,3300,36,Home,5.43,Own,0
+25,Female,Master,Married,3,100700.0,532.0,73600,6.0,53.0,23900,36,Home,12.0,Own,1
+22,Male,Master,Married,3,77800.0,828.0,21100,3.0,50.0,15900,60,Personal,15.78,Rent,0
+65,Female,Bachelor,Single,1,43100.0,710.0,21200,5.0,31.0,42300,24,Home,15.86,Rent,1
+43,Female,Master,Married,1,52000.0,602.0,25000,4.0,3.0,43200,24,Car,5.93,Own,1
+35,Female,Bachelor,Single,0,68700.0,564.0,54500,0.0,145.0,35700,24,Personal,6.29,Own,0
+23,Female,Bachelor,Married,4,46100.0,673.0,11200,1.0,92.0,36400,36,Home,10.32,Rent,0
+54,Male,Master,Divorced,3,71700.0,688.0,14200,0.0,32.0,17200,36,Personal,7.81,Mortgage,0
+65,Female,Master,Married,3,43500.0,571.0,23000,0.0,8.0,33600,60,Home,8.54,Rent,1
+30,Male,Master,Married,1,40300.0,561.0,10300,0.0,84.0,8400,24,Home,15.86,Mortgage,0
+45,Female,High School,Married,1,30500.0,579.0,16700,7.0,27.0,6800,48,Home,5.25,Own,0
+22,Male,High School,Married,4,44300.0,655.0,34600,4.0,24.0,23700,12,Education,9.3,Own,0
+30,Male,Master,Single,1,66200.0,656.0,50500,7.0,53.0,31400,36,Personal,9.64,Own,0
+34,Female,Bachelor,Single,2,45900.0,823.0,12000,1.0,68.0,32200,24,Personal,11.65,Own,0
+67,Male,Bachelor,Married,2,,477.0,8300,3.0,3.0,9900,60,Medical,5.91,Mortgage,1
+57,Male,Master,Married,2,75600.0,596.0,37200,0.0,70.0,6400,12,Home,12.95,Rent,1
+62,Female,Master,Married,2,53100.0,608.0,27100,4.0,64.0,19600,48,Personal,9.29,Rent,1
+49,Female,Master,Single,4,104500.0,689.0,58900,4.0,43.0,14500,24,Personal,6.01,Own,0
+46,Female,Bachelor,Married,3,46600.0,692.0,28800,3.0,20.0,32300,48,Car,7.96,Mortgage,1
+68,Male,Master,Single,2,70900.0,634.0,36900,6.0,9.0,12800,36,Personal,11.51,Mortgage,0
+20,Female,High School,Divorced,1,29400.0,771.0,5200,2.0,5.0,48300,24,Personal,14.75,Rent,1
+57,Male,High School,Married,2,48500.0,561.0,31700,1.0,0.0,29300,48,Medical,7.45,Mortgage,1
+51,Female,Bachelor,Single,4,62200.0,594.0,9700,1.0,11.0,23200,24,Home,14.85,Mortgage,1
+57,Female,High School,Single,1,26300.0,545.0,3000,5.0,25.0,11200,36,Personal,12.23,Own,1
+44,Female,Bachelor,Divorced,2,31100.0,638.0,19900,0.0,13.0,9100,24,Home,6.97,Own,0
+30,Male,Bachelor,Single,3,68500.0,623.0,33100,2.0,18.0,21100,48,Medical,10.31,Own,0
+62,Male,Bachelor,Married,1,85800.0,713.0,50500,6.0,,18100,36,Home,11.12,Rent,1
+50,Male,High School,Single,1,46300.0,798.0,17000,1.0,18.0,4200,24,Personal,7.78,Own,0
+23,Male,Bachelor,Divorced,3,47700.0,769.0,5100,6.0,62.0,41500,48,Car,6.57,Mortgage,0
+41,Male,Bachelor,Divorced,1,37600.0,552.0,12500,5.0,32.0,11700,24,Education,8.1,Rent,0
+36,Female,Bachelor,Married,2,,654.0,29400,0.0,1.0,29200,36,Home,7.34,Mortgage,0
+33,Male,Master,Single,1,50000.0,712.0,12900,2.0,12.0,30300,36,Education,9.33,Rent,1
+57,Female,Master,Single,2,41300.0,703.0,24000,4.0,,5600,60,Personal,15.05,Mortgage,0
+45,Male,Bachelor,Married,3,65400.0,835.0,42900,0.0,17.0,20400,24,Personal,9.88,Rent,0
+50,Female,Master,Married,0,71200.0,632.0,29800,2.0,121.0,8100,48,Home,13.93,Mortgage,0
+65,Female,High School,Single,3,45400.0,656.0,32400,3.0,60.0,29900,36,Car,10.21,Mortgage,1
+58,Male,Bachelor,Single,2,56400.0,,39400,1.0,16.0,25800,36,Car,17.18,Rent,1
+30,Male,Master,Married,4,96900.0,684.0,69200,6.0,35.0,24100,36,Education,6.06,Rent,0
+60,Female,Bachelor,Married,3,39800.0,602.0,22400,0.0,53.0,15200,24,Personal,3.0,Mortgage,0
+62,Male,PhD,Single,4,81100.0,572.0,25400,5.0,10.0,39200,36,Personal,9.32,Rent,1
+42,Female,Bachelor,Single,4,51300.0,667.0,22400,4.0,14.0,20500,48,Car,9.7,Mortgage,1
+59,Female,Master,Divorced,2,69900.0,735.0,41800,5.0,34.0,7300,36,Car,13.23,Rent,0
+53,Female,Bachelor,Married,2,67700.0,734.0,16700,6.0,124.0,13700,12,Medical,14.21,Mortgage,0
+44,Male,Bachelor,Married,0,43900.0,580.0,27100,0.0,20.0,1000,24,Home,3.82,Mortgage,1
+55,Female,Bachelor,Married,1,64800.0,658.0,31300,1.0,25.0,17100,36,Home,7.98,Rent,1
+24,Female,Master,Single,3,51000.0,,8500,1.0,10.0,14100,36,Home,8.92,Rent,0
+22,Female,Bachelor,Single,2,39500.0,638.0,19400,2.0,43.0,33300,12,Home,5.04,Rent,0
+60,Male,PhD,Single,3,46100.0,722.0,6800,5.0,65.0,31900,36,Car,8.08,Own,0
+62,Female,Bachelor,Married,4,56800.0,646.0,6200,5.0,28.0,27600,48,Personal,11.77,Mortgage,0
+68,Male,High School,Married,1,43600.0,702.0,31500,4.0,67.0,36400,12,Home,11.99,Own,1
+48,Female,Bachelor,Single,0,45000.0,705.0,19900,6.0,17.0,10900,48,Personal,9.62,Rent,0
+40,Male,Bachelor,Divorced,3,35500.0,601.0,17100,2.0,59.0,28800,60,Education,13.59,Rent,1
+59,Female,Master,Single,1,46900.0,748.0,13900,4.0,14.0,7700,12,Medical,9.55,Own,0
+27,Male,Bachelor,Divorced,0,45400.0,562.0,21800,7.0,73.0,19300,24,Home,12.34,Mortgage,1
+49,Female,Bachelor,Divorced,3,64800.0,549.0,14100,0.0,85.0,29100,36,Home,5.98,Own,0
+60,Female,Bachelor,Single,1,27300.0,612.0,17000,0.0,77.0,18600,24,Home,6.18,Mortgage,1
+47,Female,Bachelor,Single,2,74100.0,,50100,7.0,12.0,44600,48,Medical,14.73,Own,1
+56,Male,Master,Married,3,,698.0,28900,5.0,57.0,20800,36,Personal,7.04,Own,1
+48,Male,High School,Married,1,60100.0,850.0,10500,6.0,37.0,34600,24,Personal,11.54,Rent,0
+35,Female,Bachelor,Married,0,73000.0,740.0,35800,2.0,205.0,21800,12,Car,6.92,Own,0
+53,Male,PhD,Divorced,1,73500.0,585.0,49000,7.0,22.0,26600,24,Education,9.67,Rent,1
+19,Female,Master,Married,2,50800.0,570.0,9600,6.0,71.0,20600,24,Education,8.09,Own,0
+31,Female,Bachelor,Single,3,39700.0,728.0,6700,3.0,22.0,27100,36,Car,10.65,Rent,0
+30,Female,Bachelor,Single,3,67500.0,555.0,45400,1.0,24.0,45700,24,Car,10.63,Rent,1
+46,Male,Bachelor,Married,3,30400.0,,20000,7.0,6.0,43500,36,Personal,6.52,Rent,1
+29,Female,Bachelor,Single,2,68200.0,680.0,28200,6.0,13.0,19200,24,Car,10.75,Mortgage,0
+56,Female,Master,Married,0,81400.0,607.0,14400,2.0,9.0,22300,48,Personal,5.07,Mortgage,1
+19,Male,Bachelor,Single,3,30000.0,660.0,13800,7.0,8.0,25600,24,Car,13.68,Rent,1
+49,Female,Bachelor,Single,0,78400.0,624.0,29500,6.0,0.0,32700,24,Car,9.58,Own,0
+30,Male,High School,Single,1,33700.0,648.0,15600,7.0,76.0,47300,12,Education,3.0,Rent,1
+63,Male,Bachelor,Married,0,22000.0,720.0,9000,2.0,30.0,40400,48,Home,4.57,Mortgage,1
+44,Male,High School,Single,0,30500.0,700.0,15200,0.0,78.0,21800,36,Personal,10.55,Rent,0
+66,Male,High School,Married,3,58500.0,723.0,35600,1.0,46.0,29800,24,Personal,11.38,Own,1
+58,Female,Bachelor,Married,4,62800.0,701.0,40300,6.0,85.0,27700,24,Medical,7.33,Rent,0
+34,Male,High School,Married,4,41200.0,707.0,22800,6.0,34.0,17700,60,Personal,8.97,Mortgage,0
+57,Male,High School,Married,2,53600.0,650.0,12800,6.0,5.0,37200,48,Home,10.68,Rent,1
+48,Male,Bachelor,Single,2,38900.0,534.0,14700,7.0,46.0,1000,36,Car,12.43,Rent,1
+51,Female,High School,Married,4,53400.0,641.0,8000,2.0,54.0,37100,36,Personal,11.22,Own,0
+41,Female,High School,Single,1,,675.0,17500,7.0,47.0,29900,36,Car,6.82,Rent,0
+62,Male,Bachelor,Married,3,54000.0,656.0,42100,6.0,78.0,3300,12,Home,12.59,Own,0
+52,Male,High School,Single,3,24300.0,684.0,13300,0.0,63.0,12500,48,Home,3.0,Own,0
+65,Female,Bachelor,Married,1,63700.0,815.0,13300,0.0,27.0,1000,48,Car,7.66,Mortgage,0
+23,Male,High School,Divorced,1,27700.0,610.0,8000,5.0,82.0,45400,36,Medical,10.36,Own,0
+36,Male,Master,Married,4,44000.0,618.0,6400,7.0,56.0,13100,48,Home,4.88,Mortgage,0
+47,Male,Master,Married,2,55200.0,747.0,12600,5.0,6.0,35900,36,Car,8.66,Rent,1
+24,Female,Master,Married,1,69300.0,660.0,30600,2.0,37.0,36400,12,Home,10.16,Rent,0
+27,Male,Bachelor,Single,2,69500.0,686.0,23700,2.0,63.0,23600,24,Education,6.17,Rent,0
+58,Male,Master,Divorced,0,81700.0,603.0,19800,,39.0,17000,36,Personal,9.07,Rent,0
+49,Male,Bachelor,Single,3,66000.0,591.0,13400,5.0,143.0,31200,24,Education,4.83,Mortgage,0
+51,Female,High School,Divorced,4,33200.0,553.0,18600,6.0,5.0,27600,36,Car,11.52,Own,0
+45,Male,Bachelor,Married,3,47800.0,,23500,6.0,62.0,36200,24,Home,10.1,Mortgage,0
+32,Female,Master,Married,4,55600.0,572.0,38400,7.0,,10900,24,Home,10.72,Rent,1
+47,Male,Bachelor,Married,0,63400.0,562.0,14500,2.0,,37300,60,Home,8.29,Mortgage,0
+54,Male,High School,Married,3,28000.0,703.0,19400,1.0,23.0,41200,60,Personal,3.5,Own,1
+46,Female,Master,Married,0,64500.0,599.0,32500,0.0,23.0,21900,36,Home,8.1,Mortgage,0
+39,Male,Master,Single,4,52400.0,554.0,15000,0.0,42.0,13500,36,Car,13.68,Own,1
+21,Female,High School,Married,1,31800.0,546.0,9300,2.0,24.0,19200,48,Personal,11.55,Mortgage,0
+37,Female,Bachelor,Married,3,70800.0,723.0,26400,2.0,103.0,17300,48,Personal,13.74,Mortgage,0
+49,Female,High School,Divorced,0,999876.0,641.0,10300,2.0,6.0,22800,24,Education,8.67,Rent,1
+53,Male,Master,Married,3,62800.0,618.0,9900,7.0,49.0,16100,36,Education,6.42,Mortgage,0
+67,Female,Bachelor,Single,3,36200.0,664.0,25000,6.0,7.0,30500,36,Home,10.26,Own,1
+21,Male,Bachelor,Single,3,46600.0,656.0,8600,6.0,37.0,32600,36,Home,7.92,Mortgage,0
+44,Female,Master,Married,2,80600.0,608.0,35300,7.0,60.0,20700,24,Education,6.83,Mortgage,0
+34,Female,Bachelor,Single,0,42900.0,623.0,15800,1.0,9.0,1500,48,Car,3.3,Own,0
+29,Female,Bachelor,Single,0,79900.0,708.0,36600,7.0,58.0,30300,24,Home,9.5,Rent,0
+39,Male,Bachelor,Married,3,58000.0,716.0,41800,0.0,,7300,24,Personal,11.31,Mortgage,1
+34,Female,Bachelor,Married,1,56900.0,583.0,45100,3.0,47.0,28000,24,Medical,5.01,Rent,0
+27,Male,Bachelor,Married,3,45000.0,752.0,5100,7.0,34.0,25900,24,Car,12.97,Rent,0
+18,Female,High School,Single,2,44400.0,811.0,16700,1.0,17.0,21100,48,Home,9.25,Own,0
+39,Male,Bachelor,Married,4,84900.0,627.0,57100,1.0,6.0,32700,36,Education,8.83,Own,1
+43,Male,High School,Single,2,28300.0,625.0,9300,6.0,64.0,29400,48,Car,4.84,Mortgage,1
+35,Female,Bachelor,Married,1,48500.0,578.0,26900,7.0,23.0,29700,36,Car,10.08,Own,0
+67,Female,PhD,Single,3,,597.0,65200,5.0,4.0,34900,36,Personal,5.04,Mortgage,1
+31,Male,PhD,Divorced,0,54800.0,676.0,30300,0.0,71.0,20000,36,Car,5.64,Own,0
+64,Female,Bachelor,Married,3,52000.0,835.0,9200,6.0,13.0,19900,36,Home,3.48,Rent,0
+46,Male,Bachelor,Married,1,42800.0,708.0,29500,3.0,64.0,37900,36,Education,16.6,Own,1
+29,Male,Bachelor,Married,0,38700.0,623.0,30100,0.0,40.0,32700,36,Personal,8.36,Mortgage,0
+53,Male,Master,Married,2,26400.0,616.0,15800,1.0,10.0,19400,60,Personal,6.67,Own,1
+52,Male,High School,Single,4,,597.0,12500,2.0,4.0,1000,60,Personal,8.37,Rent,1
+69,Male,PhD,Married,4,64000.0,735.0,48900,0.0,43.0,29700,24,Car,6.99,Mortgage,1
+29,Female,Bachelor,Single,3,73900.0,631.0,57500,7.0,1.0,30800,12,Personal,7.96,Mortgage,1
+24,Male,PhD,Divorced,2,97800.0,686.0,73800,0.0,3.0,10500,48,Personal,9.62,Mortgage,1
+46,Male,Master,Married,1,72700.0,631.0,28200,2.0,58.0,14800,12,Education,7.28,Mortgage,1
+28,Female,Master,Single,4,63600.0,819.0,41500,,37.0,20100,12,Car,8.87,Mortgage,0
+50,Male,Bachelor,Married,2,53600.0,607.0,29900,3.0,19.0,30400,24,Personal,15.5,Mortgage,1
+23,Male,High School,Married,3,15000.0,594.0,3400,0.0,37.0,54800,36,Personal,3.0,Rent,1
+64,Female,Bachelor,Single,0,39100.0,611.0,18600,6.0,43.0,38400,36,Personal,5.08,Rent,0
+32,Female,Bachelor,Divorced,3,61800.0,684.0,38500,7.0,40.0,6900,36,Car,9.98,Own,0
+49,Female,High School,Married,3,33700.0,765.0,24500,2.0,49.0,19800,60,Personal,12.61,Mortgage,1
+68,Female,Bachelor,Married,2,42400.0,684.0,29800,5.0,135.0,23900,36,Education,17.48,Own,1
+28,Female,Bachelor,Married,4,71500.0,707.0,14900,0.0,24.0,31000,24,Car,9.74,Mortgage,0
+40,Male,Bachelor,Single,2,32000.0,695.0,14100,2.0,17.0,15300,36,Personal,4.84,Rent,1
+43,Female,Bachelor,Divorced,0,77800.0,,33800,1.0,2.0,32000,24,Personal,13.02,Mortgage,1
+51,Male,High School,Single,2,49700.0,649.0,36200,5.0,8.0,18800,60,Medical,8.87,Own,0
+63,Female,PhD,Single,1,68800.0,625.0,7000,2.0,5.0,32000,24,Personal,8.76,Mortgage,1
+51,Male,High School,Married,3,45500.0,639.0,28100,6.0,20.0,25900,60,Medical,3.0,Rent,1
+46,Female,Bachelor,Married,4,38700.0,584.0,20600,0.0,45.0,49500,36,Car,12.01,Mortgage,1
+21,Male,Bachelor,Married,0,66900.0,719.0,49800,4.0,2.0,36700,48,Personal,5.74,Own,0
+34,Female,Master,Single,3,65500.0,654.0,27500,3.0,62.0,40800,36,Personal,10.2,Own,0
+52,Male,High School,Single,2,,653.0,22000,0.0,,12300,60,Car,8.7,Rent,0
+30,Female,Bachelor,Single,1,42500.0,,33200,2.0,159.0,18600,36,Car,9.1,Rent,0
+58,Female,Bachelor,Divorced,2,49400.0,600.0,30700,7.0,40.0,28900,36,Car,8.66,Rent,0
+56,Male,High School,Single,3,23900.0,507.0,3500,5.0,71.0,10200,48,Personal,6.24,Mortgage,1
+32,Female,Bachelor,Married,0,44800.0,672.0,9700,5.0,95.0,37500,48,Personal,5.98,Own,0
+46,Female,PhD,Married,4,88400.0,,59700,2.0,105.0,26600,60,Personal,11.34,Rent,0
+46,Female,PhD,Married,3,105900.0,693.0,35400,7.0,35.0,38200,24,Education,8.45,Own,0
+28,Male,High School,Divorced,0,40200.0,656.0,23900,3.0,,30800,24,Personal,6.54,Own,1
+69,Male,High School,Single,3,28900.0,564.0,17000,0.0,39.0,25500,12,Personal,6.96,Mortgage,1
+49,Male,Bachelor,Single,1,47500.0,586.0,37800,5.0,25.0,23500,36,Home,10.56,Rent,1
+19,Male,Bachelor,Married,2,66100.0,757.0,28400,5.0,13.0,15800,48,Medical,6.47,Mortgage,1
+64,Female,High School,Single,4,33900.0,676.0,20900,4.0,19.0,15100,12,Education,13.29,Mortgage,0
+31,Male,High School,Married,0,23900.0,714.0,3200,1.0,13.0,35700,36,Personal,8.03,Mortgage,0
+37,Female,PhD,Married,4,79000.0,724.0,33500,4.0,15.0,33000,48,Medical,7.45,Rent,0
+39,Male,Master,Divorced,4,82800.0,571.0,19100,1.0,5.0,39800,48,Personal,10.35,Mortgage,0
+28,Female,High School,Single,4,52100.0,623.0,35900,5.0,27.0,18500,36,Car,7.65,Rent,1
+44,Female,Bachelor,Divorced,0,44500.0,704.0,30600,,13.0,38500,24,Home,9.65,Rent,1
+20,Female,Bachelor,Single,0,33200.0,585.0,8800,0.0,29.0,22900,60,Personal,8.33,Own,1
+34,Male,High School,Married,4,41900.0,617.0,13500,5.0,75.0,32000,12,Car,3.29,Rent,0
+61,Male,Bachelor,Married,2,55400.0,608.0,32800,5.0,29.0,40500,48,Car,5.3,Mortgage,1
+45,Male,Bachelor,Married,3,36900.0,591.0,22800,7.0,148.0,49900,12,Car,9.38,Rent,1
+46,Male,Master,Married,4,52500.0,640.0,29400,1.0,8.0,37900,24,Home,7.15,Mortgage,1
+38,Male,Master,Divorced,1,50900.0,611.0,40600,2.0,91.0,27400,60,Personal,14.68,Own,1
+64,Male,Bachelor,Divorced,4,50100.0,618.0,35500,1.0,14.0,31700,48,Personal,6.14,Mortgage,0
+33,Male,Bachelor,Divorced,0,77900.0,671.0,30500,1.0,130.0,40000,36,Education,4.57,Own,0
+54,Female,Bachelor,Single,3,54600.0,730.0,18000,3.0,12.0,33500,36,Personal,8.62,Mortgage,0
+37,Male,Bachelor,Divorced,1,28300.0,711.0,14700,3.0,66.0,20200,36,Car,9.25,Mortgage,0
+23,Male,Bachelor,Married,3,57000.0,664.0,38300,0.0,3.0,32400,12,Car,11.15,Own,0
+36,Male,High School,Single,3,31900.0,781.0,13800,0.0,48.0,40600,48,Personal,3.0,Rent,0
+22,Female,High School,Single,1,43700.0,703.0,26900,2.0,12.0,46700,48,Car,13.02,Mortgage,1
+20,Female,Bachelor,Single,4,36300.0,714.0,4100,3.0,53.0,25700,60,Home,4.57,Rent,0
+18,Female,PhD,Single,4,87600.0,637.0,65500,4.0,48.0,11600,36,Personal,11.77,Own,0
+55,Female,High School,Married,4,28400.0,619.0,18200,0.0,124.0,3600,48,Car,14.37,Mortgage,1
+32,Male,Bachelor,Divorced,2,70200.0,680.0,26400,0.0,47.0,34500,36,Home,10.74,Rent,0
+51,Female,Bachelor,Married,4,49300.0,722.0,18200,3.0,25.0,6600,36,Home,5.06,Own,0
+52,Male,Bachelor,Married,1,,664.0,11100,3.0,10.0,28800,36,Personal,7.92,Own,0
+66,Male,High School,Divorced,2,27000.0,599.0,18100,2.0,51.0,37900,60,Education,10.77,Rent,1
+42,Female,PhD,Single,4,87200.0,547.0,55600,7.0,6.0,23000,24,Home,8.6,Own,1
+41,Female,Master,Divorced,2,56700.0,523.0,30700,3.0,85.0,7000,24,Personal,5.35,Mortgage,0
+29,Male,Bachelor,Married,1,46000.0,653.0,7900,7.0,14.0,9900,36,Personal,8.8,Mortgage,0
+35,Female,Bachelor,Married,4,18800.0,715.0,5300,6.0,36.0,14000,24,Education,6.95,Rent,0
+32,Female,High School,Single,0,49600.0,466.0,20900,1.0,43.0,23500,60,Home,10.31,Rent,1
+61,Male,Bachelor,Married,1,61000.0,601.0,17500,5.0,22.0,39400,12,Car,5.31,Mortgage,1
+33,Male,Master,Single,3,102800.0,588.0,41500,4.0,52.0,25100,48,Home,3.0,Mortgage,0
+44,Male,High School,Married,3,,680.0,11100,5.0,14.0,50800,36,Medical,5.45,Rent,0
+25,Male,Bachelor,Single,1,42700.0,597.0,14700,1.0,2.0,37500,12,Education,3.38,Mortgage,1
+63,Male,Bachelor,Divorced,3,64100.0,552.0,35700,6.0,154.0,28500,48,Car,6.62,Rent,0
+42,Male,Bachelor,Married,1,28800.0,601.0,20900,6.0,19.0,24100,36,Medical,10.51,Rent,1
+34,Male,PhD,Single,0,79100.0,589.0,29200,1.0,60.0,19000,12,Education,7.32,Own,0
+46,Female,High School,Married,1,53100.0,651.0,31000,5.0,34.0,26800,24,Personal,8.43,Rent,0
+25,Female,Master,Single,4,71100.0,633.0,13800,1.0,53.0,31500,36,Education,5.48,Rent,0
+32,Female,Bachelor,Married,4,53900.0,685.0,25800,0.0,6.0,28900,36,Education,8.56,Mortgage,1
+44,Male,Master,Divorced,2,56400.0,649.0,42000,6.0,35.0,19000,36,Personal,5.63,Mortgage,1
+63,Female,Bachelor,Married,3,73400.0,731.0,8800,5.0,24.0,12600,36,Home,4.93,Mortgage,0
+67,Female,Bachelor,Single,3,15000.0,614.0,4300,7.0,29.0,47400,36,Home,7.82,Own,1
+69,Female,Master,Married,1,66900.0,700.0,12900,1.0,163.0,32600,36,Personal,6.47,Rent,0
+24,Male,Bachelor,Married,3,70000.0,675.0,33100,7.0,7.0,29300,36,Car,3.0,Own,0
+20,Female,Bachelor,Married,4,53900.0,626.0,31000,0.0,67.0,31100,12,Car,8.26,Own,1
